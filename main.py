@@ -7,7 +7,7 @@ main.py — نقطة الدخول لمشروع Neural Digest.
   concept  💡 مفهوم اليوم (مصطلح مستخرج من سياق ورقة/خبر + بطاقة)
   digest   منشور مجمّع (ورقة + خبر + مفهوم)
   weekly   📊 ملخص أسبوعي + استفتاء Quiz
-  auto     يختار الوضع حسب الوقت المحلي (Asia/Damascus)
+  auto     يختار الوضع حسب الوقت المحلي (Asia/Amman)
   test     يشغّل كل الأوضاع في وضع dry-run
 
 الاستخدام:
@@ -272,7 +272,7 @@ async def run_test(store):
 
 def resolve_auto_mode(now: datetime = None) -> str:
     """
-    اختيار الوضع حسب الوقت المحلي (Asia/Damascus):
+    اختيار الوضع حسب الوقت المحلي (Asia/Amman):
       - الجمعة مساءً (بعد 6م) → weekly
       - قبل 12 ظهراً        → paper
       - 12 حتى 6 مساءً      → news
