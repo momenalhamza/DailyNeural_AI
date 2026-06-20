@@ -1,5 +1,12 @@
 {
-  "papers": [],
+  "papers": [
+    "2606.20560"
+  ],
   "news": [],
-  "history": []
+  "history": [
+    {
+      "kind": "paper",
+      "title": "How Transparent is DiffusionGemma?"
+    }
+  ]
 }
