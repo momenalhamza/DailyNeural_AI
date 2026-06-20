@@ -7,6 +7,10 @@
     {
       "kind": "paper",
       "title": "How Transparent is DiffusionGemma?"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
