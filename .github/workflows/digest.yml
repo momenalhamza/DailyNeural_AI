@@ -1,0 +1,64 @@
+name: Neural Digest
+
+on:
+  schedule:
+    # المواعيد بتوقيت UTC. التوقيت المحلي = Asia/Damascus (UTC+3).
+    - cron: "0 6 * * *"   # 09:00 صباحاً بتوقيت دمشق
+    - cron: "0 11 * * *"  # 02:00 ظهراً بتوقيت دمشق
+    - cron: "0 17 * * *"  # 08:00 مساءً بتوقيت دمشق
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "الوضع المطلوب تشغيله يدوياً"
+        required: false
+        default: "auto"
+        type: choice
+        options:
+          - auto
+          - paper
+          - news
+          - concept
+          - digest
+          - weekly
+          - test
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Neural Digest bot
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+        run: |
+          python main.py --mode "${{ github.event.inputs.mode || 'auto' }}"
+
+      - name: Commit updated store
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/store.json
+          if git diff --staged --quiet; then
+            echo "لا تغييرات في data/store.json — لا حاجة للـ commit."
+          else
+            git commit -m "chore: update dedup store [skip ci]"
+            git push
+          fi
