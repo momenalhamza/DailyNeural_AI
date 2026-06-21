@@ -2,7 +2,9 @@
   "papers": [
     "2606.20560"
   ],
-  "news": [],
+  "news": [
+    "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
+  ],
   "history": [
     {
       "kind": "paper",
@@ -11,6 +13,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "news",
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs"
     }
   ]
 }
