@@ -4,7 +4,8 @@
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-    "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/"
+    "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/"
   ],
   "history": [
     {
@@ -22,6 +23,10 @@
     {
       "kind": "news",
       "title": "Want to get a data center online quickly? Give it some flex."
+    },
+    {
+      "kind": "news",
+      "title": "Why do South Koreans love AI so much?"
     }
   ]
 }
