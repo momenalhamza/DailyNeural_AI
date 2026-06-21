@@ -5,6 +5,7 @@ main.py — نقطة الدخول لمشروع Neural Digest.
   paper    📄 ورقة اليوم (أحدث ورقة arXiv مشروحة + بطاقة)
   news     🔥 خبر اليوم (أهم خبر RSS مشروح + بطاقة)
   concept  💡 مفهوم اليوم (مصطلح مستخرج من سياق ورقة/خبر + بطاقة)
+  explain  🔬 شرح معمّق لورقة (6-8 جمل تشرح الفكرة بعمق + بطاقة)
   digest   منشور مجمّع (ورقة + خبر + مفهوم)
   weekly   📊 ملخص أسبوعي + استفتاء Quiz
   auto     يختار الوضع حسب الوقت المحلي (Asia/Amman)
@@ -24,6 +25,7 @@ import store as store_module
 from ai_processor import (
     explain_news,
     explain_paper,
+    explain_paper_deep,
     extract_concept,
     generate_quiz,
     generate_weekly_summary,
@@ -77,6 +79,25 @@ def build_paper_post(store):
         f"{_footer_block()}"
     )
     image_path = generate_card(paper["title"], label="Paper of the Day")
+    return text, image_path, paper
+
+
+def build_explain_post(store):
+    """يبني منشور شرح معمّق لأحدث ورقة. يُعيد (text, image_path, paper) أو (None, None, None)."""
+    paper = fetch_latest_paper(store)
+    if not paper:
+        return None, None, None
+
+    deep = explain_paper_deep(paper)
+    text = (
+        f"🔬 <b>شرح معمّق</b> | {arabic_date()}\n"
+        "━━━━━━━━━━━━━━━━━━\n\n"
+        f"📄 <b>{escape(paper['title'])}</b>\n\n"
+        f"{escape(deep)}\n\n"
+        f"🔗 <a href=\"{escape(paper['link'])}\">اقرأ الورقة على arXiv</a>"
+        f"{_footer_block()}"
+    )
+    image_path = generate_card(paper["title"], label="Deep Dive")
     return text, image_path, paper
 
 
@@ -185,6 +206,18 @@ async def run_paper(store, dry_run):
     return ok
 
 
+async def run_explain(store, dry_run):
+    text, image, paper = build_explain_post(store)
+    if not text:
+        print("[main] لا توجد ورقة جديدة للشرح المعمّق.")
+        return False
+    ok = await publish_post(text, image, dry_run=dry_run)
+    if ok and not dry_run and paper:
+        store_module.mark_seen(store, "papers", paper["id"])
+        store_module.add_history(store, {"kind": "explain", "title": paper["title"]})
+    return ok
+
+
 async def run_news(store, dry_run):
     text, image, news = build_news_post(store)
     if not text:
@@ -252,6 +285,7 @@ async def run_test(store):
     print("\n########## وضع الاختبار: تشغيل كل الأوضاع (dry-run) ##########\n")
     for label, fn in (
         ("paper", run_paper),
+        ("explain", run_explain),
         ("news", run_news),
         ("concept", run_concept),
         ("digest", run_digest),
@@ -270,26 +304,40 @@ async def run_test(store):
     print("\n########## انتهى الاختبار ##########\n")
 
 
+# جدول النشر اليومي: الساعة المحلية (Asia/Amman) → الوضع.
+# ثمانية منشورات يومياً بتدوير متنوّع (يعتمد بشكل أساسي على paper/explain/concept
+# لأنها متوفّرة دائماً، مع إدراج news انتهازياً).
+_AUTO_SCHEDULE = {
+    9: "paper",
+    11: "concept",
+    13: "news",
+    15: "explain",
+    17: "paper",
+    19: "concept",
+    21: "news",
+    23: "explain",
+}
+
+
 def resolve_auto_mode(now: datetime = None) -> str:
     """
-    اختيار الوضع حسب الوقت المحلي (Asia/Amman):
-      - الجمعة مساءً (بعد 6م) → weekly
-      - قبل 12 ظهراً        → paper
-      - 12 حتى 6 مساءً      → news
-      - بعد 6 مساءً         → concept
+    اختيار الوضع حسب الوقت المحلي (Asia/Amman) من جدول _AUTO_SCHEDULE.
+    الجمعة ليلاً (الساعة 22 فأكثر) → weekly.
+    لأي ساعة لا تطابق موعداً مجدولاً (تشغيل يدوي بوقت غريب) نختار آخر موعد مرّ،
+    وإلا paper كافتراضي آمن.
     weekday(): الاثنين=0 ... الجمعة=4 ... الأحد=6
     """
     now = now or datetime.now(config.TIMEZONE)
     hour = now.hour
-    is_friday = now.weekday() == 4
 
-    if is_friday and hour >= 18:
+    if now.weekday() == 4 and hour >= 22:
         return "weekly"
-    if hour < 12:
-        return "paper"
-    if hour < 18:
-        return "news"
-    return "concept"
+
+    chosen = "paper"
+    for h in sorted(_AUTO_SCHEDULE):
+        if hour >= h:
+            chosen = _AUTO_SCHEDULE[h]
+    return chosen
 
 
 # ---------------------------------------------------------------------------
@@ -309,6 +357,7 @@ async def dispatch(mode: str, dry_run: bool):
 
     handlers = {
         "paper": run_paper,
+        "explain": run_explain,
         "news": run_news,
         "concept": run_concept,
         "digest": run_digest,
@@ -320,7 +369,17 @@ async def dispatch(mode: str, dry_run: bool):
         return
 
     try:
-        await handler(store, dry_run=dry_run)
+        ok = await handler(store, dry_run=dry_run)
+        # ضمان نشر منشور في كل موعد: لو لم ينتج الوضع محتوى (مثلاً news بلا
+        # خبر جديد) نجرّب بدائل موثوقة. لا ينطبق على weekly.
+        if not ok and mode != "weekly":
+            for fallback in ("paper", "explain", "concept"):
+                if fallback == mode:
+                    continue
+                print(f"[main] الوضع {mode} لم ينتج محتوى — تجربة البديل: {fallback}")
+                ok = await handlers[fallback](store, dry_run=dry_run)
+                if ok:
+                    break
     except Exception as exc:
         print(f"[main] خطأ أثناء تنفيذ الوضع {mode}: {exc}")
 
@@ -334,7 +393,7 @@ def main():
     parser.add_argument(
         "--mode",
         default="auto",
-        choices=["paper", "news", "concept", "digest", "weekly", "auto", "test"],
+        choices=["paper", "explain", "news", "concept", "digest", "weekly", "auto", "test"],
         help="الوضع المطلوب تشغيله (افتراضي: auto)",
     )
     parser.add_argument(
