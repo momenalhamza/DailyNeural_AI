@@ -3,7 +3,8 @@
     "2606.20560",
     "2606.20559",
     "2606.20557",
-    "2606.20554"
+    "2606.20554",
+    "2606.20547"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -61,6 +62,10 @@
     {
       "kind": "news",
       "title": "Learning to lead in a hybrid human-AI enterprise"
+    },
+    {
+      "kind": "explain",
+      "title": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups"
     }
   ]
 }
