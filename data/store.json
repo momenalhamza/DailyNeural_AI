@@ -47,6 +47,10 @@
     {
       "kind": "paper",
       "title": "Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation"
+    },
+    {
+      "kind": "concept",
+      "title": "Lie-Algebra Attention"
     }
   ]
 }
