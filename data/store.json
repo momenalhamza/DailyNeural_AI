@@ -1,7 +1,8 @@
 {
   "papers": [
     "2606.20560",
-    "2606.20559"
+    "2606.20559",
+    "2606.20557"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -37,6 +38,10 @@
     {
       "kind": "news",
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact"
+    },
+    {
+      "kind": "explain",
+      "title": "Optimal Deterministic Multicalibration and Omniprediction"
     }
   ]
 }
