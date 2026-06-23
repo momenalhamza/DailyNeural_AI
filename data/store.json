@@ -71,6 +71,10 @@
     {
       "kind": "paper",
       "title": "Predictability as a Fine-Grained Measure for Privacy"
+    },
+    {
+      "kind": "concept",
+      "title": "teleoperation"
     }
   ]
 }
