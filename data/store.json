@@ -90,6 +90,10 @@
     {
       "kind": "paper",
       "title": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation"
+    },
+    {
+      "kind": "concept",
+      "title": "Vision Language Model"
     }
   ]
 }
