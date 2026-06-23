@@ -7,7 +7,8 @@
     "2606.20547",
     "2606.20546",
     "2606.23689",
-    "2606.23680"
+    "2606.23680",
+    "2606.23679"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -104,6 +105,10 @@
     {
       "kind": "news",
       "title": "The Meta hack shows there’s more to AI security than Mythos"
+    },
+    {
+      "kind": "paper",
+      "title": "Semantic Browsing: Controllable Diversity for Image Generation"
     }
   ]
 }
