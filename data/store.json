@@ -5,7 +5,8 @@
     "2606.20557",
     "2606.20554",
     "2606.20547",
-    "2606.20546"
+    "2606.20546",
+    "2606.23689"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -80,6 +81,10 @@
     {
       "kind": "news",
       "title": "The $400 million machine powering the future of chipmaking"
+    },
+    {
+      "kind": "explain",
+      "title": "AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection"
     }
   ]
 }
