@@ -17,7 +17,8 @@
     "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
     "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
     "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-    "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/"
+    "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+    "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/"
   ],
   "history": [
     {
@@ -99,6 +100,10 @@
     {
       "kind": "news",
       "title": "Five things you need to know about AI"
+    },
+    {
+      "kind": "news",
+      "title": "The Meta hack shows there’s more to AI security than Mythos"
     }
   ]
 }
