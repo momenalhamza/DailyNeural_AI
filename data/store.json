@@ -127,6 +127,10 @@
     {
       "kind": "paper",
       "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
