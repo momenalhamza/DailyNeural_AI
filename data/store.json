@@ -19,7 +19,8 @@
     "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
     "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
     "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-    "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/"
+    "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/"
   ],
   "history": [
     {
@@ -113,6 +114,10 @@
     {
       "kind": "concept",
       "title": "VLAs"
+    },
+    {
+      "kind": "news",
+      "title": "How courts are coping with a flood of AI-generated lawsuits"
     }
   ]
 }
