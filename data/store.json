@@ -118,6 +118,10 @@
     {
       "kind": "news",
       "title": "How courts are coping with a flood of AI-generated lawsuits"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
