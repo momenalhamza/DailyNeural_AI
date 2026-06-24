@@ -109,6 +109,10 @@
     {
       "kind": "paper",
       "title": "Semantic Browsing: Controllable Diversity for Image Generation"
+    },
+    {
+      "kind": "concept",
+      "title": "VLAs"
     }
   ]
 }
