@@ -21,7 +21,8 @@
     "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
     "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
     "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-    "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/"
+    "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
   ],
   "history": [
     {
@@ -131,6 +132,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "news",
+      "title": "The emergence of the web data infrastructure layer for AI"
     }
   ]
 }
