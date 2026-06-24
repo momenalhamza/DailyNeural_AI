@@ -9,7 +9,8 @@
     "2606.23689",
     "2606.23680",
     "2606.23679",
-    "2606.24884"
+    "2606.24884",
+    "2606.24879"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -141,6 +142,10 @@
     {
       "kind": "news",
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think."
+    },
+    {
+      "kind": "paper",
+      "title": "New Bounds for the Last Iterate of the Stochastic subGradient Method"
     }
   ]
 }
