@@ -146,6 +146,10 @@
     {
       "kind": "paper",
       "title": "New Bounds for the Last Iterate of the Stochastic subGradient Method"
+    },
+    {
+      "kind": "concept",
+      "title": "VLM"
     }
   ]
 }
