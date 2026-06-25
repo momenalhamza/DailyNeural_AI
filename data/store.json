@@ -27,7 +27,8 @@
     "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
     "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
     "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-    "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+    "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
   ],
   "history": [
     {
@@ -169,6 +170,10 @@
     {
       "kind": "concept",
       "title": "Self-Distillation"
+    },
+    {
+      "kind": "news",
+      "title": "Repositioning retail for the AI era"
     }
   ]
 }
