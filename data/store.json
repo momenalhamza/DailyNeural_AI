@@ -12,7 +12,8 @@
     "2606.24884",
     "2606.24879",
     "2606.26095",
-    "2606.26094"
+    "2606.26094",
+    "2606.26091"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -179,6 +180,10 @@
     {
       "kind": "news",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free."
+    },
+    {
+      "kind": "paper",
+      "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity"
     }
   ]
 }
