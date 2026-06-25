@@ -165,6 +165,10 @@
     {
       "kind": "paper",
       "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments"
+    },
+    {
+      "kind": "concept",
+      "title": "Self-Distillation"
     }
   ]
 }
