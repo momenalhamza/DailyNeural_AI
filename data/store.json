@@ -14,7 +14,8 @@
     "2606.26095",
     "2606.26094",
     "2606.26091",
-    "2606.27377"
+    "2606.27377",
+    "2606.27369"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -198,6 +199,10 @@
     {
       "kind": "explain",
       "title": "DanceOPD: On-Policy Generative Field Distillation"
+    },
+    {
+      "kind": "paper",
+      "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs"
     }
   ]
 }
