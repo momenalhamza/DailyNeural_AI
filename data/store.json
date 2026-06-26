@@ -184,6 +184,10 @@
     {
       "kind": "paper",
       "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity"
+    },
+    {
+      "kind": "concept",
+      "title": "Distillation"
     }
   ]
 }
