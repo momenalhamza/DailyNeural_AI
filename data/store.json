@@ -203,6 +203,10 @@
     {
       "kind": "paper",
       "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs"
+    },
+    {
+      "kind": "concept",
+      "title": "Large Language Models"
     }
   ]
 }
