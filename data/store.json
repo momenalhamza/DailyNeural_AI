@@ -15,7 +15,8 @@
     "2606.26094",
     "2606.26091",
     "2606.27377",
-    "2606.27369"
+    "2606.27369",
+    "2606.27361"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -211,6 +212,10 @@
     {
       "kind": "concept",
       "title": "Autoregressive"
+    },
+    {
+      "kind": "paper",
+      "title": "Autoregressive Boltzmann Generators"
     }
   ]
 }
