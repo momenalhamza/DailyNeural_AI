@@ -207,6 +207,10 @@
     {
       "kind": "concept",
       "title": "Large Language Models"
+    },
+    {
+      "kind": "concept",
+      "title": "Autoregressive"
     }
   ]
 }
