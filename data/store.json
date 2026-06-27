@@ -240,6 +240,10 @@
     {
       "kind": "paper",
       "title": "Error-Conditioned Neural Solvers"
+    },
+    {
+      "kind": "concept",
+      "title": "Transformer"
     }
   ]
 }
