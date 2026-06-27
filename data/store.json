@@ -35,7 +35,8 @@
     "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
     "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
     "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+    "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
   ],
   "history": [
     {
@@ -225,6 +226,10 @@
     {
       "kind": "news",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI"
+    },
+    {
+      "kind": "news",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required"
     }
   ]
 }
