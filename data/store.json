@@ -16,7 +16,8 @@
     "2606.26091",
     "2606.27377",
     "2606.27369",
-    "2606.27361"
+    "2606.27361",
+    "2606.27359"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -230,6 +231,10 @@
     {
       "kind": "news",
       "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required"
+    },
+    {
+      "kind": "explain",
+      "title": "When are likely answers right? On Sequence Probability and Correctness in LLMs"
     }
   ]
 }
