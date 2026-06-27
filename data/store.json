@@ -18,7 +18,8 @@
     "2606.27369",
     "2606.27361",
     "2606.27359",
-    "2606.27354"
+    "2606.27354",
+    "2606.27342"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -249,6 +250,10 @@
     {
       "kind": "news",
       "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment"
+    },
+    {
+      "kind": "explain",
+      "title": "Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching"
     }
   ]
 }
