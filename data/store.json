@@ -21,7 +21,8 @@
     "2606.27354",
     "2606.27342",
     "2606.27334",
-    "2606.27330"
+    "2606.27330",
+    "2606.27326"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -268,6 +269,10 @@
     {
       "kind": "paper",
       "title": "Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning"
+    },
+    {
+      "kind": "explain",
+      "title": "Hallucination in World Models is Predictable and Preventable"
     }
   ]
 }
