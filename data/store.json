@@ -278,6 +278,10 @@
     {
       "kind": "paper",
       "title": "Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders"
+    },
+    {
+      "kind": "concept",
+      "title": "Gradient Equilibrium"
     }
   ]
 }
