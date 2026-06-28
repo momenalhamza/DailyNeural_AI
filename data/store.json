@@ -254,6 +254,10 @@
     {
       "kind": "explain",
       "title": "Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching"
+    },
+    {
+      "kind": "concept",
+      "title": "LLMs"
     }
   ]
 }
