@@ -22,7 +22,8 @@
     "2606.27342",
     "2606.27334",
     "2606.27330",
-    "2606.27326"
+    "2606.27326",
+    "2606.27321"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -273,6 +274,10 @@
     {
       "kind": "explain",
       "title": "Hallucination in World Models is Predictable and Preventable"
+    },
+    {
+      "kind": "paper",
+      "title": "Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders"
     }
   ]
 }
