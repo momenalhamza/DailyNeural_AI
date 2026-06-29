@@ -49,7 +49,8 @@
     "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
     "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
     "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
-    "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
+    "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+    "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"
   ],
   "history": [
     {
@@ -319,6 +320,10 @@
     {
       "kind": "news",
       "title": "Agent confidence on the technical frontier"
+    },
+    {
+      "kind": "news",
+      "title": "AI agents are not your “coworkers”"
     }
   ]
 }
