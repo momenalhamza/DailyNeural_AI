@@ -310,6 +310,10 @@
     {
       "kind": "concept",
       "title": "ROI"
+    },
+    {
+      "kind": "concept",
+      "title": "Nash Equilibrium"
     }
   ]
 }
