@@ -302,6 +302,10 @@
     {
       "kind": "explain",
       "title": "Surprises in Proper Positive-Only Learning"
+    },
+    {
+      "kind": "concept",
+      "title": "Transformer"
     }
   ]
 }
