@@ -29,7 +29,8 @@
     "2606.28323",
     "2606.28309",
     "2606.28308",
-    "2606.30645"
+    "2606.30645",
+    "2606.30642"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -338,6 +339,10 @@
     {
       "kind": "paper",
       "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes"
+    },
+    {
+      "kind": "explain",
+      "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training"
     }
   ]
 }
