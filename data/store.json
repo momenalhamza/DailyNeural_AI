@@ -31,7 +31,8 @@
     "2606.28308",
     "2606.30645",
     "2606.30642",
-    "2606.30639"
+    "2606.30639",
+    "2606.30634"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -357,6 +358,10 @@
     {
       "kind": "news",
       "title": "Agriculture is ready for AI, but its data isn’t"
+    },
+    {
+      "kind": "paper",
+      "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining"
     }
   ]
 }
