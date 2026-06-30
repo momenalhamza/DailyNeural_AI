@@ -329,6 +329,10 @@
     {
       "kind": "paper",
       "title": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes"
+    },
+    {
+      "kind": "concept",
+      "title": "VLK"
     }
   ]
 }
