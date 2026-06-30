@@ -348,6 +348,10 @@
     {
       "kind": "paper",
       "title": "Self-Evolving World Models for LLM Agent Planning"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
