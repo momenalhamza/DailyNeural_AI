@@ -32,7 +32,8 @@
     "2606.30645",
     "2606.30642",
     "2606.30639",
-    "2606.30634"
+    "2606.30634",
+    "2606.30632"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -362,6 +363,10 @@
     {
       "kind": "paper",
       "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining"
+    },
+    {
+      "kind": "paper",
+      "title": "GROW$^2$: Grounding Which and Where for Robot Tool Use"
     }
   ]
 }
