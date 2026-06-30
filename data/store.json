@@ -30,7 +30,8 @@
     "2606.28309",
     "2606.28308",
     "2606.30645",
-    "2606.30642"
+    "2606.30642",
+    "2606.30639"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -343,6 +344,10 @@
     {
       "kind": "explain",
       "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training"
+    },
+    {
+      "kind": "paper",
+      "title": "Self-Evolving World Models for LLM Agent Planning"
     }
   ]
 }
