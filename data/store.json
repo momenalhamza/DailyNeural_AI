@@ -57,7 +57,8 @@
     "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
     "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
     "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-    "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/"
+    "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+    "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
   ],
   "history": [
     {
@@ -371,6 +372,10 @@
     {
       "kind": "concept",
       "title": "LLMs"
+    },
+    {
+      "kind": "news",
+      "title": "Claude Science is Anthropic’s newest flagship product"
     }
   ]
 }
