@@ -35,7 +35,8 @@
     "2606.30634",
     "2606.30632",
     "2606.32038",
-    "2606.32034"
+    "2606.32034",
+    "2606.32032"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -395,6 +396,10 @@
     {
       "kind": "news",
       "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out."
+    },
+    {
+      "kind": "paper",
+      "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs"
     }
   ]
 }
