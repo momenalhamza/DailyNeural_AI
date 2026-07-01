@@ -34,7 +34,8 @@
     "2606.30639",
     "2606.30634",
     "2606.30632",
-    "2606.32038"
+    "2606.32038",
+    "2606.32034"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -381,6 +382,10 @@
     {
       "kind": "explain",
       "title": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision"
+    },
+    {
+      "kind": "paper",
+      "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents"
     }
   ]
 }
