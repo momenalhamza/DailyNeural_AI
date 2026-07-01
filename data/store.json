@@ -33,7 +33,8 @@
     "2606.30642",
     "2606.30639",
     "2606.30634",
-    "2606.30632"
+    "2606.30632",
+    "2606.32038"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -376,6 +377,10 @@
     {
       "kind": "news",
       "title": "Claude Science is Anthropic’s newest flagship product"
+    },
+    {
+      "kind": "explain",
+      "title": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision"
     }
   ]
 }
