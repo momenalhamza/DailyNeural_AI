@@ -367,6 +367,10 @@
     {
       "kind": "paper",
       "title": "GROW$^2$: Grounding Which and Where for Robot Tool Use"
+    },
+    {
+      "kind": "concept",
+      "title": "LLMs"
     }
   ]
 }
