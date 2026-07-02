@@ -405,6 +405,10 @@
     {
       "kind": "paper",
       "title": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
