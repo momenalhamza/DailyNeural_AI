@@ -66,7 +66,8 @@
     "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
     "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
     "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-    "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
+    "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
   ],
   "history": [
     {
@@ -432,6 +433,10 @@
     {
       "kind": "concept",
       "title": "BPM"
+    },
+    {
+      "kind": "news",
+      "title": "Achieving operational excellence with AI"
     }
   ]
 }
