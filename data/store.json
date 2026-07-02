@@ -428,6 +428,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "concept",
+      "title": "BPM"
     }
   ]
 }
