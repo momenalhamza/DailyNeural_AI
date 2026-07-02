@@ -424,6 +424,10 @@
     {
       "kind": "paper",
       "title": "Language-Critique Imitation Learning from Suboptimal Demonstrations"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
