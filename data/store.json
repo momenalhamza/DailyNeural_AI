@@ -38,7 +38,8 @@
     "2606.32034",
     "2606.32032",
     "2606.32029",
-    "2607.01233"
+    "2607.01233",
+    "2607.01232"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -414,6 +415,10 @@
     {
       "kind": "paper",
       "title": "Measuring the Gap Between Human and LLM Research Ideas"
+    },
+    {
+      "kind": "explain",
+      "title": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training"
     }
   ]
 }
