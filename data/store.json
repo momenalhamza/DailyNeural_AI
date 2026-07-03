@@ -466,6 +466,10 @@
     {
       "kind": "paper",
       "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions"
+    },
+    {
+      "kind": "concept",
+      "title": "Transformer"
     }
   ]
 }
