@@ -44,7 +44,8 @@
     "2607.01224",
     "2607.02514",
     "2607.02513",
-    "2607.02512"
+    "2607.02512",
+    "2607.02510"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -470,6 +471,10 @@
     {
       "kind": "concept",
       "title": "Transformer"
+    },
+    {
+      "kind": "paper",
+      "title": "Online Safety Monitoring for LLMs"
     }
   ]
 }
