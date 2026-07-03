@@ -43,7 +43,8 @@
     "2607.01225",
     "2607.01224",
     "2607.02514",
-    "2607.02513"
+    "2607.02513",
+    "2607.02512"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -461,6 +462,10 @@
     {
       "kind": "paper",
       "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning"
+    },
+    {
+      "kind": "paper",
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions"
     }
   ]
 }
