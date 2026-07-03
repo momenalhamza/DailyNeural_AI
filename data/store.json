@@ -41,7 +41,8 @@
     "2607.01233",
     "2607.01232",
     "2607.01225",
-    "2607.01224"
+    "2607.01224",
+    "2607.02514"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -451,6 +452,10 @@
     {
       "kind": "news",
       "title": "Teaching AI to run with the turbines"
+    },
+    {
+      "kind": "explain",
+      "title": "Distributed Attacks in Persistent-State AI Control"
     }
   ]
 }
