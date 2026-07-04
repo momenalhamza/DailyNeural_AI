@@ -47,7 +47,8 @@
     "2607.02512",
     "2607.02510",
     "2607.02509",
-    "2607.02507"
+    "2607.02507",
+    "2607.02504"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -489,6 +490,10 @@
     {
       "kind": "paper",
       "title": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates"
+    },
+    {
+      "kind": "explain",
+      "title": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas"
     }
   ]
 }
