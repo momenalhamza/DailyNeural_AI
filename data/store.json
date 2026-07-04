@@ -499,6 +499,10 @@
     {
       "kind": "paper",
       "title": "DemoPSD: Disagreement-Modulated Policy Self-Distillation"
+    },
+    {
+      "kind": "concept",
+      "title": "Adam"
     }
   ]
 }
