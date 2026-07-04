@@ -50,7 +50,8 @@
     "2607.02507",
     "2607.02504",
     "2607.02502",
-    "2607.02499"
+    "2607.02499",
+    "2607.02496"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -508,6 +509,10 @@
     {
       "kind": "paper",
       "title": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials"
+    },
+    {
+      "kind": "explain",
+      "title": "Controllable Sim Agents with Behavior Latents"
     }
   ]
 }
