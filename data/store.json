@@ -53,7 +53,8 @@
     "2607.02499",
     "2607.02496",
     "2607.02491",
-    "2607.02484"
+    "2607.02484",
+    "2607.02469"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -527,6 +528,10 @@
     {
       "kind": "paper",
       "title": "Combating Textual Noise and Redundancy: Entropy-Aware Dense Visual Token Pruning"
+    },
+    {
+      "kind": "explain",
+      "title": "TestEvo-Bench: An Executable and Live Benchmark for Test and Code Co-Evolution"
     }
   ]
 }
