@@ -513,6 +513,10 @@
     {
       "kind": "explain",
       "title": "Controllable Sim Agents with Behavior Latents"
+    },
+    {
+      "kind": "concept",
+      "title": "SE-RRMs"
     }
   ]
 }
