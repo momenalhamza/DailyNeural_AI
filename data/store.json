@@ -55,7 +55,8 @@
     "2607.02491",
     "2607.02484",
     "2607.02469",
-    "2607.02467"
+    "2607.02467",
+    "2607.02466"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -541,6 +542,10 @@
     {
       "kind": "concept",
       "title": "VLAs"
+    },
+    {
+      "kind": "paper",
+      "title": "Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs"
     }
   ]
 }
