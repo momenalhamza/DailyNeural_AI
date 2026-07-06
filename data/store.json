@@ -57,7 +57,8 @@
     "2607.02469",
     "2607.02467",
     "2607.02466",
-    "2607.02461"
+    "2607.02461",
+    "2607.02460"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -551,6 +552,10 @@
     {
       "kind": "explain",
       "title": "OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers"
+    },
+    {
+      "kind": "paper",
+      "title": "Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation"
     }
   ]
 }
