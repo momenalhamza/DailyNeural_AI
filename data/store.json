@@ -61,7 +61,8 @@
     "2607.02460",
     "2607.02447",
     "2607.02444",
-    "2607.02440"
+    "2607.02440",
+    "2607.02437"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -580,6 +581,10 @@
     {
       "kind": "news",
       "title": "Your family’s $300 stake in OpenAI"
+    },
+    {
+      "kind": "paper",
+      "title": "Extreme Adaptive Transformer for Time Series Forecasting"
     }
   ]
 }
