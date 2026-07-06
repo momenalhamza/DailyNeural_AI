@@ -59,7 +59,8 @@
     "2607.02466",
     "2607.02461",
     "2607.02460",
-    "2607.02447"
+    "2607.02447",
+    "2607.02444"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -561,6 +562,10 @@
     {
       "kind": "explain",
       "title": "Understanding the Robustness of Distributed Self-Supervised Learning Frameworks Against Non-IID Data"
+    },
+    {
+      "kind": "explain",
+      "title": "Optimal Stabilizer Testing and Learning with Limited Quantum Memory"
     }
   ]
 }
