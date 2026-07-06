@@ -60,7 +60,8 @@
     "2607.02461",
     "2607.02460",
     "2607.02447",
-    "2607.02444"
+    "2607.02444",
+    "2607.02440"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -566,6 +567,10 @@
     {
       "kind": "explain",
       "title": "Optimal Stabilizer Testing and Learning with Limited Quantum Memory"
+    },
+    {
+      "kind": "paper",
+      "title": "EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments"
     }
   ]
 }
