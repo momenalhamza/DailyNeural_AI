@@ -571,6 +571,10 @@
     {
       "kind": "paper",
       "title": "EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments"
+    },
+    {
+      "kind": "concept",
+      "title": "Transformer"
     }
   ]
 }
