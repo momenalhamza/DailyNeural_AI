@@ -590,6 +590,10 @@
     {
       "kind": "paper",
       "title": "Reasoning effort, not tool access, buys first-try reliability in agentic code generation: an observational study"
+    },
+    {
+      "kind": "concept",
+      "title": "VLA"
     }
   ]
 }
