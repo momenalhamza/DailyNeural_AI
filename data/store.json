@@ -64,7 +64,8 @@
     "2607.02440",
     "2607.02437",
     "2607.02436",
-    "2607.05396"
+    "2607.05396",
+    "2607.05394"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -599,6 +600,10 @@
     {
       "kind": "paper",
       "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model"
+    },
+    {
+      "kind": "explain",
+      "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation"
     }
   ]
 }
