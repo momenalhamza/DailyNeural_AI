@@ -609,6 +609,10 @@
     {
       "kind": "paper",
       "title": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification"
+    },
+    {
+      "kind": "concept",
+      "title": "fine-grained"
     }
   ]
 }
