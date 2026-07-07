@@ -65,7 +65,8 @@
     "2607.02437",
     "2607.02436",
     "2607.05396",
-    "2607.05394"
+    "2607.05394",
+    "2607.05393"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -604,6 +605,10 @@
     {
       "kind": "explain",
       "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation"
+    },
+    {
+      "kind": "paper",
+      "title": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification"
     }
   ]
 }
