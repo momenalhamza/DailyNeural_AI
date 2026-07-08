@@ -67,7 +67,8 @@
     "2607.05396",
     "2607.05394",
     "2607.05393",
-    "2607.05391"
+    "2607.05391",
+    "2607.06565"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -632,6 +633,10 @@
     {
       "kind": "concept",
       "title": "self-attention"
+    },
+    {
+      "kind": "paper",
+      "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation"
     }
   ]
 }
