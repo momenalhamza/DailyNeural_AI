@@ -68,7 +68,8 @@
     "2607.05394",
     "2607.05393",
     "2607.05391",
-    "2607.06565"
+    "2607.06565",
+    "2607.06546"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -637,6 +638,10 @@
     {
       "kind": "paper",
       "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation"
+    },
+    {
+      "kind": "paper",
+      "title": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion"
     }
   ]
 }
