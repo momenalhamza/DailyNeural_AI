@@ -628,6 +628,10 @@
     {
       "kind": "paper",
       "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework"
+    },
+    {
+      "kind": "concept",
+      "title": "self-attention"
     }
   ]
 }
