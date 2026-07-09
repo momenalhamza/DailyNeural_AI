@@ -665,6 +665,10 @@
     {
       "kind": "explain",
       "title": "The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
