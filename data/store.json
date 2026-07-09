@@ -679,6 +679,10 @@
     {
       "kind": "paper",
       "title": "Co-LMLM: Continuous-Query Limited Memory Language Models"
+    },
+    {
+      "kind": "concept",
+      "title": "Transformer"
     }
   ]
 }
