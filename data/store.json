@@ -73,7 +73,8 @@
     "2607.06544",
     "2607.06532",
     "2607.06531",
-    "2607.07708"
+    "2607.07708",
+    "2607.07707"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -674,6 +675,10 @@
     {
       "kind": "paper",
       "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning"
+    },
+    {
+      "kind": "paper",
+      "title": "Co-LMLM: Continuous-Query Limited Memory Language Models"
     }
   ]
 }
