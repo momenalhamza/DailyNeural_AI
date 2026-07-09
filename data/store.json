@@ -74,7 +74,8 @@
     "2607.06532",
     "2607.06531",
     "2607.07708",
-    "2607.07707"
+    "2607.07707",
+    "2607.07706"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -683,6 +684,10 @@
     {
       "kind": "concept",
       "title": "Transformer"
+    },
+    {
+      "kind": "paper",
+      "title": "The Key to Going Linear: Analysis-Driven Transformer Linearization"
     }
   ]
 }
