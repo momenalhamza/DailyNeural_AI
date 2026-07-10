@@ -717,6 +717,10 @@
     {
       "kind": "paper",
       "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation"
+    },
+    {
+      "kind": "concept",
+      "title": "Wasserstein distance"
     }
   ]
 }
