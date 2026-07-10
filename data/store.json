@@ -78,7 +78,8 @@
     "2607.07706",
     "2607.07696",
     "2607.07695",
-    "2607.08763"
+    "2607.08763",
+    "2607.08758"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -712,6 +713,10 @@
     {
       "kind": "explain",
       "title": "OpenCoF: Learning to Reason Through Video Generation"
+    },
+    {
+      "kind": "paper",
+      "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation"
     }
   ]
 }
