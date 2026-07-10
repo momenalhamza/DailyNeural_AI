@@ -721,6 +721,10 @@
     {
       "kind": "concept",
       "title": "Wasserstein distance"
+    },
+    {
+      "kind": "concept",
+      "title": "Wasserstein distance"
     }
   ]
 }
