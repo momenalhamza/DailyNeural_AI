@@ -77,7 +77,8 @@
     "2607.07707",
     "2607.07706",
     "2607.07696",
-    "2607.07695"
+    "2607.07695",
+    "2607.08763"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -707,6 +708,10 @@
     {
       "kind": "news",
       "title": "Anthropic found a hidden space where Claude puzzles over concepts"
+    },
+    {
+      "kind": "explain",
+      "title": "OpenCoF: Learning to Reason Through Video Generation"
     }
   ]
 }
