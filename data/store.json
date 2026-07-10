@@ -79,7 +79,8 @@
     "2607.07696",
     "2607.07695",
     "2607.08763",
-    "2607.08758"
+    "2607.08758",
+    "2607.08757"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -725,6 +726,10 @@
     {
       "kind": "concept",
       "title": "Wasserstein distance"
+    },
+    {
+      "kind": "paper",
+      "title": "Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling"
     }
   ]
 }
