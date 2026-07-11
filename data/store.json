@@ -82,7 +82,8 @@
     "2607.08758",
     "2607.08757",
     "2607.08756",
-    "2607.08754"
+    "2607.08754",
+    "2607.08748"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -744,6 +745,10 @@
     {
       "kind": "paper",
       "title": "SLORR: Simple and Efficient In-Training Low-Rank Regularization"
+    },
+    {
+      "kind": "explain",
+      "title": "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis"
     }
   ]
 }
