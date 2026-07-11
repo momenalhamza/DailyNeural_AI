@@ -735,6 +735,10 @@
     {
       "kind": "paper",
       "title": "MulTTiPop: A Multitrack Transcription Dataset for Pop Music"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
