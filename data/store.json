@@ -83,7 +83,8 @@
     "2607.08757",
     "2607.08756",
     "2607.08754",
-    "2607.08748"
+    "2607.08748",
+    "2607.08746"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -749,6 +750,10 @@
     {
       "kind": "explain",
       "title": "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis"
+    },
+    {
+      "kind": "paper",
+      "title": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph"
     }
   ]
 }
