@@ -754,6 +754,10 @@
     {
       "kind": "paper",
       "title": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
