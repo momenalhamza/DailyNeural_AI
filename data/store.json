@@ -84,7 +84,8 @@
     "2607.08756",
     "2607.08754",
     "2607.08748",
-    "2607.08746"
+    "2607.08746",
+    "2607.08745"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -758,6 +759,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "paper",
+      "title": "AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding"
     }
   ]
 }
