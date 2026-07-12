@@ -86,7 +86,8 @@
     "2607.08748",
     "2607.08746",
     "2607.08745",
-    "2607.08741"
+    "2607.08741",
+    "2607.08740"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -776,6 +777,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "paper",
+      "title": "Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows"
     }
   ]
 }
