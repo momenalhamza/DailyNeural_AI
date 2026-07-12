@@ -90,7 +90,8 @@
     "2607.08740",
     "2607.08734",
     "2607.08733",
-    "2607.08731"
+    "2607.08731",
+    "2607.08725"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -800,6 +801,10 @@
     {
       "kind": "paper",
       "title": "Validity of LLMs as data annotators: AMALIA on authority"
+    },
+    {
+      "kind": "explain",
+      "title": "Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction"
     }
   ]
 }
