@@ -768,6 +768,10 @@
     {
       "kind": "explain",
       "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
