@@ -88,7 +88,8 @@
     "2607.08745",
     "2607.08741",
     "2607.08740",
-    "2607.08734"
+    "2607.08734",
+    "2607.08733"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -786,6 +787,10 @@
     {
       "kind": "explain",
       "title": "The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs"
+    },
+    {
+      "kind": "paper",
+      "title": "Super Weights in LLMs and the Failure of Selective Training"
     }
   ]
 }
