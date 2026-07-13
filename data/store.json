@@ -93,7 +93,8 @@
     "2607.08731",
     "2607.08725",
     "2607.09662",
-    "2607.09657"
+    "2607.09657",
+    "2607.09654"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -819,6 +820,10 @@
     {
       "kind": "explain",
       "title": "Scalable Visual Pretraining for Language Intelligence"
+    },
+    {
+      "kind": "paper",
+      "title": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models"
     }
   ]
 }
