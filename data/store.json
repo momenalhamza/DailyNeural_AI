@@ -805,6 +805,10 @@
     {
       "kind": "explain",
       "title": "Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction"
+    },
+    {
+      "kind": "concept",
+      "title": "PSD"
     }
   ]
 }
