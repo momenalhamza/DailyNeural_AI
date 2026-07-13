@@ -824,6 +824,10 @@
     {
       "kind": "paper",
       "title": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
