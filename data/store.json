@@ -91,7 +91,8 @@
     "2607.08734",
     "2607.08733",
     "2607.08731",
-    "2607.08725"
+    "2607.08725",
+    "2607.09662"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -809,6 +810,10 @@
     {
       "kind": "concept",
       "title": "PSD"
+    },
+    {
+      "kind": "paper",
+      "title": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis"
     }
   ]
 }
