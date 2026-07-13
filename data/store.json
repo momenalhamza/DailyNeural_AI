@@ -94,7 +94,8 @@
     "2607.08725",
     "2607.09662",
     "2607.09657",
-    "2607.09654"
+    "2607.09654",
+    "2607.09653"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -837,6 +838,10 @@
     {
       "kind": "news",
       "title": "What Anthropic’s latest AI discovery does—and doesn’t—show"
+    },
+    {
+      "kind": "explain",
+      "title": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents"
     }
   ]
 }
