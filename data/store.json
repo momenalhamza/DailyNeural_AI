@@ -100,7 +100,8 @@
     "2607.11881",
     "2607.11875",
     "2607.11874",
-    "2607.11873"
+    "2607.11873",
+    "2607.11871"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -875,6 +876,10 @@
     {
       "kind": "explain",
       "title": "A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol"
+    },
+    {
+      "kind": "explain",
+      "title": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias"
     }
   ]
 }
