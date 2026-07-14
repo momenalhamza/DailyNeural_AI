@@ -95,7 +95,8 @@
     "2607.09662",
     "2607.09657",
     "2607.09654",
-    "2607.09653"
+    "2607.09653",
+    "2607.11883"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -842,6 +843,10 @@
     {
       "kind": "explain",
       "title": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents"
+    },
+    {
+      "kind": "paper",
+      "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data"
     }
   ]
 }
