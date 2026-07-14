@@ -97,7 +97,8 @@
     "2607.09654",
     "2607.09653",
     "2607.11883",
-    "2607.11881"
+    "2607.11881",
+    "2607.11875"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -856,6 +857,10 @@
     {
       "kind": "paper",
       "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities"
+    },
+    {
+      "kind": "explain",
+      "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks"
     }
   ]
 }
