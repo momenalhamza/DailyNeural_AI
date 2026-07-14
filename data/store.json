@@ -847,6 +847,10 @@
     {
       "kind": "paper",
       "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
