@@ -866,6 +866,10 @@
     {
       "kind": "paper",
       "title": "A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation"
+    },
+    {
+      "kind": "concept",
+      "title": "Transformer"
     }
   ]
 }
