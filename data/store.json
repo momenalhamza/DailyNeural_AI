@@ -103,7 +103,8 @@
     "2607.11873",
     "2607.11871",
     "2607.13034",
-    "2607.13031"
+    "2607.13031",
+    "2607.13028"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -894,6 +895,10 @@
     {
       "kind": "paper",
       "title": "The Seriality Gap in Video Diffusion Models"
+    },
+    {
+      "kind": "explain",
+      "title": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale"
     }
   ]
 }
