@@ -101,7 +101,8 @@
     "2607.11875",
     "2607.11874",
     "2607.11873",
-    "2607.11871"
+    "2607.11871",
+    "2607.13034"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -884,6 +885,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "paper",
+      "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution"
     }
   ]
 }
