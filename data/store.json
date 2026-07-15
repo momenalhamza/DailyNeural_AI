@@ -880,6 +880,10 @@
     {
       "kind": "explain",
       "title": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
