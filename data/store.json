@@ -904,6 +904,10 @@
     {
       "kind": "paper",
       "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
