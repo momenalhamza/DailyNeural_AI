@@ -106,7 +106,8 @@
     "2607.13031",
     "2607.13028",
     "2607.13027",
-    "2607.13022"
+    "2607.13022",
+    "2607.14086"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -927,6 +928,10 @@
     {
       "kind": "news",
       "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents"
+    },
+    {
+      "kind": "paper",
+      "title": "Leveraging unlabelled data for generalizable neural population decoding"
     }
   ]
 }
