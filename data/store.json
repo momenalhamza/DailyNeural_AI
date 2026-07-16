@@ -107,7 +107,8 @@
     "2607.13028",
     "2607.13027",
     "2607.13022",
-    "2607.14086"
+    "2607.14086",
+    "2607.14081"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -932,6 +933,10 @@
     {
       "kind": "paper",
       "title": "Leveraging unlabelled data for generalizable neural population decoding"
+    },
+    {
+      "kind": "explain",
+      "title": "Linear Independent Component Analysis via Optimal Transport"
     }
   ]
 }
