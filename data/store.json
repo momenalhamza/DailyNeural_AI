@@ -109,7 +109,8 @@
     "2607.13022",
     "2607.14086",
     "2607.14081",
-    "2607.14072"
+    "2607.14072",
+    "2607.14070"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -951,6 +952,10 @@
     {
       "kind": "news",
       "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs"
+    },
+    {
+      "kind": "explain",
+      "title": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes"
     }
   ]
 }
