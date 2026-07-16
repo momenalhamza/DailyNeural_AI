@@ -942,6 +942,10 @@
     {
       "kind": "paper",
       "title": "MetaPerch: Learning from metadata for bioacoustics foundation models"
+    },
+    {
+      "kind": "concept",
+      "title": "fine-tuning"
     }
   ]
 }
