@@ -979,6 +979,10 @@
     {
       "kind": "paper",
       "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
