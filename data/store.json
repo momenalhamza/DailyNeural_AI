@@ -146,7 +146,8 @@
     "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
     "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
     "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-    "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
+    "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+    "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/"
   ],
   "history": [
     {
@@ -964,6 +965,10 @@
     {
       "kind": "concept",
       "title": "Test-Time-Training"
+    },
+    {
+      "kind": "news",
+      "title": "The risk of weather data sabotage is rising"
     }
   ]
 }
