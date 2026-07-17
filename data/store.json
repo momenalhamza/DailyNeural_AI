@@ -956,6 +956,10 @@
     {
       "kind": "explain",
       "title": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes"
+    },
+    {
+      "kind": "concept",
+      "title": "Test-Time-Training"
     }
   ]
 }
