@@ -114,7 +114,8 @@
     "2607.15275",
     "2607.15273",
     "2607.15272",
-    "2607.15271"
+    "2607.15271",
+    "2607.15267"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -1007,6 +1008,10 @@
     {
       "kind": "explain",
       "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis"
+    },
+    {
+      "kind": "paper",
+      "title": "Pretraining Data Can Be Poisoned through Computational Propaganda"
     }
   ]
 }
