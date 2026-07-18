@@ -993,6 +993,10 @@
     {
       "kind": "paper",
       "title": "SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions"
+    },
+    {
+      "kind": "concept",
+      "title": "Test-Time Training"
     }
   ]
 }
