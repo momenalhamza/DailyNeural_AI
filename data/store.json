@@ -115,7 +115,8 @@
     "2607.15273",
     "2607.15272",
     "2607.15271",
-    "2607.15267"
+    "2607.15267",
+    "2607.15265"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -1021,6 +1022,10 @@
     {
       "kind": "news",
       "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway"
+    },
+    {
+      "kind": "explain",
+      "title": "SceneBind: Binding What and Where Across Vision, Audio and Language"
     }
   ]
 }
