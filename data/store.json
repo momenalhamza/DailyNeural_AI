@@ -112,7 +112,8 @@
     "2607.14072",
     "2607.14070",
     "2607.15275",
-    "2607.15273"
+    "2607.15273",
+    "2607.15272"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -988,6 +989,10 @@
     {
       "kind": "news",
       "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials"
+    },
+    {
+      "kind": "paper",
+      "title": "SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions"
     }
   ]
 }
