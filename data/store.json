@@ -1012,6 +1012,10 @@
     {
       "kind": "paper",
       "title": "Pretraining Data Can Be Poisoned through Computational Propaganda"
+    },
+    {
+      "kind": "concept",
+      "title": "Transformer"
     }
   ]
 }
