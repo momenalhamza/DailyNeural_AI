@@ -117,7 +117,8 @@
     "2607.15271",
     "2607.15267",
     "2607.15265",
-    "2607.15263"
+    "2607.15263",
+    "2607.15258"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -1039,6 +1040,10 @@
     {
       "kind": "paper",
       "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents"
+    },
+    {
+      "kind": "explain",
+      "title": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier"
     }
   ]
 }
