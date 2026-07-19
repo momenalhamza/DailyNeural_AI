@@ -119,7 +119,8 @@
     "2607.15265",
     "2607.15263",
     "2607.15258",
-    "2607.15257"
+    "2607.15257",
+    "2607.15254"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -1053,6 +1054,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "paper",
+      "title": "teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data"
     }
   ]
 }
