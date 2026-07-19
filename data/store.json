@@ -1030,6 +1030,10 @@
     {
       "kind": "concept",
       "title": "CTF"
+    },
+    {
+      "kind": "concept",
+      "title": "CTF"
     }
   ]
 }
