@@ -1049,6 +1049,10 @@
     {
       "kind": "paper",
       "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
