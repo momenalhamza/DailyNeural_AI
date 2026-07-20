@@ -164,7 +164,8 @@
     "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
     "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
     "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-    "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
+    "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+    "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/"
   ],
   "history": [
     {
@@ -1090,6 +1091,10 @@
     {
       "kind": "concept",
       "title": "AI"
+    },
+    {
+      "kind": "news",
+      "title": "China’s AI models have Trump’s AI world at war with itself"
     }
   ]
 }
