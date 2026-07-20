@@ -123,7 +123,8 @@
     "2607.15254",
     "2607.16184",
     "2607.16183",
-    "2607.16178"
+    "2607.16178",
+    "2607.16177"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -1095,6 +1096,10 @@
     {
       "kind": "news",
       "title": "China’s AI models have Trump’s AI world at war with itself"
+    },
+    {
+      "kind": "paper",
+      "title": "Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems"
     }
   ]
 }
