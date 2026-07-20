@@ -1086,6 +1086,10 @@
     {
       "kind": "paper",
       "title": "Cluster-Aware Matching via Laplacian Optimal Transport"
+    },
+    {
+      "kind": "concept",
+      "title": "AI"
     }
   ]
 }
