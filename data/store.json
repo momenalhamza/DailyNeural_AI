@@ -121,7 +121,8 @@
     "2607.15258",
     "2607.15257",
     "2607.15254",
-    "2607.16184"
+    "2607.16184",
+    "2607.16183"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -1076,6 +1077,10 @@
     {
       "kind": "explain",
       "title": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization"
+    },
+    {
+      "kind": "paper",
+      "title": "A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing"
     }
   ]
 }
