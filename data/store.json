@@ -160,7 +160,8 @@
     "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
     "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
     "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-    "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
+    "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+    "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
   ],
   "history": [
     {
@@ -1066,6 +1067,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "news",
+      "title": "AI is more likely than humans to form biases when hiring"
     }
   ]
 }
