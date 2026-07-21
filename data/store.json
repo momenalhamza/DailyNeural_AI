@@ -128,7 +128,8 @@
     "2607.18237",
     "2607.18236",
     "2607.18235",
-    "2607.18230"
+    "2607.18230",
+    "2607.18228"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -1133,6 +1134,10 @@
     {
       "kind": "paper",
       "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs"
+    },
+    {
+      "kind": "explain",
+      "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes"
     }
   ]
 }
