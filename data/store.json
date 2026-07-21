@@ -124,7 +124,8 @@
     "2607.16184",
     "2607.16183",
     "2607.16178",
-    "2607.16177"
+    "2607.16177",
+    "2607.18237"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -1104,6 +1105,10 @@
     {
       "kind": "concept",
       "title": "fine-tuning"
+    },
+    {
+      "kind": "paper",
+      "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric"
     }
   ]
 }
