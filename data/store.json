@@ -1100,6 +1100,10 @@
     {
       "kind": "paper",
       "title": "Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems"
+    },
+    {
+      "kind": "concept",
+      "title": "fine-tuning"
     }
   ]
 }
