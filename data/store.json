@@ -1124,6 +1124,10 @@
     {
       "kind": "paper",
       "title": "Automated Discovery Has No Universally Superior Harness"
+    },
+    {
+      "kind": "concept",
+      "title": "VLMs"
     }
   ]
 }
