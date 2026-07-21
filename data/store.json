@@ -127,7 +127,8 @@
     "2607.16177",
     "2607.18237",
     "2607.18236",
-    "2607.18235"
+    "2607.18235",
+    "2607.18230"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -1128,6 +1129,10 @@
     {
       "kind": "concept",
       "title": "VLMs"
+    },
+    {
+      "kind": "paper",
+      "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs"
     }
   ]
 }
