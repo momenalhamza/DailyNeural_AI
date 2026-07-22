@@ -132,7 +132,8 @@
     "2607.18228",
     "2607.19345",
     "2607.19344",
-    "2607.19338"
+    "2607.19338",
+    "2607.19336"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -1165,6 +1166,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "paper",
+      "title": "Agents in the Wild: Where Research Meets Deployment"
     }
   ]
 }
