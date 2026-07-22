@@ -1161,6 +1161,10 @@
     {
       "kind": "paper",
       "title": "CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
