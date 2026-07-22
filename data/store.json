@@ -130,7 +130,8 @@
     "2607.18235",
     "2607.18230",
     "2607.18228",
-    "2607.19345"
+    "2607.19345",
+    "2607.19344"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -1147,6 +1148,10 @@
     {
       "kind": "paper",
       "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning"
+    },
+    {
+      "kind": "paper",
+      "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers"
     }
   ]
 }
