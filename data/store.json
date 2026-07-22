@@ -1152,6 +1152,10 @@
     {
       "kind": "paper",
       "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
