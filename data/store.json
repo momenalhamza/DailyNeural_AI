@@ -1138,6 +1138,10 @@
     {
       "kind": "explain",
       "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
