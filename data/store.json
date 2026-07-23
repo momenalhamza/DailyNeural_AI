@@ -137,7 +137,8 @@
     "2607.19335",
     "2607.20411",
     "2607.20402",
-    "2607.20399"
+    "2607.20399",
+    "2607.20385"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -184,10 +185,6 @@
     "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact"
-    },
     {
       "kind": "explain",
       "title": "Optimal Deterministic Multicalibration and Omniprediction"
@@ -1183,6 +1180,10 @@
     {
       "kind": "news",
       "title": "How AI helps scientists design the next generation of medicines"
+    },
+    {
+      "kind": "explain",
+      "title": "Persian Pixel: A large-scale synthetic OCR dataset for Persian language"
     }
   ]
 }
