@@ -134,7 +134,8 @@
     "2607.19344",
     "2607.19338",
     "2607.19336",
-    "2607.19335"
+    "2607.19335",
+    "2607.20411"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -180,10 +181,6 @@
     "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "How Transparent is DiffusionGemma?"
-    },
     {
       "kind": "concept",
       "title": "LLM"
@@ -1179,6 +1176,10 @@
     {
       "kind": "concept",
       "title": "Lipschitz"
+    },
+    {
+      "kind": "paper",
+      "title": "Lipschitzian SLLNs for random functions"
     }
   ]
 }
