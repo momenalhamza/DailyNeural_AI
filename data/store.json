@@ -135,7 +135,8 @@
     "2607.19338",
     "2607.19336",
     "2607.19335",
-    "2607.20411"
+    "2607.20411",
+    "2607.20402"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -181,10 +182,6 @@
     "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLM"
-    },
     {
       "kind": "news",
       "title": "A startup claims it broke through a bottleneck that’s holding back LLMs"
@@ -1180,6 +1177,10 @@
     {
       "kind": "paper",
       "title": "Lipschitzian SLLNs for random functions"
+    },
+    {
+      "kind": "paper",
+      "title": "SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data"
     }
   ]
 }
