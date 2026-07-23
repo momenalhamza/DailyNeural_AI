@@ -184,10 +184,6 @@
   "history": [
     {
       "kind": "news",
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs"
-    },
-    {
-      "kind": "news",
       "title": "Want to get a data center online quickly? Give it some flex."
     },
     {
@@ -1181,6 +1177,10 @@
     {
       "kind": "paper",
       "title": "SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
