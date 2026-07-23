@@ -136,7 +136,8 @@
     "2607.19336",
     "2607.19335",
     "2607.20411",
-    "2607.20402"
+    "2607.20402",
+    "2607.20399"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -182,10 +183,6 @@
     "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Want to get a data center online quickly? Give it some flex."
-    },
     {
       "kind": "news",
       "title": "Why do South Koreans love AI so much?"
@@ -1181,6 +1178,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "paper",
+      "title": "Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning"
     }
   ]
 }
