@@ -1175,6 +1175,10 @@
     {
       "kind": "explain",
       "title": "1-Lipschitz Neural Networks on Hadamard Manifolds"
+    },
+    {
+      "kind": "concept",
+      "title": "Lipschitz"
     }
   ]
 }
