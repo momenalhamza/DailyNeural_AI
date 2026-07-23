@@ -180,13 +180,10 @@
     "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
     "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
     "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-    "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
+    "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+    "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning"
-    },
     {
       "kind": "news",
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact"
@@ -1182,6 +1179,10 @@
     {
       "kind": "concept",
       "title": "OCR"
+    },
+    {
+      "kind": "news",
+      "title": "How AI helps scientists design the next generation of medicines"
     }
   ]
 }
