@@ -184,10 +184,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "Why do South Koreans love AI so much?"
-    },
-    {
       "kind": "paper",
       "title": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning"
     },
@@ -1182,6 +1178,10 @@
     {
       "kind": "paper",
       "title": "Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning"
+    },
+    {
+      "kind": "concept",
+      "title": "OCR"
     }
   ]
 }
