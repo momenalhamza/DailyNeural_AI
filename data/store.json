@@ -139,7 +139,8 @@
     "2607.20402",
     "2607.20399",
     "2607.20385",
-    "2607.21595"
+    "2607.21595",
+    "2607.21585"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -186,10 +187,6 @@
     "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Lie-Algebra Attention"
-    },
     {
       "kind": "news",
       "title": "Three things to watch amid Anthropic’s latest feud with the government"
@@ -1185,6 +1182,10 @@
     {
       "kind": "paper",
       "title": "3D-Aware VLMs with Implicit and Explicit Geometries"
+    },
+    {
+      "kind": "paper",
+      "title": "Expanding Flow Maps"
     }
   ]
 }
