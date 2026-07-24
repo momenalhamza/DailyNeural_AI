@@ -189,10 +189,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups"
-    },
-    {
       "kind": "paper",
       "title": "Predictability as a Fine-Grained Measure for Privacy"
     },
@@ -1187,6 +1183,10 @@
     {
       "kind": "paper",
       "title": "GraphVid: Interactive Graph-Controllable Video Generation"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
