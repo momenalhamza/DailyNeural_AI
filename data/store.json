@@ -189,10 +189,6 @@
   "history": [
     {
       "kind": "news",
-      "title": "Three things to watch amid Anthropic’s latest feud with the government"
-    },
-    {
-      "kind": "news",
       "title": "Learning to lead in a hybrid human-AI enterprise"
     },
     {
@@ -1186,6 +1182,10 @@
     {
       "kind": "paper",
       "title": "Expanding Flow Maps"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
