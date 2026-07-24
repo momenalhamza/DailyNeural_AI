@@ -186,10 +186,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "Optimal Deterministic Multicalibration and Omniprediction"
-    },
-    {
       "kind": "paper",
       "title": "Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation"
     },
@@ -1184,6 +1180,10 @@
     {
       "kind": "explain",
       "title": "Persian Pixel: A large-scale synthetic OCR dataset for Persian language"
+    },
+    {
+      "kind": "concept",
+      "title": "fine-grained"
     }
   ]
 }
