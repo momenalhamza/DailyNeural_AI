@@ -143,7 +143,8 @@
     "2607.21585",
     "2607.21580",
     "2607.21579",
-    "2607.21577"
+    "2607.21577",
+    "2607.21573"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -190,10 +191,6 @@
     "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation"
-    },
     {
       "kind": "concept",
       "title": "Vision Language Model"
@@ -1189,6 +1186,10 @@
     {
       "kind": "explain",
       "title": "Synthetic data generation framework for quality control automation in gravure printing"
+    },
+    {
+      "kind": "paper",
+      "title": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity"
     }
   ]
 }
