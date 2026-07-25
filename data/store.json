@@ -192,10 +192,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "Vision Language Model"
-    },
-    {
       "kind": "news",
       "title": "Five things you need to know about AI"
     },
@@ -1190,6 +1186,10 @@
     {
       "kind": "paper",
       "title": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity"
+    },
+    {
+      "kind": "concept",
+      "title": "EGNN"
     }
   ]
 }
