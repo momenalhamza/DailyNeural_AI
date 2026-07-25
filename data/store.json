@@ -145,7 +145,8 @@
     "2607.21579",
     "2607.21577",
     "2607.21573",
-    "2607.21561"
+    "2607.21561",
+    "2607.21559"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -192,10 +193,6 @@
     "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "The Meta hack shows there’s more to AI security than Mythos"
-    },
     {
       "kind": "paper",
       "title": "Semantic Browsing: Controllable Diversity for Image Generation"
@@ -1191,6 +1188,10 @@
     {
       "kind": "paper",
       "title": "Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling"
+    },
+    {
+      "kind": "explain",
+      "title": "Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana"
     }
   ]
 }
