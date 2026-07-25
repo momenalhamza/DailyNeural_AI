@@ -189,10 +189,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "teleoperation"
-    },
-    {
       "kind": "news",
       "title": "The $400 million machine powering the future of chipmaking"
     },
@@ -1187,6 +1183,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "concept",
+      "title": "convergence"
     }
   ]
 }
