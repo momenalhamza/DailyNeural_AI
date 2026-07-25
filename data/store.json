@@ -142,7 +142,8 @@
     "2607.21595",
     "2607.21585",
     "2607.21580",
-    "2607.21579"
+    "2607.21579",
+    "2607.21577"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -189,10 +190,6 @@
     "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection"
-    },
     {
       "kind": "paper",
       "title": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation"
@@ -1188,6 +1185,10 @@
     {
       "kind": "paper",
       "title": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$"
+    },
+    {
+      "kind": "explain",
+      "title": "Synthetic data generation framework for quality control automation in gravure printing"
     }
   ]
 }
