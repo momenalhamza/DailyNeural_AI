@@ -189,10 +189,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Predictability as a Fine-Grained Measure for Privacy"
-    },
-    {
       "kind": "concept",
       "title": "teleoperation"
     },
@@ -1183,6 +1179,10 @@
     {
       "kind": "paper",
       "title": "GraphVid: Interactive Graph-Controllable Video Generation"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     },
     {
       "kind": "concept",
