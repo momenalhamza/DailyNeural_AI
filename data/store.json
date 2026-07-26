@@ -194,10 +194,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Semantic Browsing: Controllable Diversity for Image Generation"
-    },
-    {
       "kind": "concept",
       "title": "VLAs"
     },
@@ -1192,6 +1188,10 @@
     {
       "kind": "explain",
       "title": "Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
