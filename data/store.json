@@ -147,7 +147,8 @@
     "2607.21573",
     "2607.21561",
     "2607.21559",
-    "2607.21558"
+    "2607.21558",
+    "2607.21557"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -194,10 +195,6 @@
     "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "How courts are coping with a flood of AI-generated lawsuits"
-    },
     {
       "kind": "concept",
       "title": "LLM"
@@ -1193,6 +1190,10 @@
     {
       "kind": "paper",
       "title": "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning"
+    },
+    {
+      "kind": "paper",
+      "title": "OpenForgeRL: Train Harness-native Agents in Any Environment"
     }
   ]
 }
