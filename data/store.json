@@ -151,7 +151,8 @@
     "2607.21557",
     "2607.21556",
     "2607.21552",
-    "2607.21550"
+    "2607.21550",
+    "2607.21548"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -198,10 +199,6 @@
     "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think."
-    },
     {
       "kind": "paper",
       "title": "New Bounds for the Last Iterate of the Stochastic subGradient Method"
@@ -1197,6 +1194,10 @@
     {
       "kind": "paper",
       "title": "X$^3$-OPD: Distilling Reasoning into Large Audio-Language Models via On-Policy Alignment"
+    },
+    {
+      "kind": "explain",
+      "title": "Neural solutions of coupled ghost and gluon Dyson--Schwinger equations in Landau gauge"
     }
   ]
 }
