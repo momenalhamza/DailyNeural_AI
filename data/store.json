@@ -204,10 +204,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free."
-    },
-    {
       "kind": "paper",
       "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity"
     },
@@ -1202,6 +1198,10 @@
     {
       "kind": "news",
       "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before."
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
