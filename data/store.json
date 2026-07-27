@@ -203,10 +203,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "Self-Distillation"
-    },
-    {
       "kind": "news",
       "title": "Repositioning retail for the AI era"
     },
@@ -1197,6 +1193,10 @@
     {
       "kind": "paper",
       "title": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     },
     {
       "kind": "concept",
