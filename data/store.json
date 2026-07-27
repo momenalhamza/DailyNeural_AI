@@ -154,7 +154,8 @@
     "2607.21550",
     "2607.21548",
     "2607.22534",
-    "2607.22525"
+    "2607.22525",
+    "2607.22520"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -201,10 +202,6 @@
     "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Learning Action Priors for Cross-embodiment Robot Manipulation"
-    },
     {
       "kind": "paper",
       "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments"
@@ -1200,6 +1197,10 @@
     {
       "kind": "explain",
       "title": "Explainable Reinforcement Learning for assisting Air Traffic Controllers"
+    },
+    {
+      "kind": "paper",
+      "title": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents"
     }
   ]
 }
