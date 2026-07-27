@@ -203,10 +203,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments"
-    },
-    {
       "kind": "concept",
       "title": "Self-Distillation"
     },
@@ -1201,6 +1197,10 @@
     {
       "kind": "paper",
       "title": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
