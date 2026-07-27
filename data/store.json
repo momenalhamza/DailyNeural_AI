@@ -200,10 +200,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "New Bounds for the Last Iterate of the Stochastic subGradient Method"
-    },
-    {
       "kind": "concept",
       "title": "VLM"
     },
@@ -1198,6 +1194,10 @@
     {
       "kind": "explain",
       "title": "Neural solutions of coupled ghost and gluon Dyson--Schwinger equations in Landau gauge"
+    },
+    {
+      "kind": "concept",
+      "title": "Transformer"
     }
   ]
 }
