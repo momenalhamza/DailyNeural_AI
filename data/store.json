@@ -153,7 +153,8 @@
     "2607.21552",
     "2607.21550",
     "2607.21548",
-    "2607.22534"
+    "2607.22534",
+    "2607.22525"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -200,10 +201,6 @@
     "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure"
-    },
     {
       "kind": "explain",
       "title": "Learning Action Priors for Cross-embodiment Robot Manipulation"
@@ -1199,6 +1196,10 @@
     {
       "kind": "paper",
       "title": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction"
+    },
+    {
+      "kind": "explain",
+      "title": "Explainable Reinforcement Learning for assisting Air Traffic Controllers"
     }
   ]
 }
