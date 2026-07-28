@@ -203,13 +203,10 @@
     "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
     "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
     "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-    "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/"
+    "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+    "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Autoregressive"
-    },
     {
       "kind": "paper",
       "title": "Autoregressive Boltzmann Generators"
@@ -1205,6 +1202,10 @@
     {
       "kind": "concept",
       "title": "Sinkhorn"
+    },
+    {
+      "kind": "news",
+      "title": "Closing the data loop in AI-driven drug discovery"
     }
   ]
 }
