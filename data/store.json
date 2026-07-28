@@ -204,10 +204,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity"
-    },
-    {
       "kind": "concept",
       "title": "Distillation"
     },
@@ -1198,6 +1194,10 @@
     {
       "kind": "news",
       "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before."
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     },
     {
       "kind": "concept",
