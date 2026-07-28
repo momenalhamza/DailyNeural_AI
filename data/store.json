@@ -207,10 +207,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs"
-    },
-    {
       "kind": "concept",
       "title": "Large Language Models"
     },
@@ -1205,6 +1201,10 @@
     {
       "kind": "paper",
       "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding"
+    },
+    {
+      "kind": "concept",
+      "title": "Eroom’s Law"
     }
   ]
 }
