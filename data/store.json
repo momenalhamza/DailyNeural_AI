@@ -156,7 +156,8 @@
     "2607.22534",
     "2607.22525",
     "2607.22520",
-    "2607.24743"
+    "2607.24743",
+    "2607.24741"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -207,10 +208,6 @@
     "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Autoregressive Boltzmann Generators"
-    },
     {
       "kind": "concept",
       "title": "LLMs"
@@ -1206,6 +1203,10 @@
     {
       "kind": "news",
       "title": "Closing the data loop in AI-driven drug discovery"
+    },
+    {
+      "kind": "paper",
+      "title": "Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport"
     }
   ]
 }
