@@ -208,10 +208,6 @@
   "history": [
     {
       "kind": "concept",
-      "title": "Large Language Models"
-    },
-    {
-      "kind": "concept",
       "title": "Autoregressive"
     },
     {
@@ -1205,6 +1201,10 @@
     {
       "kind": "concept",
       "title": "Eroom’s Law"
+    },
+    {
+      "kind": "concept",
+      "title": "Sinkhorn"
     }
   ]
 }
