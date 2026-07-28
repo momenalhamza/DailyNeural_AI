@@ -155,7 +155,8 @@
     "2607.21548",
     "2607.22534",
     "2607.22525",
-    "2607.22520"
+    "2607.22520",
+    "2607.24743"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -205,10 +206,6 @@
     "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "DanceOPD: On-Policy Generative Field Distillation"
-    },
     {
       "kind": "paper",
       "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs"
@@ -1204,6 +1201,10 @@
     {
       "kind": "news",
       "title": "The path to artificial superintelligence"
+    },
+    {
+      "kind": "paper",
+      "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding"
     }
   ]
 }
