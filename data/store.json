@@ -209,10 +209,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "LLMs"
-    },
-    {
       "kind": "news",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI"
     },
@@ -1207,6 +1203,10 @@
     {
       "kind": "paper",
       "title": "Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport"
+    },
+    {
+      "kind": "concept",
+      "title": "On-Policy Distillation"
     }
   ]
 }
