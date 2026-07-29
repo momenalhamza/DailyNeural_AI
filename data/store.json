@@ -158,7 +158,8 @@
     "2607.22520",
     "2607.24743",
     "2607.24741",
-    "2607.26057"
+    "2607.26057",
+    "2607.26055"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -211,10 +212,6 @@
     "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Error-Conditioned Neural Solvers"
-    },
     {
       "kind": "concept",
       "title": "Transformer"
@@ -1210,6 +1207,10 @@
     {
       "kind": "paper",
       "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation"
+    },
+    {
+      "kind": "paper",
+      "title": "$π\\mathbf{R}^2$: Reactive Real-time Flow Policies"
     }
   ]
 }
