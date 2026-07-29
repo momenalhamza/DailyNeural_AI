@@ -205,13 +205,10 @@
     "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
     "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
     "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-    "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/"
+    "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+    "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI"
-    },
     {
       "kind": "news",
       "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required"
@@ -1207,6 +1204,10 @@
     {
       "kind": "concept",
       "title": "On-Policy Distillation"
+    },
+    {
+      "kind": "news",
+      "title": "The AI Hype Index: Unsexy AI"
     }
   ]
 }
