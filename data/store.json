@@ -206,13 +206,10 @@
     "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
     "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
     "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-    "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/"
+    "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required"
-    },
     {
       "kind": "explain",
       "title": "When are likely answers right? On Sequence Probability and Correctness in LLMs"
@@ -1208,6 +1205,10 @@
     {
       "kind": "news",
       "title": "The AI Hype Index: Unsexy AI"
+    },
+    {
+      "kind": "news",
+      "title": "Building the enterprise environment for agentic AI"
     }
   ]
 }
