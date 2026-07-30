@@ -212,13 +212,10 @@
     "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
     "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
     "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-    "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/"
+    "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+    "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning"
-    },
     {
       "kind": "explain",
       "title": "Hallucination in World Models is Predictable and Preventable"
@@ -1214,6 +1211,10 @@
     {
       "kind": "paper",
       "title": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?"
+    },
+    {
+      "kind": "news",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack"
     }
   ]
 }
