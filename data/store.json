@@ -165,7 +165,8 @@
     "2607.27203",
     "2607.27196",
     "2607.27191",
-    "2607.27189"
+    "2607.27189",
+    "2607.27188"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -219,10 +220,6 @@
     "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "A Multi-Fidelity Convolutional Autoencoder-Transfer Learning Framework for Guided-Wave-Based Damage Diagnosis Using Large Simulated and Limited Experimental Datasets"
-    },
     {
       "kind": "paper",
       "title": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand"
@@ -1218,6 +1215,10 @@
     {
       "kind": "paper",
       "title": "APEX-Accounting"
+    },
+    {
+      "kind": "explain",
+      "title": "Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes"
     }
   ]
 }
