@@ -162,7 +162,8 @@
     "2607.26055",
     "2607.26052",
     "2607.26043",
-    "2607.27203"
+    "2607.27203",
+    "2607.27196"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -216,10 +217,6 @@
     "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Hallucination in World Models is Predictable and Preventable"
-    },
     {
       "kind": "paper",
       "title": "Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders"
@@ -1215,6 +1212,10 @@
     {
       "kind": "news",
       "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack"
+    },
+    {
+      "kind": "paper",
+      "title": "From Classification to Regression: Using a Fruitfly to Solve Equations"
     }
   ]
 }
