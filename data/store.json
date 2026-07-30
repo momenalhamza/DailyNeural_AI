@@ -215,10 +215,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "LLMs"
-    },
-    {
       "kind": "paper",
       "title": "Language-Based Digital Twins for Elderly Cognitive Assistance"
     },
@@ -1213,6 +1209,10 @@
     {
       "kind": "explain",
       "title": "Re-thinking Mammography Transfer Learning: The Dataset-Informed Transfer Learning (DITL) Framework for Breast Cancer Screening and Lesion Diagnosis"
+    },
+    {
+      "kind": "concept",
+      "title": "fine-tuning"
     }
   ]
 }
