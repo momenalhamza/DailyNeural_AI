@@ -163,7 +163,8 @@
     "2607.26052",
     "2607.26043",
     "2607.27203",
-    "2607.27196"
+    "2607.27196",
+    "2607.27191"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -217,10 +218,6 @@
     "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Beyond the Hard Budget: Sparsity Regularizers for More Interpretable Top-k Sparse Autoencoders"
-    },
     {
       "kind": "concept",
       "title": "Gradient Equilibrium"
@@ -1216,6 +1213,10 @@
     {
       "kind": "paper",
       "title": "From Classification to Regression: Using a Fruitfly to Solve Equations"
+    },
+    {
+      "kind": "paper",
+      "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies"
     }
   ]
 }
