@@ -219,10 +219,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "Gradient Equilibrium"
-    },
-    {
       "kind": "paper",
       "title": "Blackwell Approachability and Gradient Equilibrium are Equivalent"
     },
@@ -1217,6 +1213,10 @@
     {
       "kind": "paper",
       "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies"
+    },
+    {
+      "kind": "concept",
+      "title": "Transformer"
     }
   ]
 }
