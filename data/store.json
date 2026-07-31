@@ -221,10 +221,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand"
-    },
-    {
       "kind": "explain",
       "title": "Surprises in Proper Positive-Only Learning"
     },
@@ -1219,6 +1215,10 @@
     {
       "kind": "explain",
       "title": "Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes"
+    },
+    {
+      "kind": "concept",
+      "title": "Transformer"
     }
   ]
 }
