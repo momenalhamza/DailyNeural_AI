@@ -168,7 +168,8 @@
     "2607.27189",
     "2607.27188",
     "2607.28628",
-    "2607.28627"
+    "2607.28627",
+    "2607.28623"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -222,10 +223,6 @@
     "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "ROI"
-    },
     {
       "kind": "concept",
       "title": "Nash Equilibrium"
@@ -1221,6 +1218,10 @@
     {
       "kind": "paper",
       "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval"
+    },
+    {
+      "kind": "paper",
+      "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball"
     }
   ]
 }
