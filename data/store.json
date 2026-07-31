@@ -225,10 +225,6 @@
   "history": [
     {
       "kind": "news",
-      "title": "Agent confidence on the technical frontier"
-    },
-    {
-      "kind": "news",
       "title": "AI agents are not your “coworkers”"
     },
     {
@@ -1218,6 +1214,10 @@
     {
       "kind": "paper",
       "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball"
+    },
+    {
+      "kind": "concept",
+      "title": "GPT-5.5"
     },
     {
       "kind": "concept",
