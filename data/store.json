@@ -172,7 +172,8 @@
     "2607.28623",
     "2607.28618",
     "2607.28617",
-    "2607.28609"
+    "2607.28609",
+    "2607.28608"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -226,10 +227,6 @@
     "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training"
-    },
     {
       "kind": "paper",
       "title": "Self-Evolving World Models for LLM Agent Planning"
@@ -1225,6 +1222,10 @@
     {
       "kind": "explain",
       "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models"
+    },
+    {
+      "kind": "paper",
+      "title": "KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models"
     }
   ]
 }
