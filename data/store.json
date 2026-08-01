@@ -170,7 +170,8 @@
     "2607.28628",
     "2607.28627",
     "2607.28623",
-    "2607.28618"
+    "2607.28618",
+    "2607.28617"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -224,10 +225,6 @@
     "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "VLK"
-    },
     {
       "kind": "paper",
       "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes"
@@ -1223,6 +1220,10 @@
     {
       "kind": "paper",
       "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis"
+    },
+    {
+      "kind": "paper",
+      "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications"
     }
   ]
 }
