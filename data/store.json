@@ -174,7 +174,8 @@
     "2607.28617",
     "2607.28609",
     "2607.28608",
-    "2607.28591"
+    "2607.28591",
+    "2607.28589"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -228,10 +229,6 @@
     "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Agriculture is ready for AI, but its data isn’t"
-    },
     {
       "kind": "paper",
       "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining"
@@ -1227,6 +1224,10 @@
     {
       "kind": "paper",
       "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments"
+    },
+    {
+      "kind": "explain",
+      "title": "MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers"
     }
   ]
 }
