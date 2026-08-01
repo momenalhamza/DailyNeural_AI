@@ -224,10 +224,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "AI agents are not your “coworkers”"
-    },
-    {
       "kind": "paper",
       "title": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes"
     },
@@ -1214,6 +1210,10 @@
     {
       "kind": "paper",
       "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball"
+    },
+    {
+      "kind": "concept",
+      "title": "GPT-5.5"
     },
     {
       "kind": "concept",
