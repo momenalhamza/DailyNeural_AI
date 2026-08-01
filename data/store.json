@@ -169,7 +169,8 @@
     "2607.27188",
     "2607.28628",
     "2607.28627",
-    "2607.28623"
+    "2607.28623",
+    "2607.28618"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -223,10 +224,6 @@
     "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes"
-    },
     {
       "kind": "concept",
       "title": "VLK"
@@ -1222,6 +1219,10 @@
     {
       "kind": "concept",
       "title": "GPT-5.5"
+    },
+    {
+      "kind": "paper",
+      "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis"
     }
   ]
 }
