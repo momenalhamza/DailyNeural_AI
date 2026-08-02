@@ -230,10 +230,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "GROW$^2$: Grounding Which and Where for Robot Tool Use"
-    },
-    {
       "kind": "concept",
       "title": "LLMs"
     },
@@ -1224,6 +1220,10 @@
     {
       "kind": "explain",
       "title": "MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     },
     {
       "kind": "concept",
