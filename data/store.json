@@ -176,7 +176,8 @@
     "2607.28608",
     "2607.28591",
     "2607.28589",
-    "2607.28587"
+    "2607.28587",
+    "2607.28582"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -230,10 +231,6 @@
     "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Claude Science is Anthropic’s newest flagship product"
-    },
     {
       "kind": "explain",
       "title": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision"
@@ -1229,6 +1226,10 @@
     {
       "kind": "paper",
       "title": "PAIChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks"
+    },
+    {
+      "kind": "explain",
+      "title": "$β$-OPSD: Deriving with Policy Optimization, Training with Self-Distillation"
     }
   ]
 }
