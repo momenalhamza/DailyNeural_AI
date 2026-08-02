@@ -232,10 +232,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents"
-    },
-    {
       "kind": "concept",
       "title": "LLMs"
     },
@@ -1230,6 +1226,10 @@
     {
       "kind": "concept",
       "title": "Transformer"
+    },
+    {
+      "kind": "concept",
+      "title": "GNN"
     }
   ]
 }
