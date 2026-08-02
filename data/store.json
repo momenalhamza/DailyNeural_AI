@@ -232,10 +232,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision"
-    },
-    {
       "kind": "paper",
       "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents"
     },
@@ -1230,6 +1226,10 @@
     {
       "kind": "explain",
       "title": "$β$-OPSD: Deriving with Policy Optimization, Training with Self-Distillation"
+    },
+    {
+      "kind": "concept",
+      "title": "Transformer"
     }
   ]
 }
