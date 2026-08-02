@@ -231,10 +231,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining"
-    },
-    {
-      "kind": "paper",
       "title": "GROW$^2$: Grounding Which and Where for Robot Tool Use"
     },
     {
@@ -1228,6 +1224,10 @@
     {
       "kind": "explain",
       "title": "MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
