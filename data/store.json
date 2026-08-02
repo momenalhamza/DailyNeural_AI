@@ -175,7 +175,8 @@
     "2607.28609",
     "2607.28608",
     "2607.28591",
-    "2607.28589"
+    "2607.28589",
+    "2607.28587"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -229,10 +230,6 @@
     "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLMs"
-    },
     {
       "kind": "news",
       "title": "Claude Science is Anthropic’s newest flagship product"
@@ -1228,6 +1225,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "paper",
+      "title": "PAIChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks"
     }
   ]
 }
