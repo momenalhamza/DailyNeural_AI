@@ -180,7 +180,8 @@
     "2607.28582",
     "2607.28580",
     "2607.28576",
-    "2607.29677"
+    "2607.29677",
+    "2607.29675"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -235,10 +236,6 @@
     "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Measuring the Gap Between Human and LLM Research Ideas"
-    },
     {
       "kind": "explain",
       "title": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training"
@@ -1234,6 +1231,10 @@
     {
       "kind": "explain",
       "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction"
+    },
+    {
+      "kind": "paper",
+      "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering"
     }
   ]
 }
