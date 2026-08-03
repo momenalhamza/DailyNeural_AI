@@ -230,13 +230,10 @@
     "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
     "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
     "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-    "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
+    "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors"
-    },
     {
       "kind": "concept",
       "title": "LLM"
@@ -1232,6 +1229,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "news",
+      "title": "Here’s why AI agents lie and cheat to reach their goals"
     }
   ]
 }
