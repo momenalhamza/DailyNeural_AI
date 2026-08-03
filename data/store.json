@@ -237,10 +237,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training"
-    },
-    {
       "kind": "paper",
       "title": "Language-Critique Imitation Learning from Suboptimal Demonstrations"
     },
@@ -1235,6 +1231,10 @@
     {
       "kind": "paper",
       "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering"
+    },
+    {
+      "kind": "concept",
+      "title": "Error Feedback"
     }
   ]
 }
