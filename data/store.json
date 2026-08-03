@@ -237,10 +237,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Language-Critique Imitation Learning from Suboptimal Demonstrations"
-    },
-    {
       "kind": "concept",
       "title": "LLM"
     },
@@ -1235,6 +1231,10 @@
     {
       "kind": "concept",
       "title": "Error Feedback"
+    },
+    {
+      "kind": "concept",
+      "title": "LMO"
     }
   ]
 }
