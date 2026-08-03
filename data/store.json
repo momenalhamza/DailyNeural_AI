@@ -182,7 +182,8 @@
     "2607.28576",
     "2607.29677",
     "2607.29675",
-    "2607.29674"
+    "2607.29674",
+    "2607.29665"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -237,10 +238,6 @@
     "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "BPM"
-    },
     {
       "kind": "news",
       "title": "Achieving operational excellence with AI"
@@ -1236,6 +1233,10 @@
     {
       "kind": "paper",
       "title": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback"
+    },
+    {
+      "kind": "explain",
+      "title": "Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations"
     }
   ]
 }
