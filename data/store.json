@@ -235,10 +235,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs"
-    },
-    {
-      "kind": "paper",
       "title": "When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors"
     },
     {
@@ -1232,6 +1228,10 @@
     {
       "kind": "explain",
       "title": "Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
