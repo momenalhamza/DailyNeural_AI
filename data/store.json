@@ -242,10 +242,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "Distributed Attacks in Persistent-State AI Control"
-    },
-    {
       "kind": "paper",
       "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning"
     },
@@ -1240,6 +1236,10 @@
     {
       "kind": "paper",
       "title": "onepot-Bench 0: towards lab-aware in silico chemistry benchmarks"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
