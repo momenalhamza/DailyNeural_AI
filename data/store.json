@@ -243,10 +243,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning"
-    },
-    {
-      "kind": "paper",
       "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions"
     },
     {
@@ -1236,6 +1232,10 @@
     {
       "kind": "paper",
       "title": "onepot-Bench 0: towards lab-aware in silico chemistry benchmarks"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     },
     {
       "kind": "concept",
