@@ -184,7 +184,8 @@
     "2607.29675",
     "2607.29674",
     "2607.29665",
-    "2608.02599"
+    "2608.02599",
+    "2608.02595"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -240,10 +241,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Teaching AI to run with the turbines"
-    },
     {
       "kind": "explain",
       "title": "Distributed Attacks in Persistent-State AI Control"
@@ -1239,6 +1236,10 @@
     {
       "kind": "explain",
       "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework"
+    },
+    {
+      "kind": "paper",
+      "title": "onepot-Bench 0: towards lab-aware in silico chemistry benchmarks"
     }
   ]
 }
