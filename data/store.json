@@ -186,7 +186,8 @@
     "2607.29665",
     "2608.02599",
     "2608.02595",
-    "2608.02588"
+    "2608.02588",
+    "2608.02585"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -242,10 +243,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Transformer"
-    },
     {
       "kind": "paper",
       "title": "Online Safety Monitoring for LLMs"
@@ -1241,6 +1238,10 @@
     {
       "kind": "paper",
       "title": "The Condition-Number Barrier in Sparse Least Squares"
+    },
+    {
+      "kind": "paper",
+      "title": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning"
     }
   ]
 }
