@@ -235,13 +235,10 @@
     "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
     "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
     "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
+    "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill"
-    },
     {
       "kind": "concept",
       "title": "LLM"
@@ -1237,6 +1234,10 @@
     {
       "kind": "concept",
       "title": "DNN"
+    },
+    {
+      "kind": "news",
+      "title": "Trump’s AI protectionism has come for robotics"
     }
   ]
 }
