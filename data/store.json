@@ -239,10 +239,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "Achieving operational excellence with AI"
-    },
-    {
       "kind": "explain",
       "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill"
     },
@@ -1237,6 +1233,10 @@
     {
       "kind": "explain",
       "title": "Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations"
+    },
+    {
+      "kind": "concept",
+      "title": "DNN"
     }
   ]
 }
