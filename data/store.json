@@ -185,7 +185,8 @@
     "2607.29674",
     "2607.29665",
     "2608.02599",
-    "2608.02595"
+    "2608.02595",
+    "2608.02588"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -241,10 +242,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions"
-    },
     {
       "kind": "concept",
       "title": "Transformer"
@@ -1240,6 +1237,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "paper",
+      "title": "The Condition-Number Barrier in Sparse Least Squares"
     }
   ]
 }
