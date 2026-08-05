@@ -190,7 +190,8 @@
     "2608.02585",
     "2608.04007",
     "2608.04001",
-    "2608.03990"
+    "2608.03990",
+    "2608.03983"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -246,10 +247,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials"
-    },
     {
       "kind": "explain",
       "title": "Controllable Sim Agents with Behavior Latents"
@@ -1245,6 +1242,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "explain",
+      "title": "Can Large Language Models Recover Semantic Optimization Opportunities That Compilers Miss?"
     }
   ]
 }
