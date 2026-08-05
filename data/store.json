@@ -188,7 +188,8 @@
     "2608.02595",
     "2608.02588",
     "2608.02585",
-    "2608.04007"
+    "2608.04007",
+    "2608.04001"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -244,10 +245,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning"
-    },
     {
       "kind": "paper",
       "title": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates"
@@ -1243,6 +1240,10 @@
     {
       "kind": "paper",
       "title": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning"
+    },
+    {
+      "kind": "paper",
+      "title": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility"
     }
   ]
 }
