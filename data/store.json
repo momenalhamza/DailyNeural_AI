@@ -247,10 +247,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas"
-    },
-    {
       "kind": "paper",
       "title": "DemoPSD: Disagreement-Modulated Policy Self-Distillation"
     },
@@ -1245,6 +1241,10 @@
     {
       "kind": "paper",
       "title": "Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation"
+    },
+    {
+      "kind": "concept",
+      "title": "LLMs"
     }
   ]
 }
