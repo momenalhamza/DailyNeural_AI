@@ -244,10 +244,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Online Safety Monitoring for LLMs"
-    },
-    {
       "kind": "concept",
       "title": "LLM"
     },
@@ -1242,6 +1238,10 @@
     {
       "kind": "paper",
       "title": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning"
+    },
+    {
+      "kind": "concept",
+      "title": "LLMs"
     }
   ]
 }
