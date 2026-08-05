@@ -247,10 +247,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "DemoPSD: Disagreement-Modulated Policy Self-Distillation"
-    },
-    {
       "kind": "concept",
       "title": "Adam"
     },
@@ -1241,6 +1237,10 @@
     {
       "kind": "paper",
       "title": "Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation"
+    },
+    {
+      "kind": "concept",
+      "title": "LLMs"
     },
     {
       "kind": "concept",
