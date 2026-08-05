@@ -189,7 +189,8 @@
     "2608.02588",
     "2608.02585",
     "2608.04007",
-    "2608.04001"
+    "2608.04001",
+    "2608.03990"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -245,10 +246,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates"
-    },
     {
       "kind": "explain",
       "title": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas"
@@ -1244,6 +1241,10 @@
     {
       "kind": "paper",
       "title": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility"
+    },
+    {
+      "kind": "paper",
+      "title": "Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation"
     }
   ]
 }
