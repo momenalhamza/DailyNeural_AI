@@ -247,10 +247,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "Adam"
-    },
-    {
       "kind": "paper",
       "title": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials"
     },
@@ -1245,6 +1241,10 @@
     {
       "kind": "concept",
       "title": "LLMs"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
