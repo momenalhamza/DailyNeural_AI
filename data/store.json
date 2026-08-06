@@ -191,7 +191,8 @@
     "2608.04007",
     "2608.04001",
     "2608.03990",
-    "2608.03983"
+    "2608.03983",
+    "2608.05144"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -247,10 +248,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "SE-RRMs"
-    },
     {
       "kind": "paper",
       "title": "G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models"
@@ -1246,6 +1243,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "paper",
+      "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning"
     }
   ]
 }
