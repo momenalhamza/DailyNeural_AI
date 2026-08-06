@@ -194,7 +194,8 @@
     "2608.03983",
     "2608.05144",
     "2608.05141",
-    "2608.05139"
+    "2608.05139",
+    "2608.05138"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -250,10 +251,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "TestEvo-Bench: An Executable and Live Benchmark for Test and Code Co-Evolution"
-    },
     {
       "kind": "paper",
       "title": "Human Capital, Not Model Benchmarks, Predicts Hybrid Intelligence in Forecasting"
@@ -1249,6 +1246,10 @@
     {
       "kind": "paper",
       "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning"
+    },
+    {
+      "kind": "paper",
+      "title": "Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains"
     }
   ]
 }
