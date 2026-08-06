@@ -248,10 +248,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "Controllable Sim Agents with Behavior Latents"
-    },
-    {
       "kind": "concept",
       "title": "SE-RRMs"
     },
@@ -1246,6 +1242,10 @@
     {
       "kind": "explain",
       "title": "Can Large Language Models Recover Semantic Optimization Opportunities That Compilers Miss?"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
