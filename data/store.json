@@ -193,7 +193,8 @@
     "2608.03990",
     "2608.03983",
     "2608.05144",
-    "2608.05141"
+    "2608.05141",
+    "2608.05139"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -249,10 +250,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Combating Textual Noise and Redundancy: Entropy-Aware Dense Visual Token Pruning"
-    },
     {
       "kind": "explain",
       "title": "TestEvo-Bench: An Executable and Live Benchmark for Test and Code Co-Evolution"
@@ -1248,6 +1245,10 @@
     {
       "kind": "explain",
       "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling"
+    },
+    {
+      "kind": "paper",
+      "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning"
     }
   ]
 }
