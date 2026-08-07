@@ -198,7 +198,8 @@
     "2608.05138",
     "2608.05136",
     "2608.06377",
-    "2608.06366"
+    "2608.06366",
+    "2608.06364"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -254,10 +255,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation"
-    },
     {
       "kind": "explain",
       "title": "Understanding the Robustness of Distributed Self-Supervised Learning Frameworks Against Non-IID Data"
@@ -1253,6 +1250,10 @@
     {
       "kind": "paper",
       "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering"
+    },
+    {
+      "kind": "explain",
+      "title": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria"
     }
   ]
 }
