@@ -254,10 +254,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs"
-    },
-    {
       "kind": "explain",
       "title": "OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers"
     },
@@ -1252,6 +1248,10 @@
     {
       "kind": "paper",
       "title": "Learning When to Trust via Selective Context Preference Optimization"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
