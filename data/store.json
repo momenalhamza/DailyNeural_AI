@@ -197,7 +197,8 @@
     "2608.05139",
     "2608.05138",
     "2608.05136",
-    "2608.06377"
+    "2608.06377",
+    "2608.06366"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -253,10 +254,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers"
-    },
     {
       "kind": "paper",
       "title": "Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation"
@@ -1252,6 +1249,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "paper",
+      "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering"
     }
   ]
 }
