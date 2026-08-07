@@ -195,7 +195,8 @@
     "2608.05144",
     "2608.05141",
     "2608.05139",
-    "2608.05138"
+    "2608.05138",
+    "2608.05136"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -251,10 +252,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Human Capital, Not Model Benchmarks, Predicts Hybrid Intelligence in Forecasting"
-    },
     {
       "kind": "concept",
       "title": "VLAs"
@@ -1250,6 +1247,10 @@
     {
       "kind": "paper",
       "title": "Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains"
+    },
+    {
+      "kind": "paper",
+      "title": "The Loss Does Not See the Basis, but Adam Does"
     }
   ]
 }
