@@ -257,10 +257,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "Optimal Stabilizer Testing and Learning with Limited Quantum Memory"
-    },
-    {
       "kind": "paper",
       "title": "EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments"
     },
@@ -1255,6 +1251,10 @@
     {
       "kind": "paper",
       "title": "An Optimal Agnostic PAC Algorithm"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
