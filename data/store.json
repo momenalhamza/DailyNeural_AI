@@ -200,7 +200,8 @@
     "2608.06377",
     "2608.06366",
     "2608.06364",
-    "2608.06363"
+    "2608.06363",
+    "2608.06362"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -256,10 +257,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments"
-    },
     {
       "kind": "concept",
       "title": "Transformer"
@@ -1255,6 +1252,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "paper",
+      "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games"
     }
   ]
 }
