@@ -262,10 +262,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model"
-    },
-    {
       "kind": "explain",
       "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation"
     },
@@ -1260,6 +1256,10 @@
     {
       "kind": "paper",
       "title": "Challenges in Evaluating Explanation Methods for Static and Evolving Data"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
