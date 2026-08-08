@@ -259,10 +259,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "Your family’s $300 stake in OpenAI"
-    },
-    {
       "kind": "paper",
       "title": "Extreme Adaptive Transformer for Time Series Forecasting"
     },
@@ -1257,6 +1253,10 @@
     {
       "kind": "paper",
       "title": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
