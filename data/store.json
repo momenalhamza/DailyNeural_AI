@@ -206,7 +206,8 @@
     "2608.06353",
     "2608.06352",
     "2608.06351",
-    "2608.06346"
+    "2608.06346",
+    "2608.06340"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -262,10 +263,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification"
-    },
     {
       "kind": "concept",
       "title": "fine-grained"
@@ -1261,6 +1258,10 @@
     {
       "kind": "paper",
       "title": "TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories"
+    },
+    {
+      "kind": "explain",
+      "title": "Scalable estimation of VARMA models"
     }
   ]
 }
