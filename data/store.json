@@ -204,7 +204,8 @@
     "2608.06362",
     "2608.06361",
     "2608.06353",
-    "2608.06352"
+    "2608.06352",
+    "2608.06351"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -260,10 +261,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "VLA"
-    },
     {
       "kind": "paper",
       "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model"
@@ -1259,6 +1256,10 @@
     {
       "kind": "explain",
       "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks"
+    },
+    {
+      "kind": "paper",
+      "title": "Challenges in Evaluating Explanation Methods for Static and Evolving Data"
     }
   ]
 }
