@@ -203,7 +203,8 @@
     "2608.06363",
     "2608.06362",
     "2608.06361",
-    "2608.06353"
+    "2608.06353",
+    "2608.06352"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -259,10 +260,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Reasoning effort, not tool access, buys first-try reliability in agentic code generation: an observational study"
-    },
     {
       "kind": "concept",
       "title": "VLA"
@@ -1258,6 +1255,10 @@
     {
       "kind": "paper",
       "title": "Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents"
+    },
+    {
+      "kind": "explain",
+      "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks"
     }
   ]
 }
