@@ -211,7 +211,8 @@
     "2608.06337",
     "2608.06331",
     "2608.06329",
-    "2608.06311"
+    "2608.06311",
+    "2608.06310"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -267,10 +268,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion"
-    },
     {
       "kind": "paper",
       "title": "Rethinking Indic AI from a Lens of Cultural Heritage Preservation"
@@ -1266,6 +1263,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "paper",
+      "title": "RRC: Unlocking Generative Reward Models in LLM Reinforcement Learning via Ranking-Based Reward Construction"
     }
   ]
 }
