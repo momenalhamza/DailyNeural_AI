@@ -209,7 +209,8 @@
     "2608.06346",
     "2608.06340",
     "2608.06337",
-    "2608.06331"
+    "2608.06331",
+    "2608.06329"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -265,10 +266,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework"
-    },
     {
       "kind": "concept",
       "title": "self-attention"
@@ -1264,6 +1261,10 @@
     {
       "kind": "paper",
       "title": "Tytan: Interactive Neurosymbolic Construction of Analytic Semantic Schemas from Relational Data"
+    },
+    {
+      "kind": "explain",
+      "title": "Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents"
     }
   ]
 }
