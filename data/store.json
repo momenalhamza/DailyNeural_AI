@@ -266,10 +266,6 @@
   "history": [
     {
       "kind": "news",
-      "title": "The foundational elements of AI architecture that IT leaders need to scale"
-    },
-    {
-      "kind": "news",
       "title": "Building the foundation for an autonomous enterprise"
     },
     {
@@ -1263,6 +1259,10 @@
     {
       "kind": "paper",
       "title": "Optimal Rates for Learning with Monotone Adversaries"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
