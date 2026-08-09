@@ -207,7 +207,8 @@
     "2608.06352",
     "2608.06351",
     "2608.06346",
-    "2608.06340"
+    "2608.06340",
+    "2608.06337"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -263,10 +264,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "fine-grained"
-    },
     {
       "kind": "news",
       "title": "The foundational elements of AI architecture that IT leaders need to scale"
@@ -1262,6 +1259,10 @@
     {
       "kind": "explain",
       "title": "Scalable estimation of VARMA models"
+    },
+    {
+      "kind": "paper",
+      "title": "Optimal Rates for Learning with Monotone Adversaries"
     }
   ]
 }
