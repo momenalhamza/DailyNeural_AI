@@ -273,10 +273,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "LLM"
-    },
-    {
       "kind": "paper",
       "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning"
     },
@@ -1271,6 +1267,10 @@
     {
       "kind": "explain",
       "title": "CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity"
+    },
+    {
+      "kind": "concept",
+      "title": "LLMs"
     }
   ]
 }
