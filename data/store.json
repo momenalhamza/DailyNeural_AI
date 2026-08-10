@@ -213,7 +213,8 @@
     "2608.06329",
     "2608.06311",
     "2608.06310",
-    "2608.06305"
+    "2608.06305",
+    "2608.07463"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -269,10 +270,6 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "MILP"
-    },
     {
       "kind": "concept",
       "title": "MILP"
@@ -1268,6 +1265,10 @@
     {
       "kind": "explain",
       "title": "Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations"
+    },
+    {
+      "kind": "paper",
+      "title": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation"
     }
   ]
 }
