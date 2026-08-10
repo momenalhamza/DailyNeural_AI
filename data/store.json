@@ -274,10 +274,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning"
-    },
-    {
-      "kind": "paper",
       "title": "Co-LMLM: Continuous-Query Limited Memory Language Models"
     },
     {
@@ -1271,6 +1267,10 @@
     {
       "kind": "concept",
       "title": "LLMs"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
