@@ -271,10 +271,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "MILP"
-    },
-    {
       "kind": "paper",
       "title": "GraphBU: MILP Instance Generation with Graph-Native Block Units"
     },
@@ -1269,6 +1265,10 @@
     {
       "kind": "paper",
       "title": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation"
+    },
+    {
+      "kind": "concept",
+      "title": "LLMs"
     }
   ]
 }
