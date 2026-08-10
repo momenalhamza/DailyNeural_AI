@@ -214,7 +214,8 @@
     "2608.06311",
     "2608.06310",
     "2608.06305",
-    "2608.07463"
+    "2608.07463",
+    "2608.07460"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -271,10 +272,6 @@
     "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology"
-    },
     {
       "kind": "concept",
       "title": "LLM"
@@ -1270,6 +1267,10 @@
     {
       "kind": "news",
       "title": "AI for science needs reasoning, not just data"
+    },
+    {
+      "kind": "explain",
+      "title": "CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity"
     }
   ]
 }
