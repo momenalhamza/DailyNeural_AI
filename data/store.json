@@ -220,7 +220,8 @@
     "2608.09930",
     "2608.09928",
     "2608.09925",
-    "2608.09921"
+    "2608.09921",
+    "2608.09902"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -279,10 +280,6 @@
     "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Wasserstein distance"
-    },
     {
       "kind": "concept",
       "title": "Wasserstein distance"
@@ -1278,6 +1275,10 @@
     {
       "kind": "paper",
       "title": "GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis"
+    },
+    {
+      "kind": "explain",
+      "title": "DSLE: A Learning Environment for Dark Souls Boss Encounters"
     }
   ]
 }
