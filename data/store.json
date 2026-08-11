@@ -216,7 +216,8 @@
     "2608.06305",
     "2608.07463",
     "2608.07460",
-    "2608.07458"
+    "2608.07458",
+    "2608.09930"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -274,10 +275,6 @@
     "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "The Key to Going Linear: Analysis-Driven Transformer Linearization"
-    },
     {
       "kind": "paper",
       "title": "Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass"
@@ -1273,6 +1270,10 @@
     {
       "kind": "explain",
       "title": "CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG"
+    },
+    {
+      "kind": "paper",
+      "title": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions"
     }
   ]
 }
