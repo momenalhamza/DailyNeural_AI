@@ -279,10 +279,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "OpenCoF: Learning to Reason Through Video Generation"
-    },
-    {
       "kind": "paper",
       "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation"
     },
@@ -1277,6 +1273,10 @@
     {
       "kind": "paper",
       "title": "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
