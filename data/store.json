@@ -218,7 +218,8 @@
     "2608.07460",
     "2608.07458",
     "2608.09930",
-    "2608.09928"
+    "2608.09928",
+    "2608.09925"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -277,10 +278,6 @@
     "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts"
-    },
     {
       "kind": "explain",
       "title": "OpenCoF: Learning to Reason Through Video Generation"
@@ -1276,6 +1273,10 @@
     {
       "kind": "explain",
       "title": "Multimodal Model Diffing for Feature Discovery and Control"
+    },
+    {
+      "kind": "paper",
+      "title": "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch"
     }
   ]
 }
