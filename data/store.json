@@ -272,13 +272,10 @@
     "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
     "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-    "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/"
+    "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+    "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety"
-    },
     {
       "kind": "concept",
       "title": "fine-tuning"
@@ -1274,6 +1271,10 @@
     {
       "kind": "concept",
       "title": "SAEs"
+    },
+    {
+      "kind": "news",
+      "title": "AI professors are negotiating the new realities of academic research"
     }
   ]
 }
