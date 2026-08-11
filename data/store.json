@@ -277,10 +277,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass"
-    },
-    {
-      "kind": "paper",
       "title": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety"
     },
     {
@@ -1274,6 +1270,10 @@
     {
       "kind": "paper",
       "title": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions"
+    },
+    {
+      "kind": "concept",
+      "title": "SAEs"
     }
   ]
 }
