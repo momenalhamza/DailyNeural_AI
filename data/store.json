@@ -222,7 +222,8 @@
     "2608.09925",
     "2608.09921",
     "2608.09902",
-    "2608.11204"
+    "2608.11204",
+    "2608.11200"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -281,10 +282,6 @@
     "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "MulTTiPop: A Multitrack Transcription Dataset for Pop Music"
-    },
     {
       "kind": "concept",
       "title": "LLM"
@@ -1280,6 +1277,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "paper",
+      "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls"
     }
   ]
 }
