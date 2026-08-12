@@ -285,10 +285,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis"
-    },
-    {
       "kind": "paper",
       "title": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph"
     },
@@ -1283,6 +1279,10 @@
     {
       "kind": "paper",
       "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
