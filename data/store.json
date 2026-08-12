@@ -224,7 +224,8 @@
     "2608.09902",
     "2608.11204",
     "2608.11200",
-    "2608.11197"
+    "2608.11197",
+    "2608.11195"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -283,10 +284,6 @@
     "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "SLORR: Simple and Efficient In-Training Low-Rank Regularization"
-    },
     {
       "kind": "explain",
       "title": "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis"
@@ -1282,6 +1279,10 @@
     {
       "kind": "explain",
       "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders"
+    },
+    {
+      "kind": "paper",
+      "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration"
     }
   ]
 }
