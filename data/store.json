@@ -225,7 +225,8 @@
     "2608.11204",
     "2608.11200",
     "2608.11197",
-    "2608.11195"
+    "2608.11195",
+    "2608.11191"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -285,10 +286,6 @@
     "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLM"
-    },
     {
       "kind": "paper",
       "title": "AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding"
@@ -1284,6 +1281,10 @@
     {
       "kind": "news",
       "title": "Scaling AI agents with trustworthy data"
+    },
+    {
+      "kind": "explain",
+      "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation"
     }
   ]
 }
