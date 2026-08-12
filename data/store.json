@@ -223,7 +223,8 @@
     "2608.09921",
     "2608.09902",
     "2608.11204",
-    "2608.11200"
+    "2608.11200",
+    "2608.11197"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -282,10 +283,6 @@
     "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLM"
-    },
     {
       "kind": "paper",
       "title": "SLORR: Simple and Efficient In-Training Low-Rank Regularization"
@@ -1281,6 +1278,10 @@
     {
       "kind": "paper",
       "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls"
+    },
+    {
+      "kind": "explain",
+      "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders"
     }
   ]
 }
