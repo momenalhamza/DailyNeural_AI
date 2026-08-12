@@ -221,7 +221,8 @@
     "2608.09928",
     "2608.09925",
     "2608.09921",
-    "2608.09902"
+    "2608.09902",
+    "2608.11204"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -280,10 +281,6 @@
     "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Wasserstein distance"
-    },
     {
       "kind": "paper",
       "title": "Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling"
@@ -1279,6 +1276,10 @@
     {
       "kind": "explain",
       "title": "DSLE: A Learning Environment for Dark Souls Boss Encounters"
+    },
+    {
+      "kind": "paper",
+      "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning"
     }
   ]
 }
