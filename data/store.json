@@ -283,10 +283,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling"
-    },
-    {
-      "kind": "paper",
       "title": "MulTTiPop: A Multitrack Transcription Dataset for Pop Music"
     },
     {
@@ -1280,6 +1276,10 @@
     {
       "kind": "paper",
       "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
