@@ -288,10 +288,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation"
-    },
-    {
       "kind": "concept",
       "title": "LLM"
     },
@@ -1286,6 +1282,10 @@
     {
       "kind": "paper",
       "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation"
+    },
+    {
+      "kind": "concept",
+      "title": "distillation"
     }
   ]
 }
