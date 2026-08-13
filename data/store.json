@@ -291,10 +291,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs"
-    },
-    {
       "kind": "paper",
       "title": "Super Weights in LLMs and the Failure of Selective Training"
     },
@@ -1289,6 +1285,10 @@
     {
       "kind": "paper",
       "title": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL"
+    },
+    {
+      "kind": "concept",
+      "title": "Retrieval-Augmented Generation"
     }
   ]
 }
