@@ -228,7 +228,8 @@
     "2608.11195",
     "2608.11191",
     "2608.12308",
-    "2608.12307"
+    "2608.12307",
+    "2608.12306"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -289,10 +290,6 @@
     "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows"
-    },
     {
       "kind": "explain",
       "title": "The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs"
@@ -1288,6 +1285,10 @@
     {
       "kind": "explain",
       "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses"
+    },
+    {
+      "kind": "paper",
+      "title": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL"
     }
   ]
 }
