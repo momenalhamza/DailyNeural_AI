@@ -234,7 +234,8 @@
     "2608.13560",
     "2608.13558",
     "2608.13555",
-    "2608.13554"
+    "2608.13554",
+    "2608.13549"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -296,10 +297,6 @@
     "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLM"
-    },
     {
       "kind": "concept",
       "title": "LLM"
@@ -1295,6 +1292,10 @@
     {
       "kind": "concept",
       "title": "LLM"
+    },
+    {
+      "kind": "paper",
+      "title": "Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure"
     }
   ]
 }
