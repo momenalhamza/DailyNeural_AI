@@ -233,7 +233,8 @@
     "2608.12304",
     "2608.13560",
     "2608.13558",
-    "2608.13555"
+    "2608.13555",
+    "2608.13554"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -295,10 +296,6 @@
     "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Scalable Visual Pretraining for Language Intelligence"
-    },
     {
       "kind": "paper",
       "title": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models"
@@ -1294,6 +1291,10 @@
     {
       "kind": "explain",
       "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark"
+    },
+    {
+      "kind": "paper",
+      "title": "Defensive Boosting for Online Probabilistic Forecasting"
     }
   ]
 }
