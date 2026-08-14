@@ -297,10 +297,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models"
-    },
-    {
       "kind": "concept",
       "title": "LLM"
     },
@@ -1295,6 +1291,10 @@
     {
       "kind": "paper",
       "title": "Defensive Boosting for Online Probabilistic Forecasting"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
