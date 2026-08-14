@@ -230,7 +230,8 @@
     "2608.12308",
     "2608.12307",
     "2608.12306",
-    "2608.12304"
+    "2608.12304",
+    "2608.13560"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -292,10 +293,6 @@
     "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Validity of LLMs as data annotators: AMALIA on authority"
-    },
     {
       "kind": "explain",
       "title": "Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction"
@@ -1291,6 +1288,10 @@
     {
       "kind": "explain",
       "title": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models"
+    },
+    {
+      "kind": "paper",
+      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design"
     }
   ]
 }
