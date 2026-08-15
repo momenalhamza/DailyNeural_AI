@@ -302,10 +302,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities"
-    },
-    {
       "kind": "explain",
       "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks"
     },
@@ -1300,6 +1296,10 @@
     {
       "kind": "paper",
       "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?"
+    },
+    {
+      "kind": "concept",
+      "title": "Qubit"
     }
   ]
 }
