@@ -299,10 +299,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show"
-    },
-    {
       "kind": "explain",
       "title": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents"
     },
@@ -1297,6 +1293,10 @@
     {
       "kind": "paper",
       "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
