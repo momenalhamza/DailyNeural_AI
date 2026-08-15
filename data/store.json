@@ -237,7 +237,8 @@
     "2608.13554",
     "2608.13549",
     "2608.13547",
-    "2608.13545"
+    "2608.13545",
+    "2608.13524"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -299,10 +300,6 @@
     "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data"
-    },
     {
       "kind": "concept",
       "title": "LLM"
@@ -1298,6 +1295,10 @@
     {
       "kind": "paper",
       "title": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure"
+    },
+    {
+      "kind": "explain",
+      "title": "DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees"
     }
   ]
 }
