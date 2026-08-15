@@ -239,7 +239,8 @@
     "2608.13547",
     "2608.13545",
     "2608.13524",
-    "2608.13522"
+    "2608.13522",
+    "2608.13521"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -301,10 +302,6 @@
     "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks"
-    },
     {
       "kind": "paper",
       "title": "A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation"
@@ -1300,6 +1297,10 @@
     {
       "kind": "concept",
       "title": "Qubit"
+    },
+    {
+      "kind": "paper",
+      "title": "Exponential quantum advantage for learning signals with a single qubit"
     }
   ]
 }
