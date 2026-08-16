@@ -241,7 +241,8 @@
     "2608.13524",
     "2608.13522",
     "2608.13521",
-    "2608.13520"
+    "2608.13520",
+    "2608.13518"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -303,10 +304,6 @@
     "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Transformer"
-    },
     {
       "kind": "explain",
       "title": "A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol"
@@ -1302,6 +1299,10 @@
     {
       "kind": "explain",
       "title": "The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity"
+    },
+    {
+      "kind": "paper",
+      "title": "Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology"
     }
   ]
 }
