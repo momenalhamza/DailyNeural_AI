@@ -246,7 +246,8 @@
     "2608.13517",
     "2608.13514",
     "2608.13513",
-    "2608.13510"
+    "2608.13510",
+    "2608.13506"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -308,10 +309,6 @@
     "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones"
-    },
     {
       "kind": "concept",
       "title": "LLM"
@@ -1307,6 +1304,10 @@
     {
       "kind": "paper",
       "title": "On the Structural Limits of Machine Learning Decision Systems: An Information-Theoretic, Interaction-Based, and Stochastic-Dynamical Perspective"
+    },
+    {
+      "kind": "explain",
+      "title": "Equivariant learning of a transferable three-dimensional classical density functional"
     }
   ]
 }
