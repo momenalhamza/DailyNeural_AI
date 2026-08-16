@@ -308,10 +308,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "The Seriality Gap in Video Diffusion Models"
-    },
-    {
       "kind": "explain",
       "title": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale"
     },
@@ -1306,6 +1302,10 @@
     {
       "kind": "paper",
       "title": "TabSOM: A tabular-to-image encoding method based on self-organizing maps"
+    },
+    {
+      "kind": "concept",
+      "title": "LLM"
     }
   ]
 }
