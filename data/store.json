@@ -243,7 +243,8 @@
     "2608.13521",
     "2608.13520",
     "2608.13518",
-    "2608.13517"
+    "2608.13517",
+    "2608.13514"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -305,10 +306,6 @@
     "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLM"
-    },
     {
       "kind": "paper",
       "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution"
@@ -1304,6 +1301,10 @@
     {
       "kind": "paper",
       "title": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data"
+    },
+    {
+      "kind": "explain",
+      "title": "Bagging Robustly Learns VC Classes with Linear Sample Complexity"
     }
   ]
 }
