@@ -244,7 +244,8 @@
     "2608.13520",
     "2608.13518",
     "2608.13517",
-    "2608.13514"
+    "2608.13514",
+    "2608.13513"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -306,10 +307,6 @@
     "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution"
-    },
     {
       "kind": "paper",
       "title": "The Seriality Gap in Video Diffusion Models"
@@ -1305,6 +1302,10 @@
     {
       "kind": "explain",
       "title": "Bagging Robustly Learns VC Classes with Linear Sample Complexity"
+    },
+    {
+      "kind": "paper",
+      "title": "TabSOM: A tabular-to-image encoding method based on self-organizing maps"
     }
   ]
 }
