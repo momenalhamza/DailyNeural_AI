@@ -311,10 +311,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer"
-    },
-    {
       "kind": "explain",
       "title": "A Shortcut to Statistically Steady-State Turbulence with Flow Matching"
     },
@@ -1309,6 +1305,10 @@
     {
       "kind": "paper",
       "title": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
