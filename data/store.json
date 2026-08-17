@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2606.20560",
     "2606.20559",
     "2606.20557",
     "2606.20554",
@@ -249,7 +248,8 @@
     "2608.13510",
     "2608.13506",
     "2608.14539",
-    "2608.14530"
+    "2608.14530",
+    "2608.14528"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -312,10 +312,6 @@
     "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents"
-    },
     {
       "kind": "paper",
       "title": "Leveraging unlabelled data for generalizable neural population decoding"
@@ -1311,6 +1307,10 @@
     {
       "kind": "explain",
       "title": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance"
+    },
+    {
+      "kind": "paper",
+      "title": "Handover of In-Context Learning State Across Session Boundaries"
     }
   ]
 }
