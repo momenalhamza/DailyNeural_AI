@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2606.20559",
     "2606.20557",
     "2606.20554",
     "2606.20547",
@@ -249,7 +248,8 @@
     "2608.13506",
     "2608.14539",
     "2608.14530",
-    "2608.14528"
+    "2608.14528",
+    "2608.14522"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -312,10 +312,6 @@
     "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Linear Independent Component Analysis via Optimal Transport"
-    },
     {
       "kind": "paper",
       "title": "MetaPerch: Learning from metadata for bioacoustics foundation models"
@@ -1311,6 +1307,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers"
     }
   ]
 }
