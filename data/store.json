@@ -247,7 +247,8 @@
     "2608.13514",
     "2608.13513",
     "2608.13510",
-    "2608.13506"
+    "2608.13506",
+    "2608.14539"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -309,10 +310,6 @@
     "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLM"
-    },
     {
       "kind": "news",
       "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer"
@@ -1308,6 +1305,10 @@
     {
       "kind": "explain",
       "title": "Equivariant learning of a transferable three-dimensional classical density functional"
+    },
+    {
+      "kind": "paper",
+      "title": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils"
     }
   ]
 }
