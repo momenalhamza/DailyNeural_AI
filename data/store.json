@@ -313,10 +313,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Leveraging unlabelled data for generalizable neural population decoding"
-    },
-    {
       "kind": "explain",
       "title": "Linear Independent Component Analysis via Optimal Transport"
     },
@@ -1311,6 +1307,10 @@
     {
       "kind": "paper",
       "title": "Handover of In-Context Learning State Across Session Boundaries"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
