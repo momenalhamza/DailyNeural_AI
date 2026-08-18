@@ -310,13 +310,10 @@
     "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
     "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
     "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-    "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/"
+    "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "RoboTTT: Context Scaling for Robot Policies"
-    },
     {
       "kind": "paper",
       "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators"
@@ -1312,6 +1309,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "AI’s recursive self-improvement might not come so quickly after all"
     }
   ]
 }
