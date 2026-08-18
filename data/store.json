@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2606.23689",
     "2606.23680",
     "2606.23679",
     "2606.24884",
@@ -249,7 +248,8 @@
     "2608.14511",
     "2608.16889",
     "2608.16888",
-    "2608.16884"
+    "2608.16884",
+    "2608.16878"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -314,10 +314,6 @@
     "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators"
-    },
     {
       "kind": "concept",
       "title": "LLM"
@@ -1313,6 +1309,10 @@
     {
       "kind": "news",
       "title": "AI’s recursive self-improvement might not come so quickly after all"
+    },
+    {
+      "kind": "explain",
+      "title": "Spectral Gaps of Hit-and-Run and Coordinate Hit-and-Run"
     }
   ]
 }
