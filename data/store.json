@@ -309,13 +309,10 @@
     "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
     "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
     "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-    "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/"
+    "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+    "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes"
-    },
     {
       "kind": "concept",
       "title": "Test-Time-Training"
@@ -1311,6 +1308,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "We still don’t know how people are really using AI"
     }
   ]
 }
