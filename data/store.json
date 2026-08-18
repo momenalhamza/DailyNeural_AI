@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2606.20547",
     "2606.20546",
     "2606.23689",
     "2606.23680",
@@ -249,7 +248,8 @@
     "2608.14528",
     "2608.14522",
     "2608.14511",
-    "2608.16889"
+    "2608.16889",
+    "2608.16888"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -313,10 +313,6 @@
     "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Test-Time-Training"
-    },
     {
       "kind": "concept",
       "title": "Test-Time-Training"
@@ -1312,6 +1308,10 @@
     {
       "kind": "news",
       "title": "We still don’t know how people are really using AI"
+    },
+    {
+      "kind": "explain",
+      "title": "Q-based Variational Inverse Reinforcement Learning"
     }
   ]
 }
