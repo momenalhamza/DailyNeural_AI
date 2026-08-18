@@ -314,10 +314,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "The risk of weather data sabotage is rising"
-    },
-    {
       "kind": "explain",
       "title": "RoboTTT: Context Scaling for Robot Policies"
     },
@@ -1312,6 +1308,10 @@
     {
       "kind": "paper",
       "title": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
