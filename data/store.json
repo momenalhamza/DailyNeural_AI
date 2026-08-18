@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2606.20554",
     "2606.20547",
     "2606.20546",
     "2606.23689",
@@ -249,7 +248,8 @@
     "2608.14530",
     "2608.14528",
     "2608.14522",
-    "2608.14511"
+    "2608.14511",
+    "2608.16889"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -312,10 +312,6 @@
     "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "fine-tuning"
-    },
     {
       "kind": "news",
       "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs"
@@ -1311,6 +1307,10 @@
     {
       "kind": "explain",
       "title": "Learning-to-Transition for Large-scale and High-Order MIMO Detection"
+    },
+    {
+      "kind": "paper",
+      "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory"
     }
   ]
 }
