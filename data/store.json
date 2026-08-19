@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2606.24884",
     "2606.24879",
     "2606.26095",
     "2606.26094",
@@ -249,7 +248,8 @@
     "2608.16884",
     "2608.16878",
     "2608.18076",
-    "2608.18066"
+    "2608.18066",
+    "2608.18062"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -315,10 +315,6 @@
     "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix"
-    },
     {
       "kind": "explain",
       "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis"
@@ -1314,6 +1310,10 @@
     {
       "kind": "explain",
       "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification"
+    },
+    {
+      "kind": "paper",
+      "title": "TokEval: A Tokenizer Evaluation Suite"
     }
   ]
 }
