@@ -316,10 +316,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis"
-    },
-    {
       "kind": "paper",
       "title": "Pretraining Data Can Be Poisoned through Computational Propaganda"
     },
@@ -1314,6 +1310,10 @@
     {
       "kind": "paper",
       "title": "TokEval: A Tokenizer Evaluation Suite"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
