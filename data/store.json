@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2606.26094",
     "2606.26091",
     "2606.27377",
     "2606.27369",
@@ -249,7 +248,8 @@
     "2608.18066",
     "2608.18062",
     "2608.18061",
-    "2608.19197"
+    "2608.19197",
+    "2608.19182"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -317,10 +317,6 @@
     "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "CTF"
-    },
     {
       "kind": "paper",
       "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents"
@@ -1316,6 +1312,10 @@
     {
       "kind": "news",
       "title": "Unlocking hidden revenue streams with market models"
+    },
+    {
+      "kind": "explain",
+      "title": "ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning"
     }
   ]
 }
