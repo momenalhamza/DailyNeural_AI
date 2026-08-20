@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2606.26091",
     "2606.27377",
     "2606.27369",
     "2606.27361",
@@ -249,7 +248,8 @@
     "2608.18062",
     "2608.18061",
     "2608.19197",
-    "2608.19182"
+    "2608.19182",
+    "2608.19181"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -317,10 +317,6 @@
     "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents"
-    },
     {
       "kind": "explain",
       "title": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier"
@@ -1316,6 +1312,10 @@
     {
       "kind": "explain",
       "title": "ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning"
+    },
+    {
+      "kind": "paper",
+      "title": "Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning"
     }
   ]
 }
