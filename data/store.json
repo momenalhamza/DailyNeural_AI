@@ -318,10 +318,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier"
-    },
-    {
       "kind": "paper",
       "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration"
     },
@@ -1316,6 +1312,10 @@
     {
       "kind": "paper",
       "title": "Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
