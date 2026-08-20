@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2606.26095",
     "2606.26094",
     "2606.26091",
     "2606.27377",
@@ -249,7 +248,8 @@
     "2608.18076",
     "2608.18066",
     "2608.18062",
-    "2608.18061"
+    "2608.18061",
+    "2608.19197"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -316,10 +316,6 @@
     "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway"
-    },
     {
       "kind": "explain",
       "title": "SceneBind: Binding What and Where Across Vision, Audio and Language"
@@ -1315,6 +1311,10 @@
     {
       "kind": "explain",
       "title": "The concentration game: Bayesian updating, regret, and information"
+    },
+    {
+      "kind": "paper",
+      "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments"
     }
   ]
 }
