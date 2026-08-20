@@ -317,10 +317,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "SceneBind: Binding What and Where Across Vision, Audio and Language"
-    },
-    {
       "kind": "concept",
       "title": "CTF"
     },
@@ -1315,6 +1311,10 @@
     {
       "kind": "paper",
       "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
