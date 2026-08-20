@@ -313,13 +313,10 @@
     "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
     "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
     "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-    "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
+    "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+    "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "CTF"
-    },
     {
       "kind": "concept",
       "title": "CTF"
@@ -1315,6 +1312,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "Unlocking hidden revenue streams with market models"
     }
   ]
 }
