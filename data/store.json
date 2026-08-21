@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2606.27342",
     "2606.27334",
     "2606.27330",
     "2606.27326",
@@ -249,7 +248,8 @@
     "2608.20337",
     "2608.20331",
     "2608.20326",
-    "2608.20322"
+    "2608.20322",
+    "2608.20320"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -318,10 +318,6 @@
     "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Cluster-Aware Matching via Laplacian Optimal Transport"
-    },
     {
       "kind": "concept",
       "title": "AI"
@@ -1317,6 +1313,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction"
     }
   ]
 }
