@@ -320,10 +320,6 @@
   "history": [
     {
       "kind": "concept",
-      "title": "Transformer"
-    },
-    {
-      "kind": "concept",
       "title": "LLM"
     },
     {
@@ -1317,6 +1313,10 @@
     {
       "kind": "paper",
       "title": "Information on trajectories: martingales and random times"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
