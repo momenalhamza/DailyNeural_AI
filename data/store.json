@@ -320,10 +320,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing"
-    },
-    {
-      "kind": "paper",
       "title": "Cluster-Aware Matching via Laplacian Optimal Transport"
     },
     {
@@ -1317,6 +1313,10 @@
     {
       "kind": "paper",
       "title": "A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
