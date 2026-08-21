@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2606.27369",
     "2606.27361",
     "2606.27359",
     "2606.27354",
@@ -249,7 +248,8 @@
     "2608.19197",
     "2608.19182",
     "2608.19181",
-    "2608.19174"
+    "2608.19174",
+    "2608.20337"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -318,10 +318,6 @@
     "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data"
-    },
     {
       "kind": "concept",
       "title": "Transformer"
@@ -1317,6 +1313,10 @@
     {
       "kind": "explain",
       "title": "Finetuning Strategies for Querying Sounds by Vocal Imitation"
+    },
+    {
+      "kind": "paper",
+      "title": "Information on trajectories: martingales and random times"
     }
   ]
 }
