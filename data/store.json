@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2606.27321",
     "2606.27315",
     "2606.27304",
     "2606.28323",
@@ -249,7 +248,8 @@
     "2608.20320",
     "2608.20319",
     "2608.20318",
-    "2608.20316"
+    "2608.20316",
+    "2608.20315"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -318,10 +318,6 @@
     "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric"
-    },
     {
       "kind": "news",
       "title": "Advancing next-gen AI with materials science innovation"
@@ -1317,6 +1313,10 @@
     {
       "kind": "explain",
       "title": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation"
+    },
+    {
+      "kind": "paper",
+      "title": "Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records"
     }
   ]
 }
