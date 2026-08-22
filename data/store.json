@@ -319,10 +319,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "China’s AI models have Trump’s AI world at war with itself"
-    },
-    {
       "kind": "paper",
       "title": "Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems"
     },
@@ -1317,6 +1313,10 @@
     {
       "kind": "paper",
       "title": "Inducing Task Models from Computer-Use Traces"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
