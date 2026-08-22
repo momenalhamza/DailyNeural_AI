@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2606.27330",
     "2606.27326",
     "2606.27321",
     "2606.27315",
@@ -249,7 +248,8 @@
     "2608.20326",
     "2608.20322",
     "2608.20320",
-    "2608.20319"
+    "2608.20319",
+    "2608.20318"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -318,10 +318,6 @@
     "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems"
-    },
     {
       "kind": "concept",
       "title": "fine-tuning"
@@ -1317,6 +1313,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement"
     }
   ]
 }
