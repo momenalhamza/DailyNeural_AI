@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2606.27326",
     "2606.27321",
     "2606.27315",
     "2606.27304",
@@ -249,7 +248,8 @@
     "2608.20322",
     "2608.20320",
     "2608.20319",
-    "2608.20318"
+    "2608.20318",
+    "2608.20316"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -318,10 +318,6 @@
     "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "fine-tuning"
-    },
     {
       "kind": "paper",
       "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric"
@@ -1317,6 +1313,10 @@
     {
       "kind": "paper",
       "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement"
+    },
+    {
+      "kind": "explain",
+      "title": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation"
     }
   ]
 }
