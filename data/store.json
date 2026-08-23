@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2606.28309",
     "2606.28308",
     "2606.30645",
     "2606.30642",
@@ -249,7 +248,8 @@
     "2608.20315",
     "2608.20314",
     "2608.20295",
-    "2608.20290"
+    "2608.20290",
+    "2608.20285"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -318,10 +318,6 @@
     "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes"
-    },
     {
       "kind": "concept",
       "title": "LLM"
@@ -1317,6 +1313,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "Dynamic Structural Causal Modeling for Sleep"
     }
   ]
 }
