@@ -319,10 +319,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers"
-    },
-    {
       "kind": "concept",
       "title": "LLM"
     },
@@ -1317,6 +1313,10 @@
     {
       "kind": "paper",
       "title": "Which Eviction Policy Should an LLM Cache Use? A Systematic Study Across Workloads, Capacities, and Encoders"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
