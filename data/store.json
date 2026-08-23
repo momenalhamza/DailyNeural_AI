@@ -319,10 +319,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs"
-    },
-    {
       "kind": "explain",
       "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes"
     },
@@ -1317,6 +1313,10 @@
     {
       "kind": "paper",
       "title": "Phantom Gains: Auditing Self-Improvement Against a Measured Null"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
