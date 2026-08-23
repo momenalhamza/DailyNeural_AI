@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2606.30645",
     "2606.30642",
     "2606.30639",
     "2606.30634",
@@ -249,7 +248,8 @@
     "2608.20295",
     "2608.20290",
     "2608.20285",
-    "2608.20281"
+    "2608.20281",
+    "2608.20280"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -318,10 +318,6 @@
     "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning"
-    },
     {
       "kind": "paper",
       "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers"
@@ -1317,6 +1313,10 @@
     {
       "kind": "explain",
       "title": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization"
+    },
+    {
+      "kind": "paper",
+      "title": "Which Eviction Policy Should an LLM Cache Use? A Systematic Study Across Workloads, Capacities, and Encoders"
     }
   ]
 }
