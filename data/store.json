@@ -316,13 +316,10 @@
     "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
     "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
     "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-    "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
+    "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+    "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLM"
-    },
     {
       "kind": "paper",
       "title": "Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning"
@@ -1318,6 +1315,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "How to encourage smarter AI use in the classroom"
     }
   ]
 }
