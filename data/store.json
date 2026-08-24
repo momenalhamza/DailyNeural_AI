@@ -320,10 +320,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data"
-    },
-    {
       "kind": "concept",
       "title": "LLM"
     },
@@ -1318,6 +1314,10 @@
     {
       "kind": "paper",
       "title": "AI with Authority, from Application to Silicon"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
