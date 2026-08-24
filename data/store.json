@@ -319,10 +319,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Agents in the Wild: Where Research Meets Deployment"
-    },
-    {
       "kind": "explain",
       "title": "1-Lipschitz Neural Networks on Hadamard Manifolds"
     },
@@ -1317,6 +1313,10 @@
     {
       "kind": "paper",
       "title": "Primal Acceleration of Newton's Method"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
