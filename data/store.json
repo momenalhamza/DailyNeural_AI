@@ -315,13 +315,10 @@
     "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
     "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
     "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-    "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
+    "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "1-Lipschitz Neural Networks on Hadamard Manifolds"
-    },
     {
       "kind": "concept",
       "title": "Lipschitz"
@@ -1317,6 +1314,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "Kids outlearn AI—and we still don’t know why"
     }
   ]
 }
