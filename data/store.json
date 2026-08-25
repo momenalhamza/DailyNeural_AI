@@ -322,10 +322,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Expanding Flow Maps"
-    },
-    {
       "kind": "concept",
       "title": "LLM"
     },
@@ -1320,6 +1316,10 @@
     {
       "kind": "paper",
       "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
