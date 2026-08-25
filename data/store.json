@@ -321,10 +321,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "How AI helps scientists design the next generation of medicines"
-    },
-    {
       "kind": "explain",
       "title": "Persian Pixel: A large-scale synthetic OCR dataset for Persian language"
     },
@@ -1319,6 +1315,10 @@
     {
       "kind": "paper",
       "title": "How to Train a Critic Stably and Efficiently"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
