@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.01233",
     "2607.01232",
     "2607.01225",
     "2607.01224",
@@ -249,7 +248,8 @@
     "2608.21356",
     "2608.21349",
     "2608.23566",
-    "2608.23565"
+    "2608.23565",
+    "2608.23564"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -321,10 +321,6 @@
     "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "3D-Aware VLMs with Implicit and Explicit Geometries"
-    },
     {
       "kind": "paper",
       "title": "Expanding Flow Maps"
@@ -1320,6 +1316,10 @@
     {
       "kind": "explain",
       "title": "ReWorld: An Interactive World Model with Long-Horizon Memory"
+    },
+    {
+      "kind": "paper",
+      "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?"
     }
   ]
 }
