@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.02512",
     "2607.02510",
     "2607.02509",
     "2607.02507",
@@ -249,7 +248,8 @@
     "2608.23562",
     "2608.24881",
     "2608.24876",
-    "2608.24870"
+    "2608.24870",
+    "2608.24865"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -323,10 +323,6 @@
     "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling"
-    },
     {
       "kind": "explain",
       "title": "Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana"
@@ -1322,6 +1318,10 @@
     {
       "kind": "news",
       "title": "The inside story on why OpenAI agents hacked Hugging Face"
+    },
+    {
+      "kind": "paper",
+      "title": "Parameterized Complexity of $L_p$-Lipschitz Constants for Input Convex Neural Networks and $L_p$-Norm Maximization over Zonotopes"
     }
   ]
 }
