@@ -323,10 +323,6 @@
   "history": [
     {
       "kind": "concept",
-      "title": "LLM"
-    },
-    {
-      "kind": "concept",
       "title": "convergence"
     },
     {
@@ -1320,6 +1316,10 @@
     {
       "kind": "paper",
       "title": "What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
