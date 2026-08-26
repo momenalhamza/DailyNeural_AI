@@ -318,13 +318,10 @@
     "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
     "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
     "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-    "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/"
+    "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "convergence"
-    },
     {
       "kind": "paper",
       "title": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$"
@@ -1320,6 +1317,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "Raised on AI"
     }
   ]
 }
