@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.02513",
     "2607.02512",
     "2607.02510",
     "2607.02509",
@@ -249,7 +248,8 @@
     "2608.23563",
     "2608.23562",
     "2608.24881",
-    "2608.24876"
+    "2608.24876",
+    "2608.24870"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -322,10 +322,6 @@
     "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Synthetic data generation framework for quality control automation in gravure printing"
-    },
     {
       "kind": "paper",
       "title": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity"
@@ -1321,6 +1317,10 @@
     {
       "kind": "explain",
       "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses"
+    },
+    {
+      "kind": "paper",
+      "title": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL"
     }
   ]
 }
