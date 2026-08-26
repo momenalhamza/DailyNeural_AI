@@ -323,10 +323,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity"
-    },
-    {
       "kind": "concept",
       "title": "EGNN"
     },
@@ -1321,6 +1317,10 @@
     {
       "kind": "paper",
       "title": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
