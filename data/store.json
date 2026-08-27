@@ -324,10 +324,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana"
-    },
-    {
       "kind": "concept",
       "title": "LLM"
     },
@@ -1322,6 +1318,10 @@
     {
       "kind": "paper",
       "title": "Parameterized Complexity of $L_p$-Lipschitz Constants for Input Convex Neural Networks and $L_p$-Norm Maximization over Zonotopes"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
