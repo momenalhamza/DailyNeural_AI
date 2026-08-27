@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.02510",
     "2607.02509",
     "2607.02507",
     "2607.02504",
@@ -249,7 +248,8 @@
     "2608.24881",
     "2608.24876",
     "2608.24870",
-    "2608.24865"
+    "2608.24865",
+    "2608.26105"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -324,10 +324,6 @@
     "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning"
-    },
     {
       "kind": "paper",
       "title": "OpenForgeRL: Train Harness-native Agents in Any Environment"
@@ -1323,6 +1319,10 @@
     {
       "kind": "news",
       "title": "Orchestration is the new challenge for CX in the age of AI agents"
+    },
+    {
+      "kind": "explain",
+      "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning"
     }
   ]
 }
