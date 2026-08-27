@@ -320,13 +320,10 @@
     "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
     "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
     "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-    "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+    "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLM"
-    },
     {
       "kind": "paper",
       "title": "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning"
@@ -1322,6 +1319,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents"
     }
   ]
 }
