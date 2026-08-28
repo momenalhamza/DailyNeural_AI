@@ -321,13 +321,10 @@
     "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
     "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
     "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-    "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
+    "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Neural solutions of coupled ghost and gluon Dyson--Schwinger equations in Landau gauge"
-    },
     {
       "kind": "concept",
       "title": "Transformer"
@@ -1323,6 +1320,10 @@
     {
       "kind": "paper",
       "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution"
+    },
+    {
+      "kind": "news",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them."
     }
   ]
 }
