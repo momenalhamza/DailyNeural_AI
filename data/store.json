@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.02499",
     "2607.02496",
     "2607.02491",
     "2607.02484",
@@ -249,7 +248,8 @@
     "2608.26095",
     "2608.26094",
     "2608.26093",
-    "2608.27206"
+    "2608.27206",
+    "2608.27454"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -324,10 +324,6 @@
     "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "X$^3$-OPD: Distilling Reasoning into Large Audio-Language Models via On-Policy Alignment"
-    },
     {
       "kind": "explain",
       "title": "Neural solutions of coupled ghost and gluon Dyson--Schwinger equations in Landau gauge"
@@ -1323,6 +1319,10 @@
     {
       "kind": "paper",
       "title": "PACE: A Unified Condense-and-Extract Paradigm for Fast VLM Inference"
+    },
+    {
+      "kind": "paper",
+      "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution"
     }
   ]
 }
