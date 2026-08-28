@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.02491",
     "2607.02484",
     "2607.02469",
     "2607.02467",
@@ -249,7 +248,8 @@
     "2608.26093",
     "2608.27206",
     "2608.27454",
-    "2608.27449"
+    "2608.27449",
+    "2608.27442"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -325,10 +325,6 @@
     "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction"
-    },
     {
       "kind": "explain",
       "title": "Explainable Reinforcement Learning for assisting Air Traffic Controllers"
@@ -1324,6 +1320,10 @@
     {
       "kind": "paper",
       "title": "SWE-Prime: Fewer Trajectories, Better Performance"
+    },
+    {
+      "kind": "paper",
+      "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench"
     }
   ]
 }
