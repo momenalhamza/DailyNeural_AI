@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.02461",
     "2607.02460",
     "2607.02447",
     "2607.02444",
@@ -249,7 +248,8 @@
     "2608.27439",
     "2608.27429",
     "2608.27427",
-    "2608.27424"
+    "2608.27424",
+    "2608.27421"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -325,10 +325,6 @@
     "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before."
-    },
     {
       "kind": "concept",
       "title": "LLM"
@@ -1324,6 +1320,10 @@
     {
       "kind": "paper",
       "title": "Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners"
+    },
+    {
+      "kind": "explain",
+      "title": "Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study"
     }
   ]
 }
