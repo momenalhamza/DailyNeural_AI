@@ -327,10 +327,6 @@
   "history": [
     {
       "kind": "news",
-      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix"
-    },
-    {
-      "kind": "news",
       "title": "The path to artificial superintelligence"
     },
     {
@@ -1324,6 +1320,10 @@
     {
       "kind": "paper",
       "title": "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
