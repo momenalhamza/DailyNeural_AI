@@ -326,10 +326,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "The path to artificial superintelligence"
-    },
-    {
       "kind": "paper",
       "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding"
     },
@@ -1320,6 +1316,10 @@
     {
       "kind": "paper",
       "title": "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
