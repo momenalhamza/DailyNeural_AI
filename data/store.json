@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.02447",
     "2607.02444",
     "2607.02440",
     "2607.02437",
@@ -249,7 +248,8 @@
     "2608.27427",
     "2608.27424",
     "2608.27421",
-    "2608.27413"
+    "2608.27413",
+    "2608.27406"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -325,10 +325,6 @@
     "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLM"
-    },
     {
       "kind": "news",
       "title": "Samsung’s chip workers are jumping ship to rival SK Hynix"
@@ -1324,6 +1320,10 @@
     {
       "kind": "explain",
       "title": "Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling"
+    },
+    {
+      "kind": "paper",
+      "title": "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators"
     }
   ]
 }
