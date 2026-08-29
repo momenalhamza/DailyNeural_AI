@@ -322,13 +322,10 @@
     "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
     "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
     "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-    "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
+    "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+    "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding"
-    },
     {
       "kind": "concept",
       "title": "Eroom’s Law"
@@ -1324,6 +1321,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "When agents act on their own, governance has to live in the data layer"
     }
   ]
 }
