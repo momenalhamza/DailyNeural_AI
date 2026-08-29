@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.02469",
     "2607.02467",
     "2607.02466",
     "2607.02461",
@@ -249,7 +248,8 @@
     "2608.27454",
     "2608.27449",
     "2608.27442",
-    "2608.27439"
+    "2608.27439",
+    "2608.27429"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -325,10 +325,6 @@
     "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents"
-    },
     {
       "kind": "concept",
       "title": "LLM"
@@ -1324,6 +1320,10 @@
     {
       "kind": "paper",
       "title": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution"
+    },
+    {
+      "kind": "paper",
+      "title": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation"
     }
   ]
 }
