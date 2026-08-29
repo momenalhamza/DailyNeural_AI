@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.02444",
     "2607.02440",
     "2607.02437",
     "2607.02436",
@@ -249,7 +248,8 @@
     "2608.27424",
     "2608.27421",
     "2608.27413",
-    "2608.27406"
+    "2608.27406",
+    "2608.27402"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -326,10 +326,6 @@
     "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Eroom’s Law"
-    },
     {
       "kind": "concept",
       "title": "Sinkhorn"
@@ -1325,6 +1321,10 @@
     {
       "kind": "news",
       "title": "When agents act on their own, governance has to live in the data layer"
+    },
+    {
+      "kind": "explain",
+      "title": "How Language Models Organize and Structure Moral Knowledge"
     }
   ]
 }
