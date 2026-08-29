@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.02440",
     "2607.02437",
     "2607.02436",
     "2607.05396",
@@ -249,7 +248,8 @@
     "2608.27421",
     "2608.27413",
     "2608.27406",
-    "2608.27402"
+    "2608.27402",
+    "2608.27397"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -326,10 +326,6 @@
     "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Sinkhorn"
-    },
     {
       "kind": "news",
       "title": "Closing the data loop in AI-driven drug discovery"
@@ -1325,6 +1321,10 @@
     {
       "kind": "explain",
       "title": "How Language Models Organize and Structure Moral Knowledge"
+    },
+    {
+      "kind": "paper",
+      "title": "Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust Prediction"
     }
   ]
 }
