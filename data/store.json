@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.05394",
     "2607.05393",
     "2607.05391",
     "2607.06565",
@@ -249,7 +248,8 @@
     "2608.27397",
     "2608.27395",
     "2608.27392",
-    "2608.27391"
+    "2608.27391",
+    "2608.27382"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -328,10 +328,6 @@
     "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Mixture-of-Experts"
-    },
     {
       "kind": "paper",
       "title": "Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-Experts LoRA"
@@ -1327,6 +1323,10 @@
     {
       "kind": "paper",
       "title": "CorporateBench: Large-Scale Q&A Benchmarking with Temporal Knowledge Bases"
+    },
+    {
+      "kind": "paper",
+      "title": "Token-Level Advertising"
     }
   ]
 }
