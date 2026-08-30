@@ -328,10 +328,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "Building the enterprise environment for agentic AI"
-    },
-    {
       "kind": "paper",
       "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation"
     },
@@ -1322,6 +1318,10 @@
     {
       "kind": "paper",
       "title": "Property-Specific Recoverability from Contact PPG to Camera rPPG under Heterogeneous Observation Conditions"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
