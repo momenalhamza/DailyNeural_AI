@@ -324,13 +324,10 @@
     "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
     "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
     "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-    "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/"
+    "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation"
-    },
     {
       "kind": "paper",
       "title": "$π\\mathbf{R}^2$: Reactive Real-time Flow Policies"
@@ -1326,6 +1323,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?"
     }
   ]
 }
