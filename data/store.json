@@ -323,13 +323,10 @@
     "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
     "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
     "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-    "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
+    "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+    "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Closing the data loop in AI-driven drug discovery"
-    },
     {
       "kind": "paper",
       "title": "Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport"
@@ -1325,6 +1322,10 @@
     {
       "kind": "paper",
       "title": "Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust Prediction"
+    },
+    {
+      "kind": "news",
+      "title": "AI models flub these intelligence tests. Can you fare any better?"
     }
   ]
 }
