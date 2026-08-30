@@ -329,10 +329,6 @@
   "history": [
     {
       "kind": "news",
-      "title": "The AI Hype Index: Unsexy AI"
-    },
-    {
-      "kind": "news",
       "title": "Building the enterprise environment for agentic AI"
     },
     {
@@ -1326,6 +1322,10 @@
     {
       "kind": "paper",
       "title": "Property-Specific Recoverability from Contact PPG to Camera rPPG under Heterogeneous Observation Conditions"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
