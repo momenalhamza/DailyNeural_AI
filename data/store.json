@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.05393",
     "2607.05391",
     "2607.06565",
     "2607.06546",
@@ -249,7 +248,8 @@
     "2608.27395",
     "2608.27392",
     "2608.27391",
-    "2608.27382"
+    "2608.27382",
+    "2608.28589"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -328,10 +328,6 @@
     "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-Experts LoRA"
-    },
     {
       "kind": "explain",
       "title": "Re-thinking Mammography Transfer Learning: The Dataset-Informed Transfer Learning (DITL) Framework for Breast Cancer Screening and Lesion Diagnosis"
@@ -1327,6 +1323,10 @@
     {
       "kind": "paper",
       "title": "Token-Level Advertising"
+    },
+    {
+      "kind": "explain",
+      "title": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs"
     }
   ]
 }
