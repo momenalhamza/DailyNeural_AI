@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.06546",
     "2607.06544",
     "2607.06532",
     "2607.06531",
@@ -249,7 +248,8 @@
     "2608.27382",
     "2608.28589",
     "2608.28578",
-    "2608.28576"
+    "2608.28576",
+    "2608.28566"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -329,10 +329,6 @@
     "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "From Classification to Regression: Using a Fruitfly to Solve Equations"
-    },
     {
       "kind": "paper",
       "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies"
@@ -1328,6 +1324,10 @@
     {
       "kind": "paper",
       "title": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference"
+    },
+    {
+      "kind": "paper",
+      "title": "On two proofs of $d^2$ mixing of weighted Dikin walks"
     }
   ]
 }
