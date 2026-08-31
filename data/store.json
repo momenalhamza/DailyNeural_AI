@@ -329,10 +329,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "fine-tuning"
-    },
-    {
       "kind": "paper",
       "title": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?"
     },
@@ -1327,6 +1323,10 @@
     {
       "kind": "paper",
       "title": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
