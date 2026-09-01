@@ -331,10 +331,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval"
-    },
-    {
-      "kind": "paper",
       "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball"
     },
     {
@@ -1324,6 +1320,10 @@
     {
       "kind": "paper",
       "title": "Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
