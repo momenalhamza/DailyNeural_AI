@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.07695",
     "2607.08763",
     "2607.08758",
     "2607.08757",
@@ -249,7 +248,8 @@
     "2608.31167",
     "2608.31157",
     "2608.31142",
-    "2608.31137"
+    "2608.31137",
+    "2608.31133"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -329,10 +329,6 @@
     "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "GPT-5.5"
-    },
     {
       "kind": "concept",
       "title": "GPT-5.5"
@@ -1328,6 +1324,10 @@
     {
       "kind": "explain",
       "title": "OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques"
+    },
+    {
+      "kind": "paper",
+      "title": "Implementing neural network mixed-effects models in Template Model Builder (TMB)"
     }
   ]
 }
