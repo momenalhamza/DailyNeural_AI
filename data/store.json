@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.07706",
     "2607.07696",
     "2607.07695",
     "2607.08763",
@@ -249,7 +248,8 @@
     "2608.28557",
     "2608.31166",
     "2608.31167",
-    "2608.31157"
+    "2608.31157",
+    "2608.31142"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -329,10 +329,6 @@
     "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball"
-    },
     {
       "kind": "concept",
       "title": "GPT-5.5"
@@ -1328,6 +1324,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification"
     }
   ]
 }
