@@ -326,13 +326,10 @@
     "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
     "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
     "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-    "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
+    "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Patch Reversal"
-    },
     {
       "kind": "paper",
       "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments"
@@ -1328,6 +1325,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "Facilitating AI integration with simplicity at scale"
     }
   ]
 }
