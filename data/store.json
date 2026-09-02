@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.08757",
     "2607.08756",
     "2607.08754",
     "2607.08748",
@@ -249,7 +248,8 @@
     "2608.31137",
     "2608.31133",
     "2609.01604",
-    "2609.01603"
+    "2609.01603",
+    "2609.01601"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -329,10 +329,6 @@
     "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications"
-    },
     {
       "kind": "explain",
       "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models"
@@ -1328,6 +1324,10 @@
     {
       "kind": "explain",
       "title": "Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation"
+    },
+    {
+      "kind": "paper",
+      "title": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation"
     }
   ]
 }
