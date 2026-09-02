@@ -330,10 +330,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models"
-    },
-    {
       "kind": "paper",
       "title": "KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models"
     },
@@ -1328,6 +1324,10 @@
     {
       "kind": "paper",
       "title": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
