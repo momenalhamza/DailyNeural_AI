@@ -332,10 +332,6 @@
   "history": [
     {
       "kind": "concept",
-      "title": "Transformer"
-    },
-    {
-      "kind": "concept",
       "title": "GNN"
     },
     {
@@ -1325,6 +1321,10 @@
     {
       "kind": "paper",
       "title": "Graph Machine: Towards Better Pretraining via Edges"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
