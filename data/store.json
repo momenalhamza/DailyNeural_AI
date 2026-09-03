@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.08746",
     "2607.08745",
     "2607.08741",
     "2607.08740",
@@ -249,7 +248,8 @@
     "2609.01601",
     "2609.01600",
     "2609.01597",
-    "2609.02887"
+    "2609.02887",
+    "2609.02885"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -330,10 +330,6 @@
     "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLM"
-    },
     {
       "kind": "paper",
       "title": "PAIChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks"
@@ -1329,6 +1325,10 @@
     {
       "kind": "paper",
       "title": "A Common Measure of Communication for Speech Brain-Computer Interfaces"
+    },
+    {
+      "kind": "explain",
+      "title": "Discriminative World Models for Web Agents"
     }
   ]
 }
