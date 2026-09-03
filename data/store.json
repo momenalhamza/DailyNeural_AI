@@ -331,10 +331,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "$β$-OPSD: Deriving with Policy Optimization, Training with Self-Distillation"
-    },
-    {
       "kind": "concept",
       "title": "Transformer"
     },
@@ -1329,6 +1325,10 @@
     {
       "kind": "paper",
       "title": "Graph Machine: Towards Better Pretraining via Edges"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
