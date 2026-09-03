@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.08741",
     "2607.08740",
     "2607.08734",
     "2607.08733",
@@ -249,7 +248,8 @@
     "2609.01597",
     "2609.02887",
     "2609.02885",
-    "2609.02881"
+    "2609.02881",
+    "2609.02876"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -330,10 +330,6 @@
     "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "GNN"
-    },
     {
       "kind": "paper",
       "title": "DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation"
@@ -1329,6 +1325,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs"
     }
   ]
 }
