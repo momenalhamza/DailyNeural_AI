@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.08734",
     "2607.08733",
     "2607.08731",
     "2607.08725",
@@ -249,7 +248,8 @@
     "2609.02885",
     "2609.02881",
     "2609.02876",
-    "2609.02861"
+    "2609.02861",
+    "2609.02855"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -330,10 +330,6 @@
     "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B"
-    },
     {
       "kind": "concept",
       "title": "LLM"
@@ -1329,6 +1325,10 @@
     {
       "kind": "explain",
       "title": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework"
+    },
+    {
+      "kind": "paper",
+      "title": "Improved Gradient Descent Lower Bounds Beyond Nesterov"
     }
   ]
 }
