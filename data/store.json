@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.08725",
     "2607.09662",
     "2607.09657",
     "2607.09654",
@@ -249,7 +248,8 @@
     "2609.02861",
     "2609.02855",
     "2609.04199",
-    "2609.04198"
+    "2609.04198",
+    "2609.04197"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -331,10 +331,6 @@
     "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering"
-    },
     {
       "kind": "concept",
       "title": "Error Feedback"
@@ -1330,6 +1326,10 @@
     {
       "kind": "paper",
       "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints"
+    },
+    {
+      "kind": "paper",
+      "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize"
     }
   ]
 }
