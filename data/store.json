@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.09662",
     "2607.09657",
     "2607.09654",
     "2607.09653",
@@ -249,7 +248,8 @@
     "2609.02855",
     "2609.04199",
     "2609.04198",
-    "2609.04197"
+    "2609.04197",
+    "2609.04194"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -332,10 +332,6 @@
     "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback"
-    },
     {
       "kind": "explain",
       "title": "Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations"
@@ -1331,6 +1327,10 @@
     {
       "kind": "news",
       "title": "Architecting memory and storage in the AI era"
+    },
+    {
+      "kind": "paper",
+      "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning"
     }
   ]
 }
