@@ -333,10 +333,6 @@
   "history": [
     {
       "kind": "concept",
-      "title": "Error Feedback"
-    },
-    {
-      "kind": "concept",
       "title": "LMO"
     },
     {
@@ -1330,6 +1326,10 @@
     {
       "kind": "paper",
       "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
