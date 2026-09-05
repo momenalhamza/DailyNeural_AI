@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.11883",
     "2607.11881",
     "2607.11875",
     "2607.11874",
@@ -249,7 +248,8 @@
     "2609.04194",
     "2609.04190",
     "2609.04189",
-    "2609.04183"
+    "2609.04183",
+    "2609.04180"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -332,10 +332,6 @@
     "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLM"
-    },
     {
       "kind": "concept",
       "title": "LLM"
@@ -1331,6 +1327,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views"
     }
   ]
 }
