@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.11875",
     "2607.11874",
     "2607.11873",
     "2607.11871",
@@ -249,7 +248,8 @@
     "2609.04189",
     "2609.04183",
     "2609.04180",
-    "2609.04177"
+    "2609.04177",
+    "2609.04172"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -332,10 +332,6 @@
     "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "The Condition-Number Barrier in Sparse Least Squares"
-    },
     {
       "kind": "paper",
       "title": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning"
@@ -1331,6 +1327,10 @@
     {
       "kind": "paper",
       "title": "A Computationally Feasible Framework for Causal Probabilistic Explanation"
+    },
+    {
+      "kind": "paper",
+      "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example"
     }
   ]
 }
