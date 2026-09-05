@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.09653",
     "2607.11883",
     "2607.11881",
     "2607.11875",
@@ -249,7 +248,8 @@
     "2609.04197",
     "2609.04194",
     "2609.04190",
-    "2609.04189"
+    "2609.04189",
+    "2609.04183"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -332,10 +332,6 @@
     "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework"
-    },
     {
       "kind": "paper",
       "title": "onepot-Bench 0: towards lab-aware in silico chemistry benchmarks"
@@ -1331,6 +1327,10 @@
     {
       "kind": "explain",
       "title": "Robust PAC Learning of Concurrent Stochastic Games"
+    },
+    {
+      "kind": "paper",
+      "title": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning"
     }
   ]
 }
