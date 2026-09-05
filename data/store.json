@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.09654",
     "2607.09653",
     "2607.11883",
     "2607.11881",
@@ -249,7 +248,8 @@
     "2609.04198",
     "2609.04197",
     "2609.04194",
-    "2609.04190"
+    "2609.04190",
+    "2609.04189"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -332,10 +332,6 @@
     "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Trump’s AI protectionism has come for robotics"
-    },
     {
       "kind": "explain",
       "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework"
@@ -1331,6 +1327,10 @@
     {
       "kind": "paper",
       "title": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing"
+    },
+    {
+      "kind": "explain",
+      "title": "Robust PAC Learning of Concurrent Stochastic Games"
     }
   ]
 }
