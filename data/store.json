@@ -333,10 +333,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "onepot-Bench 0: towards lab-aware in silico chemistry benchmarks"
-    },
-    {
       "kind": "concept",
       "title": "LLM"
     },
@@ -1331,6 +1327,10 @@
     {
       "kind": "paper",
       "title": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
