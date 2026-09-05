@@ -333,10 +333,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations"
-    },
-    {
       "kind": "concept",
       "title": "DNN"
     },
@@ -1331,6 +1327,10 @@
     {
       "kind": "paper",
       "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
