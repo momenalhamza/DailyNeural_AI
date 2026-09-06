@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.13028",
     "2607.13027",
     "2607.13022",
     "2607.14086",
@@ -249,7 +248,8 @@
     "2609.04168",
     "2609.04167",
     "2609.04166",
-    "2609.04165"
+    "2609.04165",
+    "2609.04159"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -332,10 +332,6 @@
     "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLMs"
-    },
     {
       "kind": "concept",
       "title": "LLM"
@@ -1331,6 +1327,10 @@
     {
       "kind": "paper",
       "title": "Parameterised graph theory for tensor networks: entanglement rerouting, structural simplification, and agnostic tomography"
+    },
+    {
+      "kind": "paper",
+      "title": "SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center"
     }
   ]
 }
