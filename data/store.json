@@ -333,10 +333,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation"
-    },
-    {
       "kind": "concept",
       "title": "LLMs"
     },
@@ -1331,6 +1327,10 @@
     {
       "kind": "paper",
       "title": "From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
