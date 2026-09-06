@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.11873",
     "2607.11871",
     "2607.13034",
     "2607.13031",
@@ -249,7 +248,8 @@
     "2609.04180",
     "2609.04177",
     "2609.04172",
-    "2609.04170"
+    "2609.04170",
+    "2609.04168"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -332,10 +332,6 @@
     "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLMs"
-    },
     {
       "kind": "paper",
       "title": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning"
@@ -1331,6 +1327,10 @@
     {
       "kind": "paper",
       "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms"
+    },
+    {
+      "kind": "paper",
+      "title": "Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Graphs on SoCs"
     }
   ]
 }
