@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.13034",
     "2607.13031",
     "2607.13028",
     "2607.13027",
@@ -249,7 +248,8 @@
     "2609.04172",
     "2609.04170",
     "2609.04168",
-    "2609.04167"
+    "2609.04167",
+    "2609.04166"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -332,10 +332,6 @@
     "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility"
-    },
     {
       "kind": "paper",
       "title": "Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation"
@@ -1331,6 +1327,10 @@
     {
       "kind": "explain",
       "title": "SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents"
+    },
+    {
+      "kind": "paper",
+      "title": "From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research"
     }
   ]
 }
