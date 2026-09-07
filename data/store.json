@@ -333,10 +333,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning"
-    },
-    {
       "kind": "explain",
       "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling"
     },
@@ -1331,6 +1327,10 @@
     {
       "kind": "paper",
       "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
