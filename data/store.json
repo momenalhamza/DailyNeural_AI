@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.14070",
     "2607.15275",
     "2607.15273",
     "2607.15272",
@@ -249,7 +248,8 @@
     "2609.05415",
     "2609.05404",
     "2609.05403",
-    "2609.05396"
+    "2609.05396",
+    "2609.05395"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -332,10 +332,6 @@
     "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "The Loss Does Not See the Basis, but Adam Does"
-    },
     {
       "kind": "paper",
       "title": "Learning When to Trust via Selective Context Preference Optimization"
@@ -1331,6 +1327,10 @@
     {
       "kind": "paper",
       "title": "A Deep Generative Model for Synthesizing Labeled Wireless Signals"
+    },
+    {
+      "kind": "explain",
+      "title": "Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe"
     }
   ]
 }
