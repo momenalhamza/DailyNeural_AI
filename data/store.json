@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.14086",
     "2607.14081",
     "2607.14072",
     "2607.14070",
@@ -249,7 +248,8 @@
     "2609.04165",
     "2609.04159",
     "2609.04148",
-    "2609.05415"
+    "2609.05415",
+    "2609.05404"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -332,10 +332,6 @@
     "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLM"
-    },
     {
       "kind": "paper",
       "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning"
@@ -1331,6 +1327,10 @@
     {
       "kind": "paper",
       "title": "UniMate: One Unified Model to Animate Diverse Skeletons"
+    },
+    {
+      "kind": "paper",
+      "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction"
     }
   ]
 }
