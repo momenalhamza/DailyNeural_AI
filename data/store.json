@@ -333,10 +333,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling"
-    },
-    {
       "kind": "paper",
       "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning"
     },
@@ -1327,6 +1323,10 @@
     {
       "kind": "paper",
       "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
