@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.15273",
     "2607.15272",
     "2607.15271",
     "2607.15267",
@@ -249,7 +248,8 @@
     "2609.05403",
     "2609.05396",
     "2609.05395",
-    "2609.05385"
+    "2609.05385",
+    "2609.05382"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -332,10 +332,6 @@
     "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLM"
-    },
     {
       "kind": "paper",
       "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering"
@@ -1331,6 +1327,10 @@
     {
       "kind": "paper",
       "title": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence"
+    },
+    {
+      "kind": "paper",
+      "title": "Reflection-aware Generative Novel View Synthesis"
     }
   ]
 }
