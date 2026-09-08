@@ -333,10 +333,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "An Optimal Agnostic PAC Algorithm"
-    },
-    {
       "kind": "concept",
       "title": "LLM"
     },
@@ -1331,6 +1327,10 @@
     {
       "kind": "paper",
       "title": "What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
