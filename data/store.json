@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.15271",
     "2607.15267",
     "2607.15265",
     "2607.15263",
@@ -249,7 +248,8 @@
     "2609.05395",
     "2609.05385",
     "2609.05382",
-    "2609.05381"
+    "2609.05381",
+    "2609.05376"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -332,10 +332,6 @@
     "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria"
-    },
     {
       "kind": "paper",
       "title": "An Optimal Agnostic PAC Algorithm"
@@ -1331,6 +1327,10 @@
     {
       "kind": "explain",
       "title": "Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models"
+    },
+    {
+      "kind": "paper",
+      "title": "What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies"
     }
   ]
 }
