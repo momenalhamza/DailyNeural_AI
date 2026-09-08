@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.15265",
     "2607.15263",
     "2607.15258",
     "2607.15257",
@@ -249,7 +248,8 @@
     "2609.05382",
     "2609.05381",
     "2609.05376",
-    "2609.05374"
+    "2609.05374",
+    "2609.05370"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -333,10 +333,6 @@
     "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLM"
-    },
     {
       "kind": "paper",
       "title": "Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents"
@@ -1332,6 +1328,10 @@
     {
       "kind": "explain",
       "title": "CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents"
+    },
+    {
+      "kind": "paper",
+      "title": "When LLM Decompilers Recompile More and Preserve Less"
     }
   ]
 }
