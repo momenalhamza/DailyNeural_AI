@@ -335,10 +335,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "LLM"
-    },
-    {
       "kind": "paper",
       "title": "TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories"
     },
@@ -1333,6 +1329,10 @@
     {
       "kind": "paper",
       "title": "Learning Length-Extrapolatable Recurrent Models"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
