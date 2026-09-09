@@ -330,13 +330,10 @@
     "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
     "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
     "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-    "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
+    "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+    "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents"
-    },
     {
       "kind": "explain",
       "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks"
@@ -1332,6 +1329,10 @@
     {
       "kind": "paper",
       "title": "When LLM Decompilers Recompile More and Preserve Less"
+    },
+    {
+      "kind": "news",
+      "title": "What OpenAI’s latest controversy tells us about the future of math"
     }
   ]
 }
