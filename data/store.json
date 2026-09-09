@@ -335,10 +335,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories"
-    },
-    {
       "kind": "explain",
       "title": "Scalable estimation of VARMA models"
     },
@@ -1329,6 +1325,10 @@
     {
       "kind": "paper",
       "title": "Learning Length-Extrapolatable Recurrent Models"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
