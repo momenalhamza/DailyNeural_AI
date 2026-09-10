@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.16183",
     "2607.16178",
     "2607.16177",
     "2607.18237",
@@ -249,7 +248,8 @@
     "2609.09157",
     "2609.09153",
     "2609.09152",
-    "2609.09140"
+    "2609.09140",
+    "2609.10534"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -334,10 +334,6 @@
     "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Tytan: Interactive Neurosymbolic Construction of Analytic Semantic Schemas from Relational Data"
-    },
     {
       "kind": "explain",
       "title": "Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents"
@@ -1333,6 +1329,10 @@
     {
       "kind": "paper",
       "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting"
+    },
+    {
+      "kind": "paper",
+      "title": "Likelihood-free inference with nuisance parameters through normalizing flows"
     }
   ]
 }
