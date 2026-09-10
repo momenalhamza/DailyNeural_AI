@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.18236",
     "2607.18235",
     "2607.18230",
     "2607.18228",
@@ -249,7 +248,8 @@
     "2609.10534",
     "2609.10529",
     "2609.10525",
-    "2609.10522"
+    "2609.10522",
+    "2609.10514"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -335,10 +335,6 @@
     "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLMs"
-    },
     {
       "kind": "news",
       "title": "AI for science needs reasoning, not just data"
@@ -1334,6 +1330,10 @@
     {
       "kind": "explain",
       "title": "Show-Harness: Just a VLM Agent Can Play Robots"
+    },
+    {
+      "kind": "paper",
+      "title": "Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements"
     }
   ]
 }
