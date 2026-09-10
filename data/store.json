@@ -331,13 +331,10 @@
     "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
     "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
     "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-    "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/"
+    "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+    "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations"
-    },
     {
       "kind": "paper",
       "title": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation"
@@ -1333,6 +1330,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "Powering AI is an architecture problem"
     }
   ]
 }
