@@ -335,10 +335,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "RRC: Unlocking Generative Reward Models in LLM Reinforcement Learning via Ranking-Based Reward Construction"
-    },
-    {
       "kind": "explain",
       "title": "Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations"
     },
@@ -1329,6 +1325,10 @@
     {
       "kind": "paper",
       "title": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
