@@ -336,10 +336,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "LLM"
-    },
-    {
       "kind": "news",
       "title": "These startups are chasing the next big thing in LLMs"
     },
@@ -1334,6 +1330,10 @@
     {
       "kind": "paper",
       "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
