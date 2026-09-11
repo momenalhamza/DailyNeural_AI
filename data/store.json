@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.18230",
     "2607.18228",
     "2607.19345",
     "2607.19344",
@@ -249,7 +248,8 @@
     "2609.10525",
     "2609.10522",
     "2609.10514",
-    "2609.11923"
+    "2609.11923",
+    "2609.11918"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -335,10 +335,6 @@
     "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity"
-    },
     {
       "kind": "concept",
       "title": "LLMs"
@@ -1334,6 +1330,10 @@
     {
       "kind": "paper",
       "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay"
+    },
+    {
+      "kind": "explain",
+      "title": "General Quantification of Covariate and Concept Shifts"
     }
   ]
 }
