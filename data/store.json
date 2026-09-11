@@ -336,10 +336,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "These startups are chasing the next big thing in LLMs"
-    },
-    {
       "kind": "explain",
       "title": "CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG"
     },
@@ -1330,6 +1326,10 @@
     {
       "kind": "paper",
       "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
