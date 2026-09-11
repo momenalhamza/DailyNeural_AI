@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.19345",
     "2607.19344",
     "2607.19338",
     "2607.19336",
@@ -249,7 +248,8 @@
     "2609.10514",
     "2609.11923",
     "2609.11918",
-    "2609.11917"
+    "2609.11917",
+    "2609.11916"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -335,10 +335,6 @@
     "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG"
-    },
     {
       "kind": "paper",
       "title": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions"
@@ -1334,6 +1330,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "Can Edge-Deployable Vision-Language Models Identify Species?"
     }
   ]
 }
