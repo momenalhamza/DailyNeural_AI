@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.19338",
     "2607.19336",
     "2607.19335",
     "2607.20411",
@@ -249,7 +248,8 @@
     "2609.11918",
     "2609.11917",
     "2609.11916",
-    "2609.11915"
+    "2609.11915",
+    "2609.11911"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -336,10 +336,6 @@
     "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "AI professors are negotiating the new realities of academic research"
-    },
     {
       "kind": "explain",
       "title": "Multimodal Model Diffing for Feature Discovery and Control"
@@ -1335,6 +1331,10 @@
     {
       "kind": "explain",
       "title": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact"
+    },
+    {
+      "kind": "explain",
+      "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI"
     }
   ]
 }
