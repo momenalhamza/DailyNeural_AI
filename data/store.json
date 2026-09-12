@@ -337,10 +337,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch"
-    },
-    {
       "kind": "concept",
       "title": "LLM"
     },
@@ -1335,6 +1331,10 @@
     {
       "kind": "paper",
       "title": "From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
