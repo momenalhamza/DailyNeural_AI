@@ -337,10 +337,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "LLM"
-    },
-    {
       "kind": "paper",
       "title": "GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis"
     },
@@ -1331,6 +1327,10 @@
     {
       "kind": "paper",
       "title": "From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
