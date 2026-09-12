@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.19335",
     "2607.20411",
     "2607.20402",
     "2607.20399",
@@ -249,7 +248,8 @@
     "2609.11916",
     "2609.11915",
     "2609.11911",
-    "2609.11910"
+    "2609.11910",
+    "2609.11904"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -336,10 +336,6 @@
     "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis"
-    },
     {
       "kind": "explain",
       "title": "DSLE: A Learning Environment for Dark Souls Boss Encounters"
@@ -1335,6 +1331,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "TART: A Modular Tool for Technique-Aware Audio-to-Tablature Guitar Transcription"
     }
   ]
 }
