@@ -337,10 +337,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning"
-    },
-    {
       "kind": "concept",
       "title": "LLM"
     },
@@ -1335,6 +1331,10 @@
     {
       "kind": "paper",
       "title": "MindTopo: Can Foundation Models Reason in Topological Space?"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
