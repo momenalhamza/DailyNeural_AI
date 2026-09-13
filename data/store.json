@@ -337,10 +337,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "LLM"
-    },
-    {
       "kind": "news",
       "title": "Scaling AI agents with trustworthy data"
     },
@@ -1315,6 +1311,10 @@
     {
       "kind": "paper",
       "title": "MindTopo: Can Foundation Models Reason in Topological Space?"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
