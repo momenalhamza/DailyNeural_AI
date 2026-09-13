@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.20402",
     "2607.20399",
     "2607.20385",
     "2607.21595",
@@ -249,7 +248,8 @@
     "2609.11911",
     "2609.11910",
     "2609.11904",
-    "2609.11900"
+    "2609.11900",
+    "2609.11897"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -336,10 +336,6 @@
     "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Scaling AI agents with trustworthy data"
-    },
     {
       "kind": "explain",
       "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation"
@@ -1335,6 +1331,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "explain",
+      "title": "CausalArena: Benchmarking Causal Discovery in the Foundation Model Era"
     }
   ]
 }
