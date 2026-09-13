@@ -337,10 +337,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls"
-    },
-    {
       "kind": "explain",
       "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders"
     },
@@ -1327,6 +1323,10 @@
     {
       "kind": "paper",
       "title": "MindTopo: Can Foundation Models Reason in Topological Space?"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
