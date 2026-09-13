@@ -337,10 +337,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation"
-    },
-    {
       "kind": "paper",
       "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation"
     },
@@ -1335,6 +1331,10 @@
     {
       "kind": "explain",
       "title": "CausalArena: Benchmarking Causal Discovery in the Foundation Model Era"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
