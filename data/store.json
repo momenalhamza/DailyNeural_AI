@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.20399",
     "2607.20385",
     "2607.21595",
     "2607.21585",
@@ -249,7 +248,8 @@
     "2609.11910",
     "2609.11904",
     "2609.11900",
-    "2609.11897"
+    "2609.11897",
+    "2609.13134"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -337,10 +337,6 @@
     "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Retrieval-Augmented Generation"
-    },
     {
       "kind": "news",
       "title": "Flock is tightening its rules in response to a growing surveillance backlash"
@@ -1336,6 +1332,10 @@
     {
       "kind": "news",
       "title": "The AI industry has taken a doomer turn. What now?"
+    },
+    {
+      "kind": "explain",
+      "title": "Rethinking Heterogeneous System Disaggregation for Subquadratic Attention"
     }
   ]
 }
