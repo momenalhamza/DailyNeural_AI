@@ -337,10 +337,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "How kids feel about AI, in their own words"
-    },
-    {
       "kind": "explain",
       "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses"
     },
@@ -1323,6 +1319,10 @@
     {
       "kind": "explain",
       "title": "CausalArena: Benchmarking Causal Discovery in the Foundation Model Era"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
