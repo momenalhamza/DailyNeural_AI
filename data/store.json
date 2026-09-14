@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.21595",
     "2607.21585",
     "2607.21580",
     "2607.21579",
@@ -249,7 +248,8 @@
     "2609.11900",
     "2609.11897",
     "2609.13134",
-    "2609.13125"
+    "2609.13125",
+    "2609.13118"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -337,10 +337,6 @@
     "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models"
-    },
     {
       "kind": "paper",
       "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design"
@@ -1336,6 +1332,10 @@
     {
       "kind": "paper",
       "title": "A Hybrid LSTM-XGBoost Framework for Multi-Horizon Stock Return Prediction Across Diversified Equity Portfolios"
+    },
+    {
+      "kind": "paper",
+      "title": "CMA-OT: Hierarchical Expert Supervision for Dance-to-Music Generation"
     }
   ]
 }
