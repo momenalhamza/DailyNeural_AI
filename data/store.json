@@ -337,10 +337,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "distillation"
-    },
-    {
       "kind": "news",
       "title": "How kids feel about AI, in their own words"
     },
@@ -1327,6 +1323,10 @@
     {
       "kind": "explain",
       "title": "CausalArena: Benchmarking Causal Discovery in the Foundation Model Era"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
