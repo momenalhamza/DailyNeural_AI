@@ -337,10 +337,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses"
-    },
-    {
       "kind": "paper",
       "title": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL"
     },
@@ -1319,6 +1315,10 @@
     {
       "kind": "explain",
       "title": "CausalArena: Benchmarking Causal Discovery in the Foundation Model Era"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
