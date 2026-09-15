@@ -334,13 +334,10 @@
     "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
     "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
     "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-    "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
+    "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design"
-    },
     {
       "kind": "concept",
       "title": "LLM"
@@ -1336,6 +1333,10 @@
     {
       "kind": "paper",
       "title": "CMA-OT: Hierarchical Expert Supervision for Dance-to-Music Generation"
+    },
+    {
+      "kind": "news",
+      "title": "What must happen for AI’s trillion-dollar gamble to pay off"
     }
   ]
 }
