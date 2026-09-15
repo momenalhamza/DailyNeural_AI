@@ -339,10 +339,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark"
-    },
-    {
       "kind": "paper",
       "title": "Defensive Boosting for Online Probabilistic Forecasting"
     },
@@ -1329,6 +1325,10 @@
     {
       "kind": "news",
       "title": "What must happen for AI’s trillion-dollar gamble to pay off"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
