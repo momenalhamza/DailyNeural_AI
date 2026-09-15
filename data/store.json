@@ -336,13 +336,10 @@
     "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
     "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
     "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-    "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
+    "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+    "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLM"
-    },
     {
       "kind": "paper",
       "title": "Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure"
@@ -1338,6 +1335,10 @@
     {
       "kind": "news",
       "title": "AI agents blew the whistle on their cheating colleagues"
+    },
+    {
+      "kind": "news",
+      "title": "Roundtables: Could AI really kill us all?"
     }
   ]
 }
