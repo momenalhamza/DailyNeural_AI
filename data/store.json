@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.21585",
     "2607.21580",
     "2607.21579",
     "2607.21577",
@@ -249,7 +248,8 @@
     "2609.11897",
     "2609.13134",
     "2609.13125",
-    "2609.13118"
+    "2609.13118",
+    "2609.15989"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -340,10 +340,6 @@
     "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure"
-    },
     {
       "kind": "paper",
       "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures"
@@ -1339,6 +1335,10 @@
     {
       "kind": "news",
       "title": "Roundtables: Could AI really kill us all?"
+    },
+    {
+      "kind": "explain",
+      "title": "Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection"
     }
   ]
 }
