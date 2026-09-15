@@ -339,10 +339,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist"
-    },
-    {
       "kind": "explain",
       "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark"
     },
@@ -1333,6 +1329,10 @@
     {
       "kind": "news",
       "title": "What must happen for AI’s trillion-dollar gamble to pay off"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
