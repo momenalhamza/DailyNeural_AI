@@ -339,10 +339,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "LLM"
-    },
-    {
       "kind": "paper",
       "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist"
     },
@@ -1337,6 +1333,10 @@
     {
       "kind": "news",
       "title": "What must happen for AI’s trillion-dollar gamble to pay off"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
