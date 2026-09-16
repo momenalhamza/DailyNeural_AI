@@ -341,10 +341,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?"
-    },
-    {
       "kind": "concept",
       "title": "Qubit"
     },
@@ -1339,6 +1335,10 @@
     {
       "kind": "paper",
       "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
