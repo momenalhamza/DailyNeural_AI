@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.21559",
     "2607.21558",
     "2607.21557",
     "2607.21556",
@@ -249,7 +248,8 @@
     "2609.17527",
     "2609.17523",
     "2609.17521",
-    "2609.17516"
+    "2609.17516",
+    "2609.17509"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -341,10 +341,6 @@
     "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology"
-    },
     {
       "kind": "concept",
       "title": "HRM"
@@ -1340,6 +1336,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs"
     }
   ]
 }
