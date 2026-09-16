@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.21561",
     "2607.21559",
     "2607.21558",
     "2607.21557",
@@ -249,7 +248,8 @@
     "2609.15987",
     "2609.17527",
     "2609.17523",
-    "2609.17521"
+    "2609.17521",
+    "2609.17516"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -341,10 +341,6 @@
     "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Exponential quantum advantage for learning signals with a single qubit"
-    },
     {
       "kind": "explain",
       "title": "The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity"
@@ -1340,6 +1336,10 @@
     {
       "kind": "news",
       "title": "Building the materials foundation for AI"
+    },
+    {
+      "kind": "paper",
+      "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control"
     }
   ]
 }
