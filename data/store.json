@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.21579",
     "2607.21577",
     "2607.21573",
     "2607.21561",
@@ -249,7 +248,8 @@
     "2609.13125",
     "2609.13118",
     "2609.15989",
-    "2609.15987"
+    "2609.15987",
+    "2609.17527"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -340,10 +340,6 @@
     "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLM"
-    },
     {
       "kind": "paper",
       "title": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure"
@@ -1339,6 +1335,10 @@
     {
       "kind": "paper",
       "title": "Bellman Policy Optimization"
+    },
+    {
+      "kind": "paper",
+      "title": "Agentic Societies Need a Social Harness"
     }
   ]
 }
