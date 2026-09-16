@@ -342,10 +342,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity"
-    },
-    {
       "kind": "paper",
       "title": "Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology"
     },
@@ -1340,6 +1336,10 @@
     {
       "kind": "paper",
       "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
