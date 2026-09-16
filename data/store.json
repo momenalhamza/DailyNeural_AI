@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.21573",
     "2607.21561",
     "2607.21559",
     "2607.21558",
@@ -249,7 +248,8 @@
     "2609.15989",
     "2609.15987",
     "2609.17527",
-    "2609.17523"
+    "2609.17523",
+    "2609.17521"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -340,10 +340,6 @@
     "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees"
-    },
     {
       "kind": "paper",
       "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?"
@@ -1339,6 +1335,10 @@
     {
       "kind": "explain",
       "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents"
+    },
+    {
+      "kind": "paper",
+      "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control"
     }
   ]
 }
