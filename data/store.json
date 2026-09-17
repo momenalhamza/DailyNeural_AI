@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.21558",
     "2607.21557",
     "2607.21556",
     "2607.21552",
@@ -249,7 +248,8 @@
     "2609.17523",
     "2609.17521",
     "2609.17516",
-    "2609.17509"
+    "2609.17509",
+    "2609.19145"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -341,10 +341,6 @@
     "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "HRM"
-    },
     {
       "kind": "paper",
       "title": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data"
@@ -1340,6 +1336,10 @@
     {
       "kind": "paper",
       "title": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs"
+    },
+    {
+      "kind": "explain",
+      "title": "Objective vs. Search: Decomposing What Makes a Good Tokeniser"
     }
   ]
 }
