@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.21552",
     "2607.21550",
     "2607.21548",
     "2607.22534",
@@ -249,7 +248,8 @@
     "2609.17509",
     "2609.19145",
     "2609.19144",
-    "2609.19137"
+    "2609.19137",
+    "2609.19135"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -341,10 +341,6 @@
     "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "LLM"
-    },
     {
       "kind": "paper",
       "title": "On the Structural Limits of Machine Learning Decision Systems: An Information-Theoretic, Interaction-Based, and Stochastic-Dynamical Perspective"
@@ -1340,6 +1336,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging"
     }
   ]
 }
