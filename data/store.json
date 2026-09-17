@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.22534",
     "2607.22525",
     "2607.22520",
     "2607.24743",
@@ -249,7 +248,8 @@
     "2609.19137",
     "2609.19135",
     "2609.19128",
-    "2609.19125"
+    "2609.19125",
+    "2609.19124"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -341,10 +341,6 @@
     "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1340,6 +1336,10 @@
     {
       "kind": "explain",
       "title": "Affora: A Design System for Agent-Friendly Interfaces"
+    },
+    {
+      "kind": "paper",
+      "title": "Flag Game: A Toy Model for Mechanistic Swarm Interpretability"
     }
   ]
 }
