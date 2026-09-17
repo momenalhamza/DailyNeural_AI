@@ -342,10 +342,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "TabSOM: A tabular-to-image encoding method based on self-organizing maps"
-    },
-    {
       "kind": "concept",
       "title": "LLM"
     },
@@ -1340,6 +1336,10 @@
     {
       "kind": "paper",
       "title": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
