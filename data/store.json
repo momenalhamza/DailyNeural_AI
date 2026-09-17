@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.21556",
     "2607.21552",
     "2607.21550",
     "2607.21548",
@@ -249,7 +248,8 @@
     "2609.17516",
     "2609.17509",
     "2609.19145",
-    "2609.19144"
+    "2609.19144",
+    "2609.19137"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -341,10 +341,6 @@
     "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Bagging Robustly Learns VC Classes with Linear Sample Complexity"
-    },
     {
       "kind": "paper",
       "title": "TabSOM: A tabular-to-image encoding method based on self-organizing maps"
@@ -1340,6 +1336,10 @@
     {
       "kind": "explain",
       "title": "A Zeroth-Order Paradigm for LLM Preference Alignment"
+    },
+    {
+      "kind": "paper",
+      "title": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation"
     }
   ]
 }
