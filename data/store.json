@@ -342,10 +342,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Handover of In-Context Learning State Across Session Boundaries"
-    },
-    {
       "kind": "concept",
       "title": "Neural Network"
     },
@@ -1340,6 +1336,10 @@
     {
       "kind": "paper",
       "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
