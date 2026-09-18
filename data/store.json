@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.24743",
     "2607.24741",
     "2607.26057",
     "2607.26055",
@@ -249,7 +248,8 @@
     "2609.19125",
     "2609.19124",
     "2609.20822",
-    "2609.20821"
+    "2609.20821",
+    "2609.20820"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -341,10 +341,6 @@
     "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance"
-    },
     {
       "kind": "paper",
       "title": "Handover of In-Context Learning State Across Session Boundaries"
@@ -1340,6 +1336,10 @@
     {
       "kind": "explain",
       "title": "Embedding Models Measure in Peculiar Ways"
+    },
+    {
+      "kind": "paper",
+      "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision"
     }
   ]
 }
