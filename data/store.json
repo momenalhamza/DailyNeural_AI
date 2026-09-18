@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.24741",
     "2607.26057",
     "2607.26055",
     "2607.26052",
@@ -249,7 +248,8 @@
     "2609.19124",
     "2609.20822",
     "2609.20821",
-    "2609.20820"
+    "2609.20820",
+    "2609.20817"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -342,10 +342,6 @@
     "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Learning-to-Transition for Large-scale and High-Order MIMO Detection"
-    },
     {
       "kind": "paper",
       "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory"
@@ -1341,6 +1337,10 @@
     {
       "kind": "news",
       "title": "Could AI really kill us all? Your questions, answered."
+    },
+    {
+      "kind": "paper",
+      "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations"
     }
   ]
 }
