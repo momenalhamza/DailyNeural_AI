@@ -338,13 +338,10 @@
     "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
     "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
     "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-    "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
+    "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers"
-    },
     {
       "kind": "explain",
       "title": "Learning-to-Transition for Large-scale and High-Order MIMO Detection"
@@ -1340,6 +1337,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "Could AI really kill us all? Your questions, answered."
     }
   ]
 }
