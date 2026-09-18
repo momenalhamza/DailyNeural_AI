@@ -342,10 +342,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
-    {
       "kind": "paper",
       "title": "Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers"
     },
@@ -1336,6 +1332,10 @@
     {
       "kind": "paper",
       "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
