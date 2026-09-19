@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.26057",
     "2607.26055",
     "2607.26052",
     "2607.26043",
@@ -249,7 +248,8 @@
     "2609.20822",
     "2609.20821",
     "2609.20820",
-    "2609.20817"
+    "2609.20817",
+    "2609.20816"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -342,10 +342,6 @@
     "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1341,6 +1337,10 @@
     {
       "kind": "paper",
       "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations"
+    },
+    {
+      "kind": "paper",
+      "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing"
     }
   ]
 }
