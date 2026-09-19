@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.27196",
     "2607.27191",
     "2607.27189",
     "2607.27188",
@@ -249,7 +248,8 @@
     "2609.20815",
     "2609.20814",
     "2609.20812",
-    "2609.20807"
+    "2609.20807",
+    "2609.20804"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -342,10 +342,6 @@
     "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "AI’s recursive self-improvement might not come so quickly after all"
-    },
     {
       "kind": "explain",
       "title": "Spectral Gaps of Hit-and-Run and Coordinate Hit-and-Run"
@@ -1341,6 +1337,10 @@
     {
       "kind": "paper",
       "title": "Score Centering Stabilizes Off-policy Reinforcement Learning"
+    },
+    {
+      "kind": "paper",
+      "title": "An Empirical Study of Harness Design for Coding Agents"
     }
   ]
 }
