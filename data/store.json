@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.28618",
     "2607.28617",
     "2607.28609",
     "2607.28608",
@@ -249,7 +248,8 @@
     "2609.20779",
     "2609.20776",
     "2609.20768",
-    "2609.20765"
+    "2609.20765",
+    "2609.20761"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -342,10 +342,6 @@
     "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push"
-    },
     {
       "kind": "explain",
       "title": "The concentration game: Bayesian updating, regret, and information"
@@ -1341,6 +1337,10 @@
     {
       "kind": "paper",
       "title": "Calibrated RF-Fingerprinting Under Interference With Heterogeneous Transmission Protocols"
+    },
+    {
+      "kind": "paper",
+      "title": "Agile-WAM: An Agile Tactile World Action Model for Contact-Rich Robot Control"
     }
   ]
 }
