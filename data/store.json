@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.28627",
     "2607.28623",
     "2607.28618",
     "2607.28617",
@@ -249,7 +248,8 @@
     "2609.20794",
     "2609.20784",
     "2609.20779",
-    "2609.20776"
+    "2609.20776",
+    "2609.20768"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -342,10 +342,6 @@
     "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification"
-    },
     {
       "kind": "paper",
       "title": "TokEval: A Tokenizer Evaluation Suite"
@@ -1341,6 +1337,10 @@
     {
       "kind": "explain",
       "title": "GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies"
+    },
+    {
+      "kind": "paper",
+      "title": "Semantic Action Graph: A Shared Representation for Agent Grounding and Human Interpretation of Sports Highlights"
     }
   ]
 }
