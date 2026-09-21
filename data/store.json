@@ -340,13 +340,10 @@
     "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
     "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
     "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-    "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
+    "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1342,6 +1339,10 @@
     {
       "kind": "news",
       "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”"
+    },
+    {
+      "kind": "news",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”"
     }
   ]
 }
