@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.28587",
     "2607.28582",
     "2607.28580",
     "2607.28576",
@@ -249,7 +248,8 @@
     "2609.22086",
     "2609.22068",
     "2609.22067",
-    "2609.22064"
+    "2609.22064",
+    "2609.22056"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -344,10 +344,6 @@
     "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Finetuning Strategies for Querying Sounds by Vocal Imitation"
-    },
     {
       "kind": "paper",
       "title": "Information on trajectories: martingales and random times"
@@ -1343,6 +1339,10 @@
     {
       "kind": "paper",
       "title": "BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings"
+    },
+    {
+      "kind": "paper",
+      "title": "Predictable Failure in Multi-Hop Retrieval: Score-Distributional Confidence Scoring and Abstention"
     }
   ]
 }
