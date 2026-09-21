@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.28591",
     "2607.28589",
     "2607.28587",
     "2607.28582",
@@ -249,7 +248,8 @@
     "2609.20761",
     "2609.20758",
     "2609.22086",
-    "2609.22068"
+    "2609.22068",
+    "2609.22067"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -344,10 +344,6 @@
     "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "news",
       "title": "Debates over AI consciousness are a trap"
@@ -1343,6 +1339,10 @@
     {
       "kind": "news",
       "title": "4 ways to address the failures we found along the US border’s “virtual wall”"
+    },
+    {
+      "kind": "explain",
+      "title": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw"
     }
   ]
 }
