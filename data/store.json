@@ -343,10 +343,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "Unlocking hidden revenue streams with market models"
-    },
-    {
       "kind": "explain",
       "title": "ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning"
     },
@@ -1341,6 +1337,10 @@
     {
       "kind": "paper",
       "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
