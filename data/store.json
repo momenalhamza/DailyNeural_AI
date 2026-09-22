@@ -346,10 +346,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval"
-    },
-    {
       "kind": "paper",
       "title": "A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection"
     },
@@ -1344,6 +1340,10 @@
     {
       "kind": "paper",
       "title": "Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
