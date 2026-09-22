@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.28580",
     "2607.28576",
     "2607.29677",
     "2607.29675",
@@ -249,7 +248,8 @@
     "2609.22067",
     "2609.22064",
     "2609.22056",
-    "2609.25001"
+    "2609.25001",
+    "2609.24985"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -345,10 +345,6 @@
     "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation"
-    },
     {
       "kind": "explain",
       "title": "$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval"
@@ -1344,6 +1340,10 @@
     {
       "kind": "explain",
       "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay"
+    },
+    {
+      "kind": "paper",
+      "title": "Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use"
     }
   ]
 }
