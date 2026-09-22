@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.29677",
     "2607.29675",
     "2607.29674",
     "2607.29665",
@@ -249,7 +248,8 @@
     "2609.22056",
     "2609.25001",
     "2609.24985",
-    "2609.24984"
+    "2609.24984",
+    "2609.24983"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -346,10 +346,6 @@
     "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Inducing Task Models from Computer-Use Traces"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1345,6 +1341,10 @@
     {
       "kind": "explain",
       "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory"
+    },
+    {
+      "kind": "paper",
+      "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction"
     }
   ]
 }
