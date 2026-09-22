@@ -342,13 +342,10 @@
     "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
     "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
     "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-    "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/"
+    "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+    "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "paper",
       "title": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction"
@@ -1344,6 +1341,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall"
     }
   ]
 }
