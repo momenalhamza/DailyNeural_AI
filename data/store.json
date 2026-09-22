@@ -346,10 +346,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection"
-    },
-    {
       "kind": "concept",
       "title": "Neural Network"
     },
@@ -1340,6 +1336,10 @@
     {
       "kind": "paper",
       "title": "Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
