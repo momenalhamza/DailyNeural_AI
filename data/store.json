@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.29674",
     "2607.29665",
     "2608.02599",
     "2608.02595",
@@ -249,7 +248,8 @@
     "2609.24985",
     "2609.24984",
     "2609.24983",
-    "2609.26783"
+    "2609.26783",
+    "2609.26780"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -347,10 +347,6 @@
     "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation"
-    },
     {
       "kind": "paper",
       "title": "Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records"
@@ -1346,6 +1342,10 @@
     {
       "kind": "explain",
       "title": "A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing"
+    },
+    {
+      "kind": "paper",
+      "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue"
     }
   ]
 }
