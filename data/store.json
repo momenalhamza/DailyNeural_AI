@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.02595",
     "2608.02588",
     "2608.02585",
     "2608.04007",
@@ -249,7 +248,8 @@
     "2609.26783",
     "2609.26780",
     "2609.26779",
-    "2609.26777"
+    "2609.26777",
+    "2609.26761"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -348,10 +348,6 @@
     "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Phantom Gains: Auditing Self-Improvement Against a Measured Null"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1347,6 +1343,10 @@
     {
       "kind": "explain",
       "title": "SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving"
+    },
+    {
+      "kind": "paper",
+      "title": "A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem"
     }
   ]
 }
