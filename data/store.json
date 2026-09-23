@@ -343,13 +343,10 @@
     "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
     "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
     "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-    "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
+    "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "paper",
       "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement"
@@ -1345,6 +1342,10 @@
     {
       "kind": "paper",
       "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction"
+    },
+    {
+      "kind": "news",
+      "title": "Don’t be fooled by this summer of AI hype"
     }
   ]
 }
