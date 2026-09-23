@@ -344,13 +344,10 @@
     "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
     "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
     "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
+    "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+    "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "paper",
       "title": "MidTool: Mid-training Data Synthesis for Agentic Tool Use"
@@ -1346,6 +1343,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight"
     }
   ]
 }
