@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2607.29665",
     "2608.02599",
     "2608.02595",
     "2608.02588",
@@ -249,7 +248,8 @@
     "2609.24984",
     "2609.24983",
     "2609.26783",
-    "2609.26780"
+    "2609.26780",
+    "2609.26779"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -348,10 +348,6 @@
     "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "MidTool: Mid-training Data Synthesis for Agentic Tool Use"
-    },
     {
       "kind": "explain",
       "title": "Physical-Support Confidence Sets for Highly Coherent Dictionaries"
@@ -1347,6 +1343,10 @@
     {
       "kind": "news",
       "title": "She died at the San Diego border. A surveillance camera was in plain sight"
+    },
+    {
+      "kind": "paper",
+      "title": "CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents"
     }
   ]
 }
