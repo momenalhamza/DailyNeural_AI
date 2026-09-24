@@ -350,10 +350,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Which Eviction Policy Should an LLM Cache Use? A Systematic Study Across Workloads, Capacities, and Encoders"
-    },
-    {
       "kind": "concept",
       "title": "Neural Network"
     },
@@ -1348,6 +1344,10 @@
     {
       "kind": "paper",
       "title": "Contrastive Learning for Authorship Verification"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
