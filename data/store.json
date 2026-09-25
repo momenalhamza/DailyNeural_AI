@@ -346,13 +346,10 @@
     "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
     "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-    "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/"
+    "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+    "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "news",
       "title": "Kids outlearn AI—and we still don’t know why"
@@ -1348,6 +1345,10 @@
     {
       "kind": "paper",
       "title": "Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark"
+    },
+    {
+      "kind": "news",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector"
     }
   ]
 }
