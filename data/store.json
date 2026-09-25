@@ -351,10 +351,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "AI with Authority, from Application to Silicon"
-    },
-    {
       "kind": "concept",
       "title": "Neural Network"
     },
@@ -1349,6 +1345,10 @@
     {
       "kind": "paper",
       "title": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
