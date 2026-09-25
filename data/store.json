@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.05138",
     "2608.05136",
     "2608.06377",
     "2608.06366",
@@ -249,7 +248,8 @@
     "2609.28449",
     "2609.30266",
     "2609.30264",
-    "2609.30258"
+    "2609.30258",
+    "2609.30250"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -350,10 +350,6 @@
     "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "How to encourage smarter AI use in the classroom"
-    },
     {
       "kind": "explain",
       "title": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction"
@@ -1349,6 +1345,10 @@
     {
       "kind": "paper",
       "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning"
+    },
+    {
+      "kind": "paper",
+      "title": "Agentic Detection of Online Conspiracies"
     }
   ]
 }
