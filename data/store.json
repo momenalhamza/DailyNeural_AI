@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.06366",
     "2608.06364",
     "2608.06363",
     "2608.06362",
@@ -249,7 +248,8 @@
     "2609.30258",
     "2609.30250",
     "2609.30249",
-    "2609.30247"
+    "2609.30247",
+    "2609.30233"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -350,10 +350,6 @@
     "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "news",
       "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw."
@@ -1349,6 +1345,10 @@
     {
       "kind": "explain",
       "title": "Rolling-WAM: World Action Models with Rolling Imagination"
+    },
+    {
+      "kind": "paper",
+      "title": "Coding Agents for Generalized Task and Motion Planning Problems"
     }
   ]
 }
