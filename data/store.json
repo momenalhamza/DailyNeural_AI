@@ -351,10 +351,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "ReWorld: An Interactive World Model with Long-Horizon Memory"
-    },
-    {
       "kind": "paper",
       "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?"
     },
@@ -1345,6 +1341,10 @@
     {
       "kind": "paper",
       "title": "Coding Agents for Generalized Task and Motion Planning Problems"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
