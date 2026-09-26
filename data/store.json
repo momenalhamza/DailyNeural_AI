@@ -351,10 +351,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw."
-    },
-    {
       "kind": "explain",
       "title": "ReWorld: An Interactive World Model with Long-Horizon Memory"
     },
@@ -1349,6 +1345,10 @@
     {
       "kind": "paper",
       "title": "Coding Agents for Generalized Task and Motion Planning Problems"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
