@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.06337",
     "2608.06331",
     "2608.06329",
     "2608.06311",
@@ -249,7 +248,8 @@
     "2609.30217",
     "2609.30215",
     "2609.30214",
-    "2609.30212"
+    "2609.30212",
+    "2609.30210"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -350,10 +350,6 @@
     "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "The inside story on why OpenAI agents hacked Hugging Face"
-    },
     {
       "kind": "paper",
       "title": "Parameterized Complexity of $L_p$-Lipschitz Constants for Input Convex Neural Networks and $L_p$-Norm Maximization over Zonotopes"
@@ -1349,6 +1345,10 @@
     {
       "kind": "explain",
       "title": "Anchored Extra-Proximal Methods: Optimal Higher-Order Methods for Monotone Inclusion Problems"
+    },
+    {
+      "kind": "paper",
+      "title": "The Alignment Illusion in Multimodal Large Language Models"
     }
   ]
 }
