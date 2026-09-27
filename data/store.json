@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.06346",
     "2608.06340",
     "2608.06337",
     "2608.06331",
@@ -249,7 +248,8 @@
     "2609.30219",
     "2609.30218",
     "2609.30217",
-    "2609.30215"
+    "2609.30215",
+    "2609.30214"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -350,10 +350,6 @@
     "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1349,6 +1345,10 @@
     {
       "kind": "paper",
       "title": "A Nearly Quadratic Lower Bound for Linear Optimization over Convex Bodies in the Membership Oracle Model"
+    },
+    {
+      "kind": "paper",
+      "title": "Underwater C3-JEPA: An Object-Centric Cross-View World Model for ROV Salvage"
     }
   ]
 }
