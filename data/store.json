@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.06361",
     "2608.06353",
     "2608.06352",
     "2608.06351",
@@ -249,7 +248,8 @@
     "2609.30233",
     "2609.30227",
     "2609.30226",
-    "2609.30222"
+    "2609.30222",
+    "2609.30219"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -350,10 +350,6 @@
     "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography"
-    },
     {
       "kind": "paper",
       "title": "What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation"
@@ -1349,6 +1345,10 @@
     {
       "kind": "paper",
       "title": "TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations"
+    },
+    {
+      "kind": "paper",
+      "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority"
     }
   ]
 }
