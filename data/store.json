@@ -351,10 +351,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "Raised on AI"
-    },
-    {
       "kind": "explain",
       "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses"
     },
@@ -1349,6 +1345,10 @@
     {
       "kind": "paper",
       "title": "Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
