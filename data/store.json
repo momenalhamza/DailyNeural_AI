@@ -351,10 +351,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents"
-    },
-    {
       "kind": "explain",
       "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning"
     },
@@ -1345,6 +1341,10 @@
     {
       "kind": "explain",
       "title": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
