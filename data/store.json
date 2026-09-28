@@ -351,10 +351,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
-    {
       "kind": "news",
       "title": "Orchestration is the new challenge for CX in the age of AI agents"
     },
@@ -1349,6 +1345,10 @@
     {
       "kind": "explain",
       "title": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
