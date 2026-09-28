@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.06311",
     "2608.06310",
     "2608.06305",
     "2608.07463",
@@ -249,7 +248,8 @@
     "2609.30212",
     "2609.30210",
     "2609.31619",
-    "2609.31614"
+    "2609.31614",
+    "2609.31612"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -351,10 +351,6 @@
     "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching"
-    },
     {
       "kind": "paper",
       "title": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role"
@@ -1350,6 +1346,10 @@
     {
       "kind": "explain",
       "title": "Gap-free Differentially Private PCA for Gaussian Data"
+    },
+    {
+      "kind": "paper",
+      "title": "First-Order Stationarity of Reverse Diffusions"
     }
   ]
 }
