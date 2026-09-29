@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.07463",
     "2608.07460",
     "2608.07458",
     "2608.09930",
@@ -249,7 +248,8 @@
     "2609.31614",
     "2609.31612",
     "2609.31607",
-    "2609.35770"
+    "2609.35770",
+    "2609.35769"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -351,10 +351,6 @@
     "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them."
-    },
     {
       "kind": "paper",
       "title": "SWE-Prime: Fewer Trajectories, Better Performance"
@@ -1350,6 +1346,10 @@
     {
       "kind": "explain",
       "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets"
+    },
+    {
+      "kind": "paper",
+      "title": "Telescopic Language Models"
     }
   ]
 }
