@@ -353,10 +353,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "SWE-Prime: Fewer Trajectories, Better Performance"
-    },
-    {
-      "kind": "paper",
       "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench"
     },
     {
@@ -1350,6 +1346,10 @@
     {
       "kind": "paper",
       "title": "Telescopic Language Models"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
