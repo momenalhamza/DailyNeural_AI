@@ -353,10 +353,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench"
-    },
-    {
-      "kind": "paper",
       "title": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution"
     },
     {
@@ -1346,6 +1342,10 @@
     {
       "kind": "paper",
       "title": "Telescopic Language Models"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
