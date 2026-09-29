@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.07460",
     "2608.07458",
     "2608.09930",
     "2608.09928",
@@ -249,7 +248,8 @@
     "2609.31612",
     "2609.31607",
     "2609.35770",
-    "2609.35769"
+    "2609.35769",
+    "2609.35768"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -352,10 +352,6 @@
     "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation"
-    },
     {
       "kind": "paper",
       "title": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit"
@@ -1351,6 +1347,10 @@
     {
       "kind": "news",
       "title": "Making AI an asset, not an expense"
+    },
+    {
+      "kind": "explain",
+      "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models"
     }
   ]
 }
