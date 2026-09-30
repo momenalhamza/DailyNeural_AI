@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.09925",
     "2608.09921",
     "2608.09902",
     "2608.11204",
@@ -249,7 +248,8 @@
     "2609.35768",
     "2609.35767",
     "2609.35763",
-    "2609.38178"
+    "2609.38178",
+    "2609.38176"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -354,10 +354,6 @@
     "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "When agents act on their own, governance has to live in the data layer"
-    },
     {
       "kind": "explain",
       "title": "How Language Models Organize and Structure Moral Knowledge"
@@ -1353,6 +1349,10 @@
     {
       "kind": "news",
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall"
+    },
+    {
+      "kind": "explain",
+      "title": "Breakdown of Local Denoising as Semantic Speciation"
     }
   ]
 }
