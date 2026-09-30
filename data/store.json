@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.09902",
     "2608.11204",
     "2608.11200",
     "2608.11197",
@@ -249,7 +248,8 @@
     "2609.35763",
     "2609.38178",
     "2609.38176",
-    "2609.38169"
+    "2609.38169",
+    "2609.38166"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -354,10 +354,6 @@
     "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust Prediction"
-    },
     {
       "kind": "news",
       "title": "AI models flub these intelligence tests. Can you fare any better?"
@@ -1353,6 +1349,10 @@
     {
       "kind": "paper",
       "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization"
+    },
+    {
+      "kind": "paper",
+      "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization"
     }
   ]
 }
