@@ -358,10 +358,6 @@
       "title": "Neural Network"
     },
     {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
-    {
       "kind": "news",
       "title": "When agents act on their own, governance has to live in the data layer"
     },
@@ -1348,6 +1344,10 @@
     {
       "kind": "paper",
       "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
