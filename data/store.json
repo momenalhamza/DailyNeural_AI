@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.09928",
     "2608.09925",
     "2608.09921",
     "2608.09902",
@@ -249,7 +248,8 @@
     "2609.35769",
     "2609.35768",
     "2609.35767",
-    "2609.35763"
+    "2609.35763",
+    "2609.38178"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -353,10 +353,6 @@
     "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling"
-    },
     {
       "kind": "paper",
       "title": "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators"
@@ -1352,6 +1348,10 @@
     {
       "kind": "news",
       "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer"
+    },
+    {
+      "kind": "paper",
+      "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement"
     }
   ]
 }
