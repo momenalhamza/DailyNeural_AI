@@ -349,13 +349,10 @@
     "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
     "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
     "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-    "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/"
+    "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study"
-    },
     {
       "kind": "explain",
       "title": "Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling"
@@ -1351,6 +1348,10 @@
     {
       "kind": "paper",
       "title": "Unifying Distributional Training for One-Step Visual Generation"
+    },
+    {
+      "kind": "news",
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer"
     }
   ]
 }
