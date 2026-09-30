@@ -354,10 +354,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators"
-    },
-    {
       "kind": "concept",
       "title": "Neural Network"
     },
@@ -1352,6 +1348,10 @@
     {
       "kind": "paper",
       "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
