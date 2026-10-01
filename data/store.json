@@ -355,10 +355,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Property-Specific Recoverability from Contact PPG to Camera rPPG under Heterogeneous Observation Conditions"
-    },
-    {
       "kind": "concept",
       "title": "Neural Network"
     },
@@ -1353,6 +1349,10 @@
     {
       "kind": "paper",
       "title": "Semifactual Credit-Augmented Policy Optimization"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
