@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.11197",
     "2608.11195",
     "2608.11191",
     "2608.12308",
@@ -249,7 +248,8 @@
     "2609.38169",
     "2609.38166",
     "2609.40361",
-    "2609.40360"
+    "2609.40360",
+    "2609.40359"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -355,10 +355,6 @@
     "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "news",
       "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?"
@@ -1354,6 +1350,10 @@
     {
       "kind": "news",
       "title": "Who’s liable when AI agents go rogue?"
+    },
+    {
+      "kind": "paper",
+      "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text"
     }
   ]
 }
