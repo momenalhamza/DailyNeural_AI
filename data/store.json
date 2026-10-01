@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.11204",
     "2608.11200",
     "2608.11197",
     "2608.11195",
@@ -249,7 +248,8 @@
     "2609.38178",
     "2609.38176",
     "2609.38169",
-    "2609.38166"
+    "2609.38166",
+    "2609.40361"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -354,10 +354,6 @@
     "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "AI models flub these intelligence tests. Can you fare any better?"
-    },
     {
       "kind": "explain",
       "title": "LeVJEPA: Efficient & Scalable Video Pretraining without the Heuristics"
@@ -1353,6 +1349,10 @@
     {
       "kind": "paper",
       "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization"
+    },
+    {
+      "kind": "explain",
+      "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis"
     }
   ]
 }
