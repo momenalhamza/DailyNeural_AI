@@ -356,10 +356,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?"
-    },
-    {
       "kind": "paper",
       "title": "CorporateBench: Large-Scale Q&A Benchmarking with Temporal Knowledge Bases"
     },
@@ -1354,6 +1350,10 @@
     {
       "kind": "paper",
       "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
