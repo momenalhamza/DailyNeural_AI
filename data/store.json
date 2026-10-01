@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.11200",
     "2608.11197",
     "2608.11195",
     "2608.11191",
@@ -249,7 +248,8 @@
     "2609.38176",
     "2609.38169",
     "2609.38166",
-    "2609.40361"
+    "2609.40361",
+    "2609.40360"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -354,10 +354,6 @@
     "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "LeVJEPA: Efficient & Scalable Video Pretraining without the Heuristics"
-    },
     {
       "kind": "paper",
       "title": "Property-Specific Recoverability from Contact PPG to Camera rPPG under Heterogeneous Observation Conditions"
@@ -1353,6 +1349,10 @@
     {
       "kind": "explain",
       "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis"
+    },
+    {
+      "kind": "paper",
+      "title": "Semifactual Credit-Augmented Policy Optimization"
     }
   ]
 }
