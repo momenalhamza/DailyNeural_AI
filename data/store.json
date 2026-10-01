@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.11195",
     "2608.11191",
     "2608.12308",
     "2608.12307",
@@ -249,7 +248,8 @@
     "2609.38166",
     "2609.40361",
     "2609.40360",
-    "2609.40359"
+    "2609.40359",
+    "2609.40356"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -355,10 +355,6 @@
     "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "CorporateBench: Large-Scale Q&A Benchmarking with Temporal Knowledge Bases"
-    },
     {
       "kind": "paper",
       "title": "Token-Level Advertising"
@@ -1354,6 +1350,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing"
     }
   ]
 }
