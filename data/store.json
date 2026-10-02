@@ -357,10 +357,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
-    {
       "kind": "news",
       "title": "Hugging Face hack could indicate cultural issues at OpenAI"
     },
@@ -1355,6 +1351,10 @@
     {
       "kind": "paper",
       "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
