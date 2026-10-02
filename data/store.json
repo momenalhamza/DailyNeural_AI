@@ -358,10 +358,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "On two proofs of $d^2$ mixing of weighted Dikin walks"
-    },
-    {
-      "kind": "paper",
       "title": "Learning between the peaks: sharp asymptotics for kernel ridge regression under power-law anisotropy"
     },
     {
@@ -1355,6 +1351,10 @@
     {
       "kind": "paper",
       "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
