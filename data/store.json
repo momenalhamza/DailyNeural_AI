@@ -352,13 +352,10 @@
     "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
     "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
     "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
+    "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs"
-    },
     {
       "kind": "paper",
       "title": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning"
@@ -1354,6 +1351,10 @@
     {
       "kind": "paper",
       "title": "Image Classifiers are Efficient Self-Supervised Video Representation Learners"
+    },
+    {
+      "kind": "news",
+      "title": "Don’t be fooled—LLMs don’t reason"
     }
   ]
 }
