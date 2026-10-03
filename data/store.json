@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.13560",
     "2608.13558",
     "2608.13555",
     "2608.13554",
@@ -249,7 +248,8 @@
     "2610.02207",
     "2610.02206",
     "2610.02204",
-    "2610.02203"
+    "2610.02203",
+    "2610.02202"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -357,10 +357,6 @@
     "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies"
-    },
     {
       "kind": "paper",
       "title": "Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations"
@@ -1356,6 +1352,10 @@
     {
       "kind": "paper",
       "title": "Embedding Prediction Helps Image Generation"
+    },
+    {
+      "kind": "paper",
+      "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research"
     }
   ]
 }
