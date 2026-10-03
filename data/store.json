@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.12306",
     "2608.12304",
     "2608.13560",
     "2608.13558",
@@ -249,7 +248,8 @@
     "2609.40356",
     "2609.40347",
     "2610.02207",
-    "2610.02206"
+    "2610.02206",
+    "2610.02204"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -357,10 +357,6 @@
     "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Blog: Survey of Optimizers"
-    },
     {
       "kind": "paper",
       "title": "Constant Individual Regret in General Games"
@@ -1356,6 +1352,10 @@
     {
       "kind": "news",
       "title": "Redefining enterprise intelligence with autonomous AI"
+    },
+    {
+      "kind": "explain",
+      "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents"
     }
   ]
 }
