@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.13554",
     "2608.13549",
     "2608.13547",
     "2608.13545",
@@ -249,7 +248,8 @@
     "2610.02203",
     "2610.02202",
     "2610.02201",
-    "2610.02200"
+    "2610.02200",
+    "2610.02199"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -357,10 +357,6 @@
     "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification"
-    },
     {
       "kind": "explain",
       "title": "OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques"
@@ -1356,6 +1352,10 @@
     {
       "kind": "explain",
       "title": "VISTA: A Visual Harness for Reasoning in an Interactive World"
+    },
+    {
+      "kind": "paper",
+      "title": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning"
     }
   ]
 }
