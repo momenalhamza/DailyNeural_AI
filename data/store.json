@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.13520",
     "2608.13518",
     "2608.13517",
     "2608.13514",
@@ -249,7 +248,8 @@
     "2610.02193",
     "2610.02191",
     "2610.02190",
-    "2610.02189"
+    "2610.02189",
+    "2610.02188"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -357,10 +357,6 @@
     "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Facilitating AI integration with simplicity at scale"
-    },
     {
       "kind": "explain",
       "title": "CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?"
@@ -1356,6 +1352,10 @@
     {
       "kind": "explain",
       "title": "Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features"
+    },
+    {
+      "kind": "paper",
+      "title": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation"
     }
   ]
 }
