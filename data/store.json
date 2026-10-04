@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.13524",
     "2608.13522",
     "2608.13521",
     "2608.13520",
@@ -249,7 +248,8 @@
     "2610.02199",
     "2610.02198",
     "2610.02195",
-    "2610.02193"
+    "2610.02193",
+    "2610.02191"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -357,10 +357,6 @@
     "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1356,6 +1352,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "The Missing Primitive: Diagnosing and Repairing Mathematical Reasoning in Large Language Models"
     }
   ]
 }
