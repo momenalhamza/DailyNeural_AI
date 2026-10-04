@@ -358,10 +358,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation"
-    },
-    {
       "kind": "paper",
       "title": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation"
     },
@@ -1356,6 +1352,10 @@
     {
       "kind": "paper",
       "title": "Hierarchical Continuous Diffusion Language Models"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
