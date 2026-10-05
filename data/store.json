@@ -359,10 +359,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "The Rise of Verbal Reinforcement Learning"
-    },
-    {
-      "kind": "paper",
       "title": "A Common Measure of Communication for Speech Brain-Computer Interfaces"
     },
     {
@@ -1356,6 +1352,10 @@
     {
       "kind": "explain",
       "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
