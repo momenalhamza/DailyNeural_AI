@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.13514",
     "2608.13513",
     "2608.13510",
     "2608.13506",
@@ -249,7 +248,8 @@
     "2610.02189",
     "2610.02188",
     "2610.03717",
-    "2610.03715"
+    "2610.03715",
+    "2610.03713"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -358,10 +358,6 @@
     "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Graph Machine: Towards Better Pretraining via Edges"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1357,6 +1353,10 @@
     {
       "kind": "paper",
       "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes"
+    },
+    {
+      "kind": "paper",
+      "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation"
     }
   ]
 }
