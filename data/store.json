@@ -355,13 +355,10 @@
     "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
     "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
     "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-    "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/"
+    "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+    "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace"
-    },
     {
       "kind": "explain",
       "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions"
@@ -1357,6 +1354,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "Bringing predictive analytics to the agentic AI era"
     }
   ]
 }
