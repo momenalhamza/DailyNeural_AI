@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.13510",
     "2608.13506",
     "2608.14539",
     "2608.14530",
@@ -249,7 +248,8 @@
     "2610.03717",
     "2610.03715",
     "2610.03713",
-    "2610.03712"
+    "2610.03712",
+    "2610.04741"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -358,10 +358,6 @@
     "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "paper",
       "title": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs"
@@ -1357,6 +1353,10 @@
     {
       "kind": "paper",
       "title": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics"
+    },
+    {
+      "kind": "paper",
+      "title": "Robot Learning with Visual Predicted Force"
     }
   ]
 }
