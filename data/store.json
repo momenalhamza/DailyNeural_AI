@@ -356,13 +356,10 @@
     "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
     "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
     "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-    "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/"
+    "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+    "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions"
-    },
     {
       "kind": "paper",
       "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints"
@@ -1358,6 +1355,10 @@
     {
       "kind": "news",
       "title": "Bringing predictive analytics to the agentic AI era"
+    },
+    {
+      "kind": "news",
+      "title": "People really hate AI, so why can’t they get enough?"
     }
   ]
 }
