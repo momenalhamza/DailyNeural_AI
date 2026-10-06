@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.14522",
     "2608.14511",
     "2608.16889",
     "2608.16888",
@@ -249,7 +248,8 @@
     "2610.06852",
     "2610.06851",
     "2610.06846",
-    "2610.06844"
+    "2610.06844",
+    "2610.06843"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -360,10 +360,6 @@
     "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "news",
       "title": "Architecting memory and storage in the AI era"
@@ -1359,6 +1355,10 @@
     {
       "kind": "paper",
       "title": "Learning to Read the Contextual Tokens in Diffusion Transformers"
+    },
+    {
+      "kind": "paper",
+      "title": "Recursive Video In-Context Learning for Agentic Robot"
     }
   ]
 }
