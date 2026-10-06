@@ -359,10 +359,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Improved Gradient Descent Lower Bounds Beyond Nesterov"
-    },
-    {
       "kind": "news",
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace"
     },
@@ -1357,6 +1353,10 @@
     {
       "kind": "paper",
       "title": "Base Models Can Reason By Taking a Cue From Training Data"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
