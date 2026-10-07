@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.16878",
     "2608.18076",
     "2608.18066",
     "2608.18062",
@@ -249,7 +248,8 @@
     "2610.08789",
     "2610.08785",
     "2610.08782",
-    "2610.08781"
+    "2610.08781",
+    "2610.08780"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -361,10 +361,6 @@
     "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "paper",
       "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views"
@@ -1360,6 +1356,10 @@
     {
       "kind": "paper",
       "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas"
+    },
+    {
+      "kind": "paper",
+      "title": "DepthWorld: 3D World Model for Robot Manipulation"
     }
   ]
 }
