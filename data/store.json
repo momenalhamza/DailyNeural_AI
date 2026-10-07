@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.16888",
     "2608.16884",
     "2608.16878",
     "2608.18076",
@@ -249,7 +248,8 @@
     "2610.06844",
     "2610.06843",
     "2610.08789",
-    "2610.08785"
+    "2610.08785",
+    "2610.08782"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -361,10 +361,6 @@
     "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Robust PAC Learning of Concurrent Stochastic Games"
-    },
     {
       "kind": "paper",
       "title": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning"
@@ -1360,6 +1356,10 @@
     {
       "kind": "news",
       "title": "EmTech Future 2026: When AI Meets Everything"
+    },
+    {
+      "kind": "paper",
+      "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction"
     }
   ]
 }
