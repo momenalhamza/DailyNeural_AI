@@ -363,10 +363,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms"
-    },
-    {
-      "kind": "paper",
       "title": "Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Graphs on SoCs"
     },
     {
@@ -1360,6 +1356,10 @@
     {
       "kind": "paper",
       "title": "Decoupling Exploration from Optimization in RLVR"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
