@@ -359,13 +359,10 @@
     "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
     "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
     "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-    "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
+    "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+    "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents"
-    },
     {
       "kind": "paper",
       "title": "From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research"
@@ -1361,6 +1358,10 @@
     {
       "kind": "news",
       "title": "AI breakthroughs in robotics won’t change your life any time soon"
+    },
+    {
+      "kind": "news",
+      "title": "Building a safer path to autonomous industrial AI"
     }
   ]
 }
