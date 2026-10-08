@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.19197",
     "2608.19182",
     "2608.19181",
     "2608.19174",
@@ -249,7 +248,8 @@
     "2610.08778",
     "2610.10538",
     "2610.10536",
-    "2610.10528"
+    "2610.10528",
+    "2610.10527"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -363,10 +363,6 @@
     "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "paper",
       "title": "Parameterised graph theory for tensor networks: entanglement rerouting, structural simplification, and agnostic tomography"
@@ -1362,6 +1358,10 @@
     {
       "kind": "paper",
       "title": "Long-WAM: Scaling the Context of World-Action Models"
+    },
+    {
+      "kind": "paper",
+      "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping"
     }
   ]
 }
