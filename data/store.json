@@ -365,10 +365,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "UniMate: One Unified Model to Animate Diverse Skeletons"
-    },
-    {
-      "kind": "paper",
       "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction"
     },
     {
@@ -1362,6 +1358,10 @@
     {
       "kind": "paper",
       "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
