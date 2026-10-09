@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.20337",
     "2608.20331",
     "2608.20326",
     "2608.20322",
@@ -249,7 +248,8 @@
     "2610.10527",
     "2610.10526",
     "2610.12467",
-    "2610.12466"
+    "2610.12466",
+    "2610.12465"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -364,10 +364,6 @@
     "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1363,6 +1359,10 @@
     {
       "kind": "news",
       "title": "We’re putting too much faith in AI’s ability to say no"
+    },
+    {
+      "kind": "paper",
+      "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control"
     }
   ]
 }
