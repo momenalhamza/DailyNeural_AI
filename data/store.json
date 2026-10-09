@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.20331",
     "2608.20326",
     "2608.20322",
     "2608.20320",
@@ -249,7 +248,8 @@
     "2610.10526",
     "2610.12467",
     "2610.12466",
-    "2610.12465"
+    "2610.12465",
+    "2610.12463"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -364,10 +364,6 @@
     "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "paper",
       "title": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments"
@@ -1363,6 +1359,10 @@
     {
       "kind": "paper",
       "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control"
+    },
+    {
+      "kind": "paper",
+      "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents"
     }
   ]
 }
