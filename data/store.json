@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.19174",
     "2608.20337",
     "2608.20331",
     "2608.20326",
@@ -249,7 +248,8 @@
     "2610.10528",
     "2610.10527",
     "2610.10526",
-    "2610.12467"
+    "2610.12467",
+    "2610.12466"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -363,10 +363,6 @@
     "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments"
-    },
     {
       "kind": "paper",
       "title": "UniMate: One Unified Model to Animate Diverse Skeletons"
@@ -1362,6 +1358,10 @@
     {
       "kind": "explain",
       "title": "CSF: Contextual Safety Filtering for Motion Generators"
+    },
+    {
+      "kind": "paper",
+      "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot"
     }
   ]
 }
