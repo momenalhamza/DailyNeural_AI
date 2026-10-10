@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.20322",
     "2608.20320",
     "2608.20319",
     "2608.20318",
@@ -249,7 +248,8 @@
     "2610.12466",
     "2610.12465",
     "2610.12463",
-    "2610.12452"
+    "2610.12452",
+    "2610.12448"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -365,10 +365,6 @@
     "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe"
-    },
     {
       "kind": "paper",
       "title": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence"
@@ -1364,6 +1360,10 @@
     {
       "kind": "paper",
       "title": "BrickBench: Evaluating Agentic Brick Design"
+    },
+    {
+      "kind": "paper",
+      "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts"
     }
   ]
 }
