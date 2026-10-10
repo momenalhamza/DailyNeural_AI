@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.20319",
     "2608.20318",
     "2608.20316",
     "2608.20315",
@@ -249,7 +248,8 @@
     "2610.12463",
     "2610.12452",
     "2610.12448",
-    "2610.12449"
+    "2610.12449",
+    "2610.12445"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -365,10 +365,6 @@
     "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models"
-    },
     {
       "kind": "paper",
       "title": "What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies"
@@ -1364,6 +1360,10 @@
     {
       "kind": "paper",
       "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems"
+    },
+    {
+      "kind": "paper",
+      "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception"
     }
   ]
 }
