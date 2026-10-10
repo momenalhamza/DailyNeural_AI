@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.20316",
     "2608.20315",
     "2608.20314",
     "2608.20295",
@@ -249,7 +248,8 @@
     "2610.12448",
     "2610.12449",
     "2610.12445",
-    "2610.12444"
+    "2610.12444",
+    "2610.12437"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -365,10 +365,6 @@
     "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1364,6 +1360,10 @@
     {
       "kind": "explain",
       "title": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization"
+    },
+    {
+      "kind": "paper",
+      "title": "Density Ratio Estimation with Stein Displacement Fields"
     }
   ]
 }
