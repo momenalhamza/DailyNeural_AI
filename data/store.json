@@ -367,10 +367,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence"
-    },
-    {
-      "kind": "paper",
       "title": "Reflection-aware Generative Novel View Synthesis"
     },
     {
@@ -1364,6 +1360,10 @@
     {
       "kind": "paper",
       "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
