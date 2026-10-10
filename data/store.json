@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.20326",
     "2608.20322",
     "2608.20320",
     "2608.20319",
@@ -249,7 +248,8 @@
     "2610.12467",
     "2610.12466",
     "2610.12465",
-    "2610.12463"
+    "2610.12463",
+    "2610.12452"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -365,10 +365,6 @@
     "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "A Deep Generative Model for Synthesizing Labeled Wireless Signals"
-    },
     {
       "kind": "explain",
       "title": "Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe"
@@ -1364,6 +1360,10 @@
     {
       "kind": "news",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
+    },
+    {
+      "kind": "paper",
+      "title": "BrickBench: Evaluating Agentic Brick Design"
     }
   ]
 }
