@@ -366,10 +366,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "When LLM Decompilers Recompile More and Preserve Less"
-    },
-    {
       "kind": "news",
       "title": "What OpenAI’s latest controversy tells us about the future of math"
     },
@@ -1360,6 +1356,10 @@
     {
       "kind": "paper",
       "title": "VioLA: Learning Generalist Humanoid Control Policies from Human Data"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
