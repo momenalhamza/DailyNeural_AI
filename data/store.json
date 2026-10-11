@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.20285",
     "2608.20281",
     "2608.20280",
     "2608.20274",
@@ -249,7 +248,8 @@
     "2610.12436",
     "2610.12435",
     "2610.12432",
-    "2610.12428"
+    "2610.12428",
+    "2610.12424"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -365,10 +365,6 @@
     "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Learning Length-Extrapolatable Recurrent Models"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1364,6 +1360,10 @@
     {
       "kind": "explain",
       "title": "Toward Joint Optimization of Circuit Depth and Training Data Size in Adaptively Grown Quantum Classifiers"
+    },
+    {
+      "kind": "paper",
+      "title": "RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments"
     }
   ]
 }
