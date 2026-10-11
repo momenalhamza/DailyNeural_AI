@@ -366,10 +366,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents"
-    },
-    {
       "kind": "paper",
       "title": "When LLM Decompilers Recompile More and Preserve Less"
     },
@@ -1364,6 +1360,10 @@
     {
       "kind": "paper",
       "title": "VioLA: Learning Generalist Humanoid Control Policies from Human Data"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
