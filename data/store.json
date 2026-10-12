@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.21357",
     "2608.21356",
     "2608.21349",
     "2608.23566",
@@ -249,7 +248,8 @@
     "2610.13948",
     "2610.13935",
     "2610.13931",
-    "2610.13928"
+    "2610.13928",
+    "2610.13924"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -365,10 +365,6 @@
     "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "A positive resolution of the gap-entropy conjecture"
-    },
     {
       "kind": "paper",
       "title": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch"
@@ -1364,6 +1360,10 @@
     {
       "kind": "paper",
       "title": "AI Models Can Provably Hide Arbitrary Capabilities"
+    },
+    {
+      "kind": "paper",
+      "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling"
     }
   ]
 }
