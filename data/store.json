@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.20271",
     "2608.21359",
     "2608.21357",
     "2608.21356",
@@ -249,7 +248,8 @@
     "2610.12424",
     "2610.12421",
     "2610.13948",
-    "2610.13935"
+    "2610.13935",
+    "2610.13931"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -365,10 +365,6 @@
     "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting"
-    },
     {
       "kind": "paper",
       "title": "Likelihood-free inference with nuisance parameters through normalizing flows"
@@ -1364,6 +1360,10 @@
     {
       "kind": "paper",
       "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models"
+    },
+    {
+      "kind": "paper",
+      "title": "Constructive Bounds for the Topological Expressivity of Neural Networks"
     }
   ]
 }
