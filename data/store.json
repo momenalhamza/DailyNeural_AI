@@ -366,10 +366,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents"
-    },
-    {
       "kind": "explain",
       "title": "Silver Rate Is (Almost) Optimal for Gradient Descent Acceleration"
     },
@@ -1364,6 +1360,10 @@
     {
       "kind": "paper",
       "title": "Can Language Models Play the Wikipedia Game?"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
