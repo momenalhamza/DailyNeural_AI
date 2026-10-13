@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.23566",
     "2608.23565",
     "2608.23564",
     "2608.23563",
@@ -249,7 +248,8 @@
     "2610.13928",
     "2610.13924",
     "2610.13923",
-    "2610.13918"
+    "2610.13918",
+    "2610.13917"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -365,10 +365,6 @@
     "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "news",
       "title": "Powering AI is an architecture problem"
@@ -1364,6 +1360,10 @@
     {
       "kind": "paper",
       "title": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness"
+    },
+    {
+      "kind": "explain",
+      "title": "Designing Protein Structures from Natural Language"
     }
   ]
 }
