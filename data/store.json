@@ -366,10 +366,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "Powering AI is an architecture problem"
-    },
-    {
       "kind": "explain",
       "title": "Show-Harness: Just a VLM Agent Can Play Robots"
     },
@@ -1364,6 +1360,10 @@
     {
       "kind": "explain",
       "title": "Designing Protein Structures from Natural Language"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
