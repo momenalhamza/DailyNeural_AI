@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.21349",
     "2608.23566",
     "2608.23565",
     "2608.23564",
@@ -249,7 +248,8 @@
     "2610.13931",
     "2610.13928",
     "2610.13924",
-    "2610.13923"
+    "2610.13923",
+    "2610.13918"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -365,10 +365,6 @@
     "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1364,6 +1360,10 @@
     {
       "kind": "paper",
       "title": "Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning"
+    },
+    {
+      "kind": "paper",
+      "title": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness"
     }
   ]
 }
