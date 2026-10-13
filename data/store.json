@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.23565",
     "2608.23564",
     "2608.23563",
     "2608.23562",
@@ -249,7 +248,8 @@
     "2610.13924",
     "2610.13923",
     "2610.13918",
-    "2610.13917"
+    "2610.13917",
+    "2610.13909"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -366,10 +366,6 @@
     "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay"
-    },
     {
       "kind": "explain",
       "title": "General Quantification of Covariate and Concept Shifts"
@@ -1365,6 +1361,10 @@
     {
       "kind": "news",
       "title": "Open models have real benefits. Do they outweigh the risks?"
+    },
+    {
+      "kind": "explain",
+      "title": "Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping"
     }
   ]
 }
