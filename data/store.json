@@ -366,10 +366,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "Show-Harness: Just a VLM Agent Can Play Robots"
-    },
-    {
       "kind": "paper",
       "title": "Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements"
     },
@@ -1360,6 +1356,10 @@
     {
       "kind": "explain",
       "title": "Designing Protein Structures from Natural Language"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
