@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.23562",
     "2608.24881",
     "2608.24876",
     "2608.24870",
@@ -249,7 +248,8 @@
     "2610.13917",
     "2610.13909",
     "2610.13901",
-    "2610.13895"
+    "2610.13895",
+    "2610.13889"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -366,10 +366,6 @@
     "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1365,6 +1361,10 @@
     {
       "kind": "paper",
       "title": "Task Context Shapes Component Roles in Language Models"
+    },
+    {
+      "kind": "paper",
+      "title": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics"
     }
   ]
 }
