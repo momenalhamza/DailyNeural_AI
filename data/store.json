@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.24870",
     "2608.24865",
     "2608.26105",
     "2608.26095",
@@ -249,7 +248,8 @@
     "2610.13895",
     "2610.13889",
     "2610.18874",
-    "2610.18871"
+    "2610.18871",
+    "2610.18869"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -367,10 +367,6 @@
     "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI"
-    },
     {
       "kind": "paper",
       "title": "From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good"
@@ -1366,6 +1362,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study"
     }
   ]
 }
