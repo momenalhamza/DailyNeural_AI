@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.24876",
     "2608.24870",
     "2608.24865",
     "2608.26105",
@@ -249,7 +248,8 @@
     "2610.13901",
     "2610.13895",
     "2610.13889",
-    "2610.18874"
+    "2610.18874",
+    "2610.18871"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -367,10 +367,6 @@
     "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Roundtables: AI’s apocalypse crisis"
-    },
     {
       "kind": "explain",
       "title": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact"
@@ -1366,6 +1362,10 @@
     {
       "kind": "explain",
       "title": "ChunkAct: Action Chunking for Agentic Robotics"
+    },
+    {
+      "kind": "paper",
+      "title": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion"
     }
   ]
 }
