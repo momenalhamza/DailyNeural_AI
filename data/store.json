@@ -369,10 +369,6 @@
   "history": [
     {
       "kind": "explain",
-      "title": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact"
-    },
-    {
-      "kind": "explain",
       "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI"
     },
     {
@@ -1366,6 +1362,10 @@
     {
       "kind": "paper",
       "title": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
