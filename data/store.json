@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.27439",
     "2608.27429",
     "2608.27427",
     "2608.27424",
@@ -249,7 +248,8 @@
     "2610.20597",
     "2610.20588",
     "2610.20587",
-    "2610.20586"
+    "2610.20586",
+    "2610.20585"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -367,10 +367,6 @@
     "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "explain",
       "title": "CausalArena: Benchmarking Causal Discovery in the Foundation Model Era"
@@ -1366,6 +1362,10 @@
     {
       "kind": "explain",
       "title": "Continuum Attention"
+    },
+    {
+      "kind": "paper",
+      "title": "Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes"
     }
   ]
 }
