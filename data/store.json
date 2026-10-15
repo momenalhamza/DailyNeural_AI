@@ -384,10 +384,6 @@
       "title": "Neural Network"
     },
     {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
-    {
       "kind": "explain",
       "title": "CausalArena: Benchmarking Causal Discovery in the Foundation Model Era"
     },
@@ -1366,6 +1362,10 @@
     {
       "kind": "paper",
       "title": "Co-Evolving Acting and Forecasting for Language Agents"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
