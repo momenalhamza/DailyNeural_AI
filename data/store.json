@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.26093",
     "2608.27206",
     "2608.27454",
     "2608.27449",
@@ -249,7 +248,8 @@
     "2610.18868",
     "2610.18863",
     "2610.18862",
-    "2610.20606"
+    "2610.20606",
+    "2610.20607"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -367,10 +367,6 @@
     "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "MindTopo: Can Foundation Models Reason in Topological Space?"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1366,6 +1362,10 @@
     {
       "kind": "paper",
       "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion"
+    },
+    {
+      "kind": "explain",
+      "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance"
     }
   ]
 }
