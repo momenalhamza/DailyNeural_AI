@@ -372,10 +372,6 @@
       "title": "Neural Network"
     },
     {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
-    {
       "kind": "news",
       "title": "The AI industry has taken a doomer turn. What now?"
     },
@@ -1362,6 +1358,10 @@
     {
       "kind": "paper",
       "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
