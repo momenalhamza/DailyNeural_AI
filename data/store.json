@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.27427",
     "2608.27424",
     "2608.27421",
     "2608.27413",
@@ -249,7 +248,8 @@
     "2610.20587",
     "2610.20586",
     "2610.20585",
-    "2610.22372"
+    "2610.22372",
+    "2610.22367"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -367,10 +367,6 @@
     "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1366,6 +1362,10 @@
     {
       "kind": "paper",
       "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation"
+    },
+    {
+      "kind": "explain",
+      "title": "Discovering state-of-the-art quantum circuits with large language models"
     }
   ]
 }
