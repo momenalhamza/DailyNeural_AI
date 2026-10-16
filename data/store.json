@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.27421",
     "2608.27413",
     "2608.27406",
     "2608.27402",
@@ -249,7 +248,8 @@
     "2610.20585",
     "2610.22372",
     "2610.22367",
-    "2610.22364"
+    "2610.22364",
+    "2610.22362"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -367,10 +367,6 @@
     "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "news",
       "title": "The AI industry has taken a doomer turn. What now?"
@@ -1366,6 +1362,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "CoDA: Co-Evolution of Data Engines and Action Policies"
     }
   ]
 }
