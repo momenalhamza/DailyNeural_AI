@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.27395",
     "2608.27392",
     "2608.27391",
     "2608.27382",
@@ -249,7 +248,8 @@
     "2610.22358",
     "2610.22353",
     "2610.22350",
-    "2610.22344"
+    "2610.22344",
+    "2610.22343"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -368,10 +368,6 @@
     "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1367,6 +1363,10 @@
     {
       "kind": "paper",
       "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering"
+    },
+    {
+      "kind": "paper",
+      "title": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling"
     }
   ]
 }
