@@ -364,13 +364,10 @@
     "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
     "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
     "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-    "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
+    "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "The AI industry has taken a doomer turn. What now?"
-    },
     {
       "kind": "explain",
       "title": "Rethinking Heterogeneous System Disaggregation for Subquadratic Attention"
@@ -1366,6 +1363,10 @@
     {
       "kind": "paper",
       "title": "CoDA: Co-Evolution of Data Engines and Action Policies"
+    },
+    {
+      "kind": "news",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
     }
   ]
 }
