@@ -369,10 +369,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "What must happen for AI’s trillion-dollar gamble to pay off"
-    },
-    {
       "kind": "concept",
       "title": "Neural Network"
     },
@@ -1367,6 +1363,10 @@
     {
       "kind": "paper",
       "title": "FDE-Gym: The Last Mile of AI Delivery"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
