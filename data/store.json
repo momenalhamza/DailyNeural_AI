@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.27382",
     "2608.28589",
     "2608.28578",
     "2608.28576",
@@ -249,7 +248,8 @@
     "2610.22344",
     "2610.22343",
     "2610.22341",
-    "2610.22340"
+    "2610.22340",
+    "2610.22339"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -368,10 +368,6 @@
     "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Roundtables: Could AI really kill us all?"
-    },
     {
       "kind": "explain",
       "title": "Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection"
@@ -1367,6 +1363,10 @@
     {
       "kind": "paper",
       "title": "Dexterity from Supervised Play"
+    },
+    {
+      "kind": "explain",
+      "title": "Lean Graph Search for Formal Theorem Proving"
     }
   ]
 }
