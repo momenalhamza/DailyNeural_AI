@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.28576",
     "2608.28566",
     "2608.28564",
     "2608.28557",
@@ -249,7 +248,8 @@
     "2610.22340",
     "2610.22339",
     "2610.22336",
-    "2610.22333"
+    "2610.22333",
+    "2610.22331"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -368,10 +368,6 @@
     "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents"
-    },
     {
       "kind": "paper",
       "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control"
@@ -1367,6 +1363,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents"
     }
   ]
 }
