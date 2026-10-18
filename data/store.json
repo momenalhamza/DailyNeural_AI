@@ -369,10 +369,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Agentic Societies Need a Social Harness"
-    },
-    {
       "kind": "explain",
       "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents"
     },
@@ -1367,6 +1363,10 @@
     {
       "kind": "paper",
       "title": "Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Languages?"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
