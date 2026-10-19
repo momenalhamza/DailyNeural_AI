@@ -365,13 +365,10 @@
     "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
     "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
     "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-    "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+    "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs"
-    },
     {
       "kind": "explain",
       "title": "Objective vs. Search: Decomposing What Makes a Good Tokeniser"
@@ -1367,6 +1364,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "Making the internet better for AI agents might make it worse for everyone else"
     }
   ]
 }
