@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.31167",
     "2608.31157",
     "2608.31142",
     "2608.31137",
@@ -249,7 +248,8 @@
     "2610.22330",
     "2610.22328",
     "2610.23854",
-    "2610.23847"
+    "2610.23847",
+    "2610.23845"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -370,10 +370,6 @@
     "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "A Zeroth-Order Paradigm for LLM Preference Alignment"
-    },
     {
       "kind": "paper",
       "title": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation"
@@ -1369,6 +1365,10 @@
     {
       "kind": "news",
       "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world"
+    },
+    {
+      "kind": "explain",
+      "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery"
     }
   ]
 }
