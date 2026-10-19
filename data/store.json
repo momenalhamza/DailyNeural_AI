@@ -369,10 +369,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
-    {
       "kind": "paper",
       "title": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs"
     },
@@ -1367,6 +1363,10 @@
     {
       "kind": "paper",
       "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
