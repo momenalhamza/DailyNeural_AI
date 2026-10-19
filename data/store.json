@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.31166",
     "2608.31167",
     "2608.31157",
     "2608.31142",
@@ -249,7 +248,8 @@
     "2610.22331",
     "2610.22330",
     "2610.22328",
-    "2610.23854"
+    "2610.23854",
+    "2610.23847"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -368,10 +368,6 @@
     "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1367,6 +1363,10 @@
     {
       "kind": "explain",
       "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers"
+    },
+    {
+      "kind": "paper",
+      "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models"
     }
   ]
 }
