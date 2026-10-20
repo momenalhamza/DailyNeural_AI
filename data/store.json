@@ -368,13 +368,10 @@
     "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
     "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
     "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-    "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/"
+    "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+    "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation"
-    },
     {
       "kind": "explain",
       "title": "Embedding Models Measure in Peculiar Ways"
@@ -1370,6 +1367,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "The new economics of enterprise AI"
     }
   ]
 }
