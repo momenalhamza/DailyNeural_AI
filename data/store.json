@@ -373,10 +373,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "Flag Game: A Toy Model for Mechanistic Swarm Interpretability"
-    },
-    {
-      "kind": "paper",
       "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation"
     },
     {
@@ -1370,6 +1366,10 @@
     {
       "kind": "paper",
       "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
