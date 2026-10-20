@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2608.31137",
     "2608.31133",
     "2609.01604",
     "2609.01603",
@@ -249,7 +248,8 @@
     "2610.23847",
     "2610.23845",
     "2610.23834",
-    "2610.23831"
+    "2610.23831",
+    "2610.26863"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -371,10 +371,6 @@
     "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments"
-    },
     {
       "kind": "explain",
       "title": "Affora: A Design System for Agent-Friendly Interfaces"
@@ -1370,6 +1366,10 @@
     {
       "kind": "news",
       "title": "A visit to Samsung’s massive new semiconductor hub"
+    },
+    {
+      "kind": "explain",
+      "title": "Text-to-Image Generative Modeling Without Language Pretraining"
     }
   ]
 }
