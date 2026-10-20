@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.01603",
     "2609.01601",
     "2609.01600",
     "2609.01597",
@@ -249,7 +248,8 @@
     "2610.23831",
     "2610.26863",
     "2610.26860",
-    "2610.26856"
+    "2610.26856",
+    "2610.26852"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -373,10 +373,6 @@
     "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1372,6 +1368,10 @@
     {
       "kind": "explain",
       "title": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation"
+    },
+    {
+      "kind": "paper",
+      "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting"
     }
   ]
 }
