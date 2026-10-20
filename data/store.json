@@ -367,13 +367,10 @@
     "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
     "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
     "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-    "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
+    "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging"
-    },
     {
       "kind": "paper",
       "title": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments"
@@ -1369,6 +1366,10 @@
     {
       "kind": "paper",
       "title": "Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distillation"
+    },
+    {
+      "kind": "news",
+      "title": "A visit to Samsung’s massive new semiconductor hub"
     }
   ]
 }
