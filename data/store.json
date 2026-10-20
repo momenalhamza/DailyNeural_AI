@@ -369,13 +369,10 @@
     "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
     "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
     "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-    "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/"
+    "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+    "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Embedding Models Measure in Peculiar Ways"
-    },
     {
       "kind": "paper",
       "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision"
@@ -1371,6 +1368,10 @@
     {
       "kind": "news",
       "title": "The new economics of enterprise AI"
+    },
+    {
+      "kind": "news",
+      "title": "AI adoption by industry shows what other sectors can learn"
     }
   ]
 }
