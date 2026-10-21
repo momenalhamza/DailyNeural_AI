@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.01601",
     "2609.01600",
     "2609.01597",
     "2609.02887",
@@ -249,7 +248,8 @@
     "2610.26863",
     "2610.26860",
     "2610.26856",
-    "2610.26852"
+    "2610.26852",
+    "2610.28632"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -374,10 +374,6 @@
     "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Could AI really kill us all? Your questions, answered."
-    },
     {
       "kind": "paper",
       "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations"
@@ -1373,6 +1369,10 @@
     {
       "kind": "news",
       "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”"
+    },
+    {
+      "kind": "explain",
+      "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs"
     }
   ]
 }
