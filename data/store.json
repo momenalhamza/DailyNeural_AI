@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.01600",
     "2609.01597",
     "2609.02887",
     "2609.02885",
@@ -249,7 +248,8 @@
     "2610.26860",
     "2610.26856",
     "2610.26852",
-    "2610.28632"
+    "2610.28632",
+    "2610.28629"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -374,10 +374,6 @@
     "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations"
-    },
     {
       "kind": "paper",
       "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing"
@@ -1373,6 +1369,10 @@
     {
       "kind": "explain",
       "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs"
+    },
+    {
+      "kind": "paper",
+      "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery"
     }
   ]
 }
