@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.02885",
     "2609.02881",
     "2609.02876",
     "2609.02861",
@@ -249,7 +248,8 @@
     "2610.28632",
     "2610.28629",
     "2610.28628",
-    "2610.28626"
+    "2610.28626",
+    "2610.28624"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -374,10 +374,6 @@
     "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1373,6 +1369,10 @@
     {
       "kind": "paper",
       "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control"
+    },
+    {
+      "kind": "explain",
+      "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets"
     }
   ]
 }
