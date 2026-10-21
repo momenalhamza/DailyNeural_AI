@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.01597",
     "2609.02887",
     "2609.02885",
     "2609.02881",
@@ -249,7 +248,8 @@
     "2610.26856",
     "2610.26852",
     "2610.28632",
-    "2610.28629"
+    "2610.28629",
+    "2610.28628"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -374,10 +374,6 @@
     "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis"
-    },
     {
       "kind": "explain",
       "title": "How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?"
@@ -1373,6 +1369,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking"
     }
   ]
 }
