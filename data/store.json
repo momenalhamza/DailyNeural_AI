@@ -370,13 +370,10 @@
     "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
     "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
     "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-    "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/"
+    "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+    "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "news",
       "title": "Could AI really kill us all? Your questions, answered."
@@ -1372,6 +1369,10 @@
     {
       "kind": "paper",
       "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting"
+    },
+    {
+      "kind": "news",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”"
     }
   ]
 }
