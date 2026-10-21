@@ -375,10 +375,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing"
-    },
-    {
       "kind": "explain",
       "title": "ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis"
     },
@@ -1373,6 +1369,10 @@
     {
       "kind": "paper",
       "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
