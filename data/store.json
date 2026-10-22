@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.04199",
     "2609.04198",
     "2609.04197",
     "2609.04194",
@@ -249,7 +248,8 @@
     "2610.28623",
     "2610.30132",
     "2610.30128",
-    "2610.30125"
+    "2610.30125",
+    "2610.30122"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -377,10 +377,6 @@
     "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "paper",
       "title": "Calibrated RF-Fingerprinting Under Interference With Heterogeneous Transmission Protocols"
@@ -1376,6 +1372,10 @@
     {
       "kind": "explain",
       "title": "PhysiCalWorld: In-Context Physics Calibration for World Models"
+    },
+    {
+      "kind": "paper",
+      "title": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions"
     }
   ]
 }
