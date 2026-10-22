@@ -376,10 +376,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning"
-    },
-    {
       "kind": "explain",
       "title": "Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations"
     },
@@ -1374,6 +1370,10 @@
     {
       "kind": "paper",
       "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
