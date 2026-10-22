@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.02855",
     "2609.04199",
     "2609.04198",
     "2609.04197",
@@ -249,7 +248,8 @@
     "2610.28624",
     "2610.28623",
     "2610.30132",
-    "2610.30128"
+    "2610.30128",
+    "2610.30125"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -377,10 +377,6 @@
     "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Semantic Action Graph: A Shared Representation for Agent Grounding and Human Interpretation of Sports Highlights"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1376,6 +1372,10 @@
     {
       "kind": "news",
       "title": "The Foundations of Scalable AI"
+    },
+    {
+      "kind": "explain",
+      "title": "PhysiCalWorld: In-Context Physics Calibration for World Models"
     }
   ]
 }
