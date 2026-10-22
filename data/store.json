@@ -373,13 +373,10 @@
     "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
     "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
     "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-    "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/"
+    "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+    "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies"
-    },
     {
       "kind": "paper",
       "title": "Semantic Action Graph: A Shared Representation for Agent Grounding and Human Interpretation of Sports Highlights"
@@ -1375,6 +1372,10 @@
     {
       "kind": "news",
       "title": "AI’s hidden storage bill: What inference leaves behind"
+    },
+    {
+      "kind": "news",
+      "title": "The Foundations of Scalable AI"
     }
   ]
 }
