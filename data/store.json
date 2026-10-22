@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.02861",
     "2609.02855",
     "2609.04199",
     "2609.04198",
@@ -249,7 +248,8 @@
     "2610.28626",
     "2610.28624",
     "2610.28623",
-    "2610.30132"
+    "2610.30132",
+    "2610.30128"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -375,10 +375,6 @@
     "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers"
-    },
     {
       "kind": "paper",
       "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning"
@@ -1374,6 +1370,10 @@
     {
       "kind": "explain",
       "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data"
+    },
+    {
+      "kind": "paper",
+      "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation"
     }
   ]
 }
