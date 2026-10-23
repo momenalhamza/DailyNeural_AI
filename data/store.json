@@ -380,10 +380,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design"
-    },
-    {
-      "kind": "paper",
       "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself"
     },
     {
@@ -1377,6 +1373,10 @@
     {
       "kind": "paper",
       "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
