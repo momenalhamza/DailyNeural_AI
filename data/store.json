@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.04190",
     "2609.04189",
     "2609.04183",
     "2609.04180",
@@ -249,7 +248,8 @@
     "2610.30122",
     "2610.31670",
     "2610.31667",
-    "2610.31663"
+    "2610.31663",
+    "2610.31662"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -378,10 +378,6 @@
     "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "news",
       "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”"
@@ -1377,6 +1373,10 @@
     {
       "kind": "paper",
       "title": "Phase Transition from Random Features to Fully Trainable Networks"
+    },
+    {
+      "kind": "paper",
+      "title": "Reliable AI-Assisted Decisions via Selective Auditing"
     }
   ]
 }
