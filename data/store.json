@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.04198",
     "2609.04197",
     "2609.04194",
     "2609.04190",
@@ -249,7 +248,8 @@
     "2610.30132",
     "2610.30128",
     "2610.30125",
-    "2610.30122"
+    "2610.30122",
+    "2610.31670"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -378,10 +378,6 @@
     "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Agile-WAM: An Agile Tactile World Action Model for Contact-Rich Robot Control"
-    },
     {
       "kind": "paper",
       "title": "Prediction-Powered Smoothing and Validation for Disaggregated AI Evaluation"
@@ -1377,6 +1373,10 @@
     {
       "kind": "news",
       "title": "Designing an AI serving harness built to last"
+    },
+    {
+      "kind": "explain",
+      "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success"
     }
   ]
 }
