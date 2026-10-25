@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.04167",
     "2609.04166",
     "2609.04165",
     "2609.04159",
@@ -249,7 +248,8 @@
     "2610.31650",
     "2610.31646",
     "2610.31642",
-    "2610.31639"
+    "2610.31639",
+    "2610.31633"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -378,10 +378,6 @@
     "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1377,6 +1373,10 @@
     {
       "kind": "paper",
       "title": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation"
+    },
+    {
+      "kind": "paper",
+      "title": "BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing"
     }
   ]
 }
