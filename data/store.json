@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.04148",
     "2609.05415",
     "2609.05404",
     "2609.05403",
@@ -249,7 +248,8 @@
     "2610.31633",
     "2610.31624",
     "2610.31616",
-    "2610.31612"
+    "2610.31612",
+    "2610.31606"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -378,10 +378,6 @@
     "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Don’t be fooled by this summer of AI hype"
-    },
     {
       "kind": "explain",
       "title": "A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing"
@@ -1377,6 +1373,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions"
     }
   ]
 }
