@@ -379,10 +379,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction"
-    },
-    {
       "kind": "news",
       "title": "Don’t be fooled by this summer of AI hype"
     },
@@ -1377,6 +1373,10 @@
     {
       "kind": "paper",
       "title": "Efficient and Optimal Learning of Discrete Distributions with Person-Level Privacy"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
