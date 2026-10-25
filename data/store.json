@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.05415",
     "2609.05404",
     "2609.05403",
     "2609.05396",
@@ -249,7 +248,8 @@
     "2610.31624",
     "2610.31616",
     "2610.31612",
-    "2610.31606"
+    "2610.31606",
+    "2610.31594"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -378,10 +378,6 @@
     "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing"
-    },
     {
       "kind": "paper",
       "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue"
@@ -1377,6 +1373,10 @@
     {
       "kind": "paper",
       "title": "How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions"
+    },
+    {
+      "kind": "explain",
+      "title": "CRANE: Post-Hoc Counterfactual Retrieval for Multimodal Classifiers"
     }
   ]
 }
