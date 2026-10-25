@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.04165",
     "2609.04159",
     "2609.04148",
     "2609.05415",
@@ -249,7 +248,8 @@
     "2610.31642",
     "2610.31639",
     "2610.31633",
-    "2610.31624"
+    "2610.31624",
+    "2610.31616"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -378,10 +378,6 @@
     "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall"
-    },
     {
       "kind": "explain",
       "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory"
@@ -1377,6 +1373,10 @@
     {
       "kind": "explain",
       "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3"
+    },
+    {
+      "kind": "paper",
+      "title": "OP-Print: Tracing Membership Imprints in On-Policy Self-Distillation"
     }
   ]
 }
