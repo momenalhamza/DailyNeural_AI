@@ -376,13 +376,10 @@
     "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
     "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
     "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-    "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
+    "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem"
-    },
     {
       "kind": "news",
       "title": "The AI Hype Index: AI loves cheating"
@@ -1378,6 +1375,10 @@
     {
       "kind": "news",
       "title": "Will the real Anthropic please stand up"
+    },
+    {
+      "kind": "news",
+      "title": "The focus on AI safety disasters ignores everyday harms"
     }
   ]
 }
