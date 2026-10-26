@@ -379,10 +379,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents"
-    },
-    {
       "kind": "explain",
       "title": "SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving"
     },
@@ -1377,6 +1373,10 @@
     {
       "kind": "paper",
       "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
