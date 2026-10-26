@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.05395",
     "2609.05385",
     "2609.05382",
     "2609.05381",
@@ -249,7 +248,8 @@
     "2610.31594",
     "2610.31593",
     "2610.32978",
-    "2610.32971"
+    "2610.32971",
+    "2610.32969"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -380,10 +380,6 @@
     "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "The AI Hype Index: AI loves cheating"
-    },
     {
       "kind": "explain",
       "title": "On the Diffusibility of High-Dimensional Latents"
@@ -1379,6 +1375,10 @@
     {
       "kind": "news",
       "title": "The focus on AI safety disasters ignores everyday harms"
+    },
+    {
+      "kind": "explain",
+      "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection"
     }
   ]
 }
