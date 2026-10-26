@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.05382",
     "2609.05381",
     "2609.05376",
     "2609.05374",
@@ -249,7 +248,8 @@
     "2610.32978",
     "2610.32971",
     "2610.32969",
-    "2610.32964"
+    "2610.32964",
+    "2610.32955"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -380,10 +380,6 @@
     "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Contrastive Learning for Authorship Verification"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1379,6 +1375,10 @@
     {
       "kind": "paper",
       "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection"
+    },
+    {
+      "kind": "paper",
+      "title": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox"
     }
   ]
 }
