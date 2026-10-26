@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.05403",
     "2609.05396",
     "2609.05395",
     "2609.05385",
@@ -249,7 +248,8 @@
     "2610.31612",
     "2610.31606",
     "2610.31594",
-    "2610.31593"
+    "2610.31593",
+    "2610.32978"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -378,10 +378,6 @@
     "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "news",
       "title": "She died at the San Diego border. A surveillance camera was in plain sight"
@@ -1377,6 +1373,10 @@
     {
       "kind": "paper",
       "title": "Simulated Control Evals"
+    },
+    {
+      "kind": "paper",
+      "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning"
     }
   ]
 }
