@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.05381",
     "2609.05376",
     "2609.05374",
     "2609.05370",
@@ -249,7 +248,8 @@
     "2610.32971",
     "2610.32969",
     "2610.32964",
-    "2610.32955"
+    "2610.32955",
+    "2610.35868"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -380,10 +380,6 @@
     "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "paper",
       "title": "StudentBench: AI and human tutoring yield equivalent GRE learning gains"
@@ -1379,6 +1375,10 @@
     {
       "kind": "paper",
       "title": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox"
+    },
+    {
+      "kind": "paper",
+      "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models"
     }
   ]
 }
