@@ -381,10 +381,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "Even Sharper Bounds for Transductive Learning and Its Applications"
-    },
-    {
       "kind": "paper",
       "title": "Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark"
     },
@@ -1379,6 +1375,10 @@
     {
       "kind": "paper",
       "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
