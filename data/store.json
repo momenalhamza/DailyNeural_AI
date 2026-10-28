@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.09153",
     "2609.09152",
     "2609.09140",
     "2609.10534",
@@ -249,7 +248,8 @@
     "2610.35866",
     "2610.35862",
     "2610.35856",
-    "2610.35847"
+    "2610.35847",
+    "2610.37668"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -381,10 +381,6 @@
     "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "paper",
       "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning"
@@ -1380,6 +1376,10 @@
     {
       "kind": "paper",
       "title": "Patient-specific rubric-based evaluation of large language models across longitudinal cancer care"
+    },
+    {
+      "kind": "explain",
+      "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction"
     }
   ]
 }
