@@ -383,10 +383,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "Agentic Detection of Online Conspiracies"
-    },
-    {
-      "kind": "paper",
       "title": "RAPID: Robot Agentic Programming from Demonstrations"
     },
     {
@@ -1380,6 +1376,10 @@
     {
       "kind": "paper",
       "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
