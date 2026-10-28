@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.10525",
     "2609.10522",
     "2609.10514",
     "2609.11923",
@@ -249,7 +248,8 @@
     "2610.37666",
     "2610.37658",
     "2610.37657",
-    "2610.37656"
+    "2610.37656",
+    "2610.37655"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -382,10 +382,6 @@
     "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "paper",
       "title": "To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech"
@@ -1381,6 +1377,10 @@
     {
       "kind": "paper",
       "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops"
+    },
+    {
+      "kind": "paper",
+      "title": "KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry"
     }
   ]
 }
