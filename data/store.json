@@ -384,10 +384,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations"
-    },
-    {
-      "kind": "paper",
       "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority"
     },
     {
@@ -1381,6 +1377,10 @@
     {
       "kind": "paper",
       "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
