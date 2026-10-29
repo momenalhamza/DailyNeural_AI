@@ -379,13 +379,10 @@
     "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
     "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
     "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-    "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/"
+    "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+    "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority"
-    },
     {
       "kind": "explain",
       "title": "Minimally Invasive Steering of Language Models"
@@ -1381,6 +1378,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "We urgently need to monitor AI agents’ actions in real time"
     }
   ]
 }
