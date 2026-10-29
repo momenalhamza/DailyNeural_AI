@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.10522",
     "2609.10514",
     "2609.11923",
     "2609.11918",
@@ -249,7 +248,8 @@
     "2610.37658",
     "2610.37657",
     "2610.37656",
-    "2610.37655"
+    "2610.37655",
+    "2610.37652"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -382,10 +382,6 @@
     "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech"
-    },
     {
       "kind": "explain",
       "title": "PoEM: Predicting RL Outcomes from Existing Policies"
@@ -1381,6 +1377,10 @@
     {
       "kind": "paper",
       "title": "KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry"
+    },
+    {
+      "kind": "explain",
+      "title": "Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well"
     }
   ]
 }
