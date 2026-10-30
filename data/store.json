@@ -385,10 +385,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "The Alignment Illusion in Multimodal Large Language Models"
-    },
-    {
       "kind": "explain",
       "title": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency"
     },
@@ -1383,6 +1379,10 @@
     {
       "kind": "paper",
       "title": "Rethinking Neural Thickets Without Weight Perturbations"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
