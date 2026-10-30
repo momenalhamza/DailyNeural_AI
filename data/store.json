@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.11916",
     "2609.11915",
     "2609.11911",
     "2609.11910",
@@ -249,7 +248,8 @@
     "2610.37649",
     "2610.37648",
     "2610.37647",
-    "2610.37631"
+    "2610.37631",
+    "2610.40654"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -384,10 +384,6 @@
     "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Underwater C3-JEPA: An Object-Centric Cross-View World Model for ROV Salvage"
-    },
     {
       "kind": "explain",
       "title": "Anchored Extra-Proximal Methods: Optimal Higher-Order Methods for Monotone Inclusion Problems"
@@ -1383,6 +1379,10 @@
     {
       "kind": "paper",
       "title": "What Improves During Pretraining? Tracking Knowledge Acquisition with Point-in-Time Models"
+    },
+    {
+      "kind": "explain",
+      "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering"
     }
   ]
 }
