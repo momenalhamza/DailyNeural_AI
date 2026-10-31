@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.13125",
     "2609.13118",
     "2609.15989",
     "2609.15987",
@@ -249,7 +248,8 @@
     "2610.40643",
     "2610.40641",
     "2610.40637",
-    "2610.40636"
+    "2610.40636",
+    "2610.40618"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -384,10 +384,6 @@
     "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets"
-    },
     {
       "kind": "paper",
       "title": "Telescopic Language Models"
@@ -1383,6 +1379,10 @@
     {
       "kind": "paper",
       "title": "Probing Spatial State Representations in Visual Foundation Models"
+    },
+    {
+      "kind": "paper",
+      "title": "An ODE-based Sampler for Discrete Diffusion Models"
     }
   ]
 }
