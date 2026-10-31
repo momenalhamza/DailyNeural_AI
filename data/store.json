@@ -385,10 +385,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Statistical attribute alignment for black-box generative AI via output post-processing"
-    },
-    {
       "kind": "concept",
       "title": "Neural Network"
     },
@@ -1383,6 +1379,10 @@
     {
       "kind": "paper",
       "title": "world2vec: Mechanistic world models through latent dynamics learning"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
