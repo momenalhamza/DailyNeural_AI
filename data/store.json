@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.11904",
     "2609.11900",
     "2609.11897",
     "2609.13134",
@@ -249,7 +248,8 @@
     "2610.40654",
     "2610.40649",
     "2610.40647",
-    "2610.40644"
+    "2610.40644",
+    "2610.40643"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -384,10 +384,6 @@
     "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "When can we say AI made a scientific discovery?"
-    },
     {
       "kind": "explain",
       "title": "Gap-free Differentially Private PCA for Gaussian Data"
@@ -1383,6 +1379,10 @@
     {
       "kind": "paper",
       "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model"
+    },
+    {
+      "kind": "paper",
+      "title": "Luggage re-identification: A study of strategies towards a real-world application"
     }
   ]
 }
