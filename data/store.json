@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.15989",
     "2609.15987",
     "2609.17527",
     "2609.17523",
@@ -249,7 +248,8 @@
     "2610.40637",
     "2610.40636",
     "2610.40618",
-    "2610.40616"
+    "2610.40616",
+    "2610.40613"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -384,10 +384,6 @@
     "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1383,6 +1379,10 @@
     {
       "kind": "explain",
       "title": "Difficulty Calibration Across Time for Membership Inference in Diffusion Models"
+    },
+    {
+      "kind": "paper",
+      "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races"
     }
   ]
 }
