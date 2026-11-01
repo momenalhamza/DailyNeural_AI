@@ -385,10 +385,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models"
-    },
-    {
       "kind": "paper",
       "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning"
     },
@@ -1383,6 +1379,10 @@
     {
       "kind": "paper",
       "title": "Collaborative AI agents for autonomous experimental research with solid-state quantum spins"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
