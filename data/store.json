@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.17527",
     "2609.17523",
     "2609.17521",
     "2609.17516",
@@ -249,7 +248,8 @@
     "2610.40618",
     "2610.40616",
     "2610.40613",
-    "2610.40611"
+    "2610.40611",
+    "2610.40589"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -384,10 +384,6 @@
     "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Making AI an asset, not an expense"
-    },
     {
       "kind": "explain",
       "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models"
@@ -1383,6 +1379,10 @@
     {
       "kind": "explain",
       "title": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder"
+    },
+    {
+      "kind": "paper",
+      "title": "Collaborative AI agents for autonomous experimental research with solid-state quantum spins"
     }
   ]
 }
