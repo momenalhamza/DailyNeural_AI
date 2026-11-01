@@ -386,10 +386,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning"
-    },
-    {
-      "kind": "paper",
       "title": "Unifying Distributional Training for One-Step Visual Generation"
     },
     {
@@ -1379,6 +1375,10 @@
     {
       "kind": "paper",
       "title": "Collaborative AI agents for autonomous experimental research with solid-state quantum spins"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
