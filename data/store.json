@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.17521",
     "2609.17516",
     "2609.17509",
     "2609.19145",
@@ -249,7 +248,8 @@
     "2610.40613",
     "2610.40611",
     "2610.40589",
-    "2610.40588"
+    "2610.40588",
+    "2610.40586"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -384,10 +384,6 @@
     "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer"
-    },
     {
       "kind": "paper",
       "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement"
@@ -1383,6 +1379,10 @@
     {
       "kind": "paper",
       "title": "Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In"
+    },
+    {
+      "kind": "explain",
+      "title": "Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond"
     }
   ]
 }
