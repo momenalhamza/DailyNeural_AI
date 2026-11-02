@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.19145",
     "2609.19144",
     "2609.19137",
     "2609.19135",
@@ -249,7 +248,8 @@
     "2610.40588",
     "2610.40586",
     "2610.40578",
-    "2610.40565"
+    "2610.40565",
+    "2610.42149"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -384,10 +384,6 @@
     "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "news",
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall"
@@ -1383,6 +1379,10 @@
     {
       "kind": "paper",
       "title": "Gym-Anything for Robotics: Scaling physical simulations with digital agents"
+    },
+    {
+      "kind": "paper",
+      "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models"
     }
   ]
 }
