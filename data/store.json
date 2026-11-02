@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.19135",
     "2609.19128",
     "2609.19125",
     "2609.19124",
@@ -249,7 +248,8 @@
     "2610.40565",
     "2610.42149",
     "2610.42147",
-    "2610.42146"
+    "2610.42146",
+    "2610.42141"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -385,10 +385,6 @@
     "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis"
-    },
     {
       "kind": "paper",
       "title": "Semifactual Credit-Augmented Policy Optimization"
@@ -1384,6 +1380,10 @@
     {
       "kind": "paper",
       "title": "Hierarchical World Models with Implicit Dynamics"
+    },
+    {
+      "kind": "paper",
+      "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory"
     }
   ]
 }
