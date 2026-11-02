@@ -385,10 +385,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall"
-    },
-    {
       "kind": "explain",
       "title": "Breakdown of Local Denoising as Semantic Speciation"
     },
@@ -1383,6 +1379,10 @@
     {
       "kind": "paper",
       "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
