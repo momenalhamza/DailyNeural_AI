@@ -382,13 +382,10 @@
     "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
     "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
     "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-    "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
+    "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+    "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing"
-    },
     {
       "kind": "paper",
       "title": "Image Classifiers are Efficient Self-Supervised Video Representation Learners"
@@ -1384,6 +1381,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "How “reverse game theory” could keep AI agents in check"
     }
   ]
 }
