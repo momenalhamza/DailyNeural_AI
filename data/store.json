@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.20822",
     "2609.20821",
     "2609.20820",
     "2609.20817",
@@ -249,7 +248,8 @@
     "2610.42141",
     "2610.42139",
     "2611.03647",
-    "2611.03648"
+    "2611.03648",
+    "2611.03641"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -386,10 +386,6 @@
     "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Image Classifiers are Efficient Self-Supervised Video Representation Learners"
-    },
     {
       "kind": "news",
       "title": "Don’t be fooled—LLMs don’t reason"
@@ -1385,6 +1381,10 @@
     {
       "kind": "news",
       "title": "How “reverse game theory” could keep AI agents in check"
+    },
+    {
+      "kind": "explain",
+      "title": "From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles"
     }
   ]
 }
