@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.20820",
     "2609.20817",
     "2609.20816",
     "2609.20815",
@@ -249,7 +248,8 @@
     "2611.03647",
     "2611.03648",
     "2611.03641",
-    "2611.03634"
+    "2611.03634",
+    "2611.03633"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -386,10 +386,6 @@
     "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1385,6 +1381,10 @@
     {
       "kind": "paper",
       "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments"
+    },
+    {
+      "kind": "paper",
+      "title": "Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap"
     }
   ]
 }
