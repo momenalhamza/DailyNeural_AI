@@ -386,10 +386,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
-    {
       "kind": "paper",
       "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing"
     },
@@ -1384,6 +1380,10 @@
     {
       "kind": "paper",
       "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
