@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.20807",
     "2609.20804",
     "2609.20794",
     "2609.20784",
@@ -249,7 +248,8 @@
     "2611.05377",
     "2611.05376",
     "2611.05373",
-    "2611.05372"
+    "2611.05372",
+    "2611.05368"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -387,10 +387,6 @@
     "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1386,6 +1382,10 @@
     {
       "kind": "paper",
       "title": "PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning"
+    },
+    {
+      "kind": "paper",
+      "title": "GUILD: Guided Iterative Data Collection for Imitation Learning"
     }
   ]
 }
