@@ -387,10 +387,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
-    {
       "kind": "news",
       "title": "Redefining enterprise intelligence with autonomous AI"
     },
@@ -1385,6 +1381,10 @@
     {
       "kind": "paper",
       "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
