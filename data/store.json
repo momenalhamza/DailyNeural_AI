@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.20815",
     "2609.20814",
     "2609.20812",
     "2609.20807",
@@ -249,7 +248,8 @@
     "2611.03634",
     "2611.03633",
     "2611.03627",
-    "2611.05377"
+    "2611.05377",
+    "2611.05376"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -386,10 +386,6 @@
     "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1385,6 +1381,10 @@
     {
       "kind": "explain",
       "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner"
+    },
+    {
+      "kind": "paper",
+      "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence"
     }
   ]
 }
