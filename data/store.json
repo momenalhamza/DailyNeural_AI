@@ -383,13 +383,10 @@
     "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
     "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
     "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-    "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
+    "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Redefining enterprise intelligence with autonomous AI"
-    },
     {
       "kind": "explain",
       "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents"
@@ -1385,6 +1382,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput."
     }
   ]
 }
