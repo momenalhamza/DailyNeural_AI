@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.20779",
     "2609.20776",
     "2609.20768",
     "2609.20765",
@@ -249,7 +248,8 @@
     "2611.05368",
     "2611.05358",
     "2611.06914",
-    "2611.06912"
+    "2611.06912",
+    "2611.06911"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -388,10 +388,6 @@
     "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Hierarchical Continuous Diffusion Language Models"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1387,6 +1383,10 @@
     {
       "kind": "explain",
       "title": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors"
+    },
+    {
+      "kind": "paper",
+      "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories"
     }
   ]
 }
