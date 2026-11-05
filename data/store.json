@@ -388,10 +388,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "VISTA: A Visual Harness for Reasoning in an Interactive World"
-    },
-    {
       "kind": "paper",
       "title": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning"
     },
@@ -1386,6 +1382,10 @@
     {
       "kind": "explain",
       "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
