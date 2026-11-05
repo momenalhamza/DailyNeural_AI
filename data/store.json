@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.20784",
     "2609.20779",
     "2609.20776",
     "2609.20768",
@@ -249,7 +248,8 @@
     "2611.05372",
     "2611.05368",
     "2611.05358",
-    "2611.06914"
+    "2611.06914",
+    "2611.06912"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -388,10 +388,6 @@
     "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Cost-augmented Schrödinger bridges on graphs are exactly solvable: a Feynman-Kac tilt replaces learned control"
-    },
     {
       "kind": "paper",
       "title": "Hierarchical Continuous Diffusion Language Models"
@@ -1387,6 +1383,10 @@
     {
       "kind": "news",
       "title": "Securing the agentic enterprise with data lineage"
+    },
+    {
+      "kind": "explain",
+      "title": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors"
     }
   ]
 }
