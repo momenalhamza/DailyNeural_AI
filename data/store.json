@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.22068",
     "2609.22067",
     "2609.22064",
     "2609.22056",
@@ -249,7 +248,8 @@
     "2611.08487",
     "2611.08483",
     "2611.08478",
-    "2611.08472"
+    "2611.08472",
+    "2611.08469"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -388,10 +388,6 @@
     "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Connecting AI agents to enterprise knowledge"
-    },
     {
       "kind": "paper",
       "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes"
@@ -1387,6 +1383,10 @@
     {
       "kind": "paper",
       "title": "XStack: A Benchmark for ML Repo Migration"
+    },
+    {
+      "kind": "paper",
+      "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information"
     }
   ]
 }
