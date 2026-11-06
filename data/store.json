@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.20768",
     "2609.20765",
     "2609.20761",
     "2609.20758",
@@ -249,7 +248,8 @@
     "2611.06914",
     "2611.06912",
     "2611.06911",
-    "2611.06910"
+    "2611.06910",
+    "2611.06908"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -388,10 +388,6 @@
     "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "The Missing Primitive: Diagnosing and Repairing Mathematical Reasoning in Large Language Models"
-    },
     {
       "kind": "paper",
       "title": "Trust the Direction, Search the Step: Zero-and-First-Order Methods for LLM Fine-Tuning"
@@ -1387,6 +1383,10 @@
     {
       "kind": "paper",
       "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research"
+    },
+    {
+      "kind": "paper",
+      "title": "Perceptive Humanoid Motion from Simulation"
     }
   ]
 }
