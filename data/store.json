@@ -389,10 +389,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation"
-    },
-    {
       "kind": "explain",
       "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis"
     },
@@ -1387,6 +1383,10 @@
     {
       "kind": "paper",
       "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
