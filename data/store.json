@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.20761",
     "2609.20758",
     "2609.22086",
     "2609.22068",
@@ -249,7 +248,8 @@
     "2611.06911",
     "2611.06910",
     "2611.06908",
-    "2611.08487"
+    "2611.08487",
+    "2611.08483"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -388,10 +388,6 @@
     "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features"
-    },
     {
       "kind": "paper",
       "title": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation"
@@ -1387,6 +1383,10 @@
     {
       "kind": "explain",
       "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes"
+    },
+    {
+      "kind": "paper",
+      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization"
     }
   ]
 }
