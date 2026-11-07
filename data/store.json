@@ -390,10 +390,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics"
-    },
-    {
-      "kind": "paper",
       "title": "Robot Learning with Visual Predicted Force"
     },
     {
@@ -1387,6 +1383,10 @@
     {
       "kind": "paper",
       "title": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
