@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.22064",
     "2609.22056",
     "2609.25001",
     "2609.24985",
@@ -249,7 +248,8 @@
     "2611.08478",
     "2611.08472",
     "2611.08469",
-    "2611.08465"
+    "2611.08465",
+    "2611.08457"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -388,10 +388,6 @@
     "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation"
-    },
     {
       "kind": "paper",
       "title": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics"
@@ -1387,6 +1383,10 @@
     {
       "kind": "explain",
       "title": "Towards interpreting any residual stream direction by scaling activation inversion"
+    },
+    {
+      "kind": "paper",
+      "title": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness"
     }
   ]
 }
