@@ -389,10 +389,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Robot Learning with Visual Predicted Force"
-    },
-    {
       "kind": "explain",
       "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline"
     },
@@ -1383,6 +1379,10 @@
     {
       "kind": "paper",
       "title": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
