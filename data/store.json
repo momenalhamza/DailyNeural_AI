@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.26780",
     "2609.26779",
     "2609.26777",
     "2609.26761",
@@ -249,7 +248,8 @@
     "2611.08445",
     "2611.08439",
     "2611.08438",
-    "2611.08433"
+    "2611.08433",
+    "2611.08428"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -390,10 +390,6 @@
     "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "news",
       "title": "EmTech Future 2026: When AI Meets Everything"
@@ -1389,6 +1385,10 @@
     {
       "kind": "explain",
       "title": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue"
+    },
+    {
+      "kind": "paper",
+      "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI"
     }
   ]
 }
