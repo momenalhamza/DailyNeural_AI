@@ -390,10 +390,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Recursive Video In-Context Learning for Agentic Robot"
-    },
-    {
       "kind": "explain",
       "title": "QF3: Fast Flow RL with Filtered Q-Gradients"
     },
@@ -1384,6 +1380,10 @@
     {
       "kind": "paper",
       "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
