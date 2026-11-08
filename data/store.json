@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.24983",
     "2609.26783",
     "2609.26780",
     "2609.26779",
@@ -249,7 +248,8 @@
     "2611.08453",
     "2611.08452",
     "2611.08445",
-    "2611.08439"
+    "2611.08439",
+    "2611.08438"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -389,10 +389,6 @@
     "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance"
-    },
     {
       "kind": "paper",
       "title": "Learning to Read the Contextual Tokens in Diffusion Transformers"
@@ -1388,6 +1384,10 @@
     {
       "kind": "explain",
       "title": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes"
+    },
+    {
+      "kind": "paper",
+      "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety"
     }
   ]
 }
