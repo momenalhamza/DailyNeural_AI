@@ -391,10 +391,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "Learning to Read the Contextual Tokens in Diffusion Transformers"
-    },
-    {
-      "kind": "paper",
       "title": "Recursive Video In-Context Learning for Agentic Robot"
     },
     {
@@ -1388,6 +1384,10 @@
     {
       "kind": "paper",
       "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
