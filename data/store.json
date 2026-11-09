@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.26777",
     "2609.26761",
     "2609.28473",
     "2609.28471",
@@ -249,7 +248,8 @@
     "2611.08438",
     "2611.08433",
     "2611.08428",
-    "2611.08425"
+    "2611.08425",
+    "2611.09892"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -390,10 +390,6 @@
     "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction"
-    },
     {
       "kind": "paper",
       "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas"
@@ -1389,6 +1385,10 @@
     {
       "kind": "paper",
       "title": "Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing"
+    },
+    {
+      "kind": "paper",
+      "title": "On Agentic Manipulation Policies"
     }
   ]
 }
