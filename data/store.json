@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.26761",
     "2609.28473",
     "2609.28471",
     "2609.28470",
@@ -249,7 +248,8 @@
     "2611.08433",
     "2611.08428",
     "2611.08425",
-    "2611.09892"
+    "2611.09892",
+    "2611.09891"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -391,10 +391,6 @@
     "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "DepthWorld: 3D World Model for Robot Manipulation"
-    },
     {
       "kind": "paper",
       "title": "Sherpa: Teaching LLMs to Teach Adaptively"
@@ -1390,6 +1386,10 @@
     {
       "kind": "news",
       "title": "Nancy Pelosi’s replacement is ready to regulate AI"
+    },
+    {
+      "kind": "explain",
+      "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse"
     }
   ]
 }
