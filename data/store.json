@@ -387,13 +387,10 @@
     "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
     "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
     "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-    "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/"
+    "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+    "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas"
-    },
     {
       "kind": "paper",
       "title": "DepthWorld: 3D World Model for Robot Manipulation"
@@ -1389,6 +1386,10 @@
     {
       "kind": "paper",
       "title": "On Agentic Manipulation Policies"
+    },
+    {
+      "kind": "news",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI"
     }
   ]
 }
