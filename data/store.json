@@ -393,10 +393,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping"
-    },
-    {
-      "kind": "paper",
       "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models"
     },
     {
@@ -1386,6 +1382,10 @@
     {
       "kind": "explain",
       "title": "Guiding Data Allocation for Robust Subpopulation Generalization"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
