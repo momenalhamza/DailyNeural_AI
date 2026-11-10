@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.28459",
     "2609.28449",
     "2609.30266",
     "2609.30264",
@@ -249,7 +248,8 @@
     "2611.09887",
     "2611.09882",
     "2611.09878",
-    "2611.09872"
+    "2611.09872",
+    "2611.10501"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -391,10 +391,6 @@
     "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon"
-    },
     {
       "kind": "news",
       "title": "Building a safer path to autonomous industrial AI"
@@ -1390,6 +1386,10 @@
     {
       "kind": "paper",
       "title": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning"
+    },
+    {
+      "kind": "paper",
+      "title": "Sampling Is Not Curiosity: Why LLM Agents Should Investigate"
     }
   ]
 }
