@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.30266",
     "2609.30264",
     "2609.30258",
     "2609.30250",
@@ -249,7 +248,8 @@
     "2611.09878",
     "2611.09872",
     "2611.10501",
-    "2611.12884"
+    "2611.12884",
+    "2611.12880"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -392,10 +392,6 @@
     "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "CSF: Contextual Safety Filtering for Motion Generators"
-    },
     {
       "kind": "paper",
       "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot"
@@ -1391,6 +1387,10 @@
     {
       "kind": "news",
       "title": "The backlash about data centers might really just be about electricity"
+    },
+    {
+      "kind": "explain",
+      "title": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics"
     }
   ]
 }
