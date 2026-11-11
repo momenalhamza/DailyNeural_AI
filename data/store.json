@@ -393,10 +393,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
-    },
-    {
       "kind": "paper",
       "title": "BrickBench: Evaluating Agentic Brick Design"
     },
@@ -1391,6 +1387,10 @@
     {
       "kind": "paper",
       "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
