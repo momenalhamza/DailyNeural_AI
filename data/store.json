@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.30222",
     "2609.30219",
     "2609.30218",
     "2609.30217",
@@ -249,7 +248,8 @@
     "2611.14518",
     "2611.14516",
     "2611.14515",
-    "2611.14514"
+    "2611.14514",
+    "2611.14511"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -393,10 +393,6 @@
     "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception"
-    },
     {
       "kind": "explain",
       "title": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization"
@@ -1392,6 +1388,10 @@
     {
       "kind": "paper",
       "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations"
+    },
+    {
+      "kind": "paper",
+      "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents"
     }
   ]
 }
