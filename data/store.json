@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.30218",
     "2609.30217",
     "2609.30215",
     "2609.30214",
@@ -249,7 +248,8 @@
     "2611.14515",
     "2611.14514",
     "2611.14511",
-    "2611.14508"
+    "2611.14508",
+    "2611.14505"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -394,10 +394,6 @@
     "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1393,6 +1389,10 @@
     {
       "kind": "news",
       "title": "Stop counting tokens, start counting what ships"
+    },
+    {
+      "kind": "paper",
+      "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime"
     }
   ]
 }
