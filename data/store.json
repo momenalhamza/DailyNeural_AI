@@ -394,10 +394,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff"
-    },
-    {
       "kind": "paper",
       "title": "VioLA: Learning Generalist Humanoid Control Policies from Human Data"
     },
@@ -1388,6 +1384,10 @@
     {
       "kind": "paper",
       "title": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
