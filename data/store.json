@@ -394,10 +394,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Density Ratio Estimation with Stein Displacement Fields"
-    },
-    {
       "kind": "explain",
       "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff"
     },
@@ -1392,6 +1388,10 @@
     {
       "kind": "paper",
       "title": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
