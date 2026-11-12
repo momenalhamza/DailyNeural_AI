@@ -390,13 +390,10 @@
     "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
     "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
     "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-    "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
+    "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+    "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "VioLA: Learning Generalist Humanoid Control Policies from Human Data"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1392,6 +1389,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "Stop counting tokens, start counting what ships"
     }
   ]
 }
