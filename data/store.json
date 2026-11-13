@@ -395,10 +395,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Can Language Models Play the Wikipedia Game?"
-    },
-    {
       "kind": "concept",
       "title": "Neural Network"
     },
@@ -1393,6 +1389,10 @@
     {
       "kind": "paper",
       "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
