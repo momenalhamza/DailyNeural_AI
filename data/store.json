@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.30212",
     "2609.30210",
     "2609.31619",
     "2609.31614",
@@ -249,7 +248,8 @@
     "2611.14505",
     "2611.14504",
     "2611.14493",
-    "2611.14492"
+    "2611.14492",
+    "2611.17334"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -394,10 +394,6 @@
     "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments"
-    },
     {
       "kind": "paper",
       "title": "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching"
@@ -1393,6 +1389,10 @@
     {
       "kind": "paper",
       "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows"
+    },
+    {
+      "kind": "explain",
+      "title": "Unbundling Multimodal Vision Encoding"
     }
   ]
 }
