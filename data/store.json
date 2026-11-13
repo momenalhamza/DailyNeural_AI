@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.31614",
     "2609.31612",
     "2609.31607",
     "2609.35770",
@@ -249,7 +248,8 @@
     "2611.14492",
     "2611.17334",
     "2611.17332",
-    "2611.17329"
+    "2611.17329",
+    "2611.17323"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -394,10 +394,6 @@
     "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models"
-    },
     {
       "kind": "paper",
       "title": "Constructive Bounds for the Topological Expressivity of Neural Networks"
@@ -1393,6 +1389,10 @@
     {
       "kind": "paper",
       "title": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation"
+    },
+    {
+      "kind": "paper",
+      "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?"
     }
   ]
 }
