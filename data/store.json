@@ -396,10 +396,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning"
-    },
-    {
-      "kind": "paper",
       "title": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness"
     },
     {
@@ -1393,6 +1389,10 @@
     {
       "kind": "paper",
       "title": "Sketching Language Models for Context Attribution"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
