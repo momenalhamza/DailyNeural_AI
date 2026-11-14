@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.35769",
     "2609.35768",
     "2609.35767",
     "2609.35763",
@@ -249,7 +248,8 @@
     "2611.17323",
     "2611.17316",
     "2611.17314",
-    "2611.17313"
+    "2611.17313",
+    "2611.17309"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -395,10 +395,6 @@
     "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1394,6 +1390,10 @@
     {
       "kind": "news",
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility"
+    },
+    {
+      "kind": "explain",
+      "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models"
     }
   ]
 }
