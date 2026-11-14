@@ -395,10 +395,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness"
-    },
-    {
       "kind": "explain",
       "title": "Designing Protein Structures from Natural Language"
     },
@@ -1389,6 +1385,10 @@
     {
       "kind": "paper",
       "title": "Sketching Language Models for Context Attribution"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
