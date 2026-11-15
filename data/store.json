@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.38178",
     "2609.38176",
     "2609.38169",
     "2609.38166",
@@ -249,7 +248,8 @@
     "2611.17309",
     "2611.17308",
     "2611.17303",
-    "2611.17302"
+    "2611.17302",
+    "2611.17298"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -395,10 +395,6 @@
     "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Hitting-Time Bounds for Asynchronous Q-Learning"
-    },
     {
       "kind": "paper",
       "title": "Task Context Shapes Component Roles in Language Models"
@@ -1394,6 +1390,10 @@
     {
       "kind": "explain",
       "title": "FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification"
+    },
+    {
+      "kind": "paper",
+      "title": "Consistent Video-to-Video Translation via Explicit Correspondences"
     }
   ]
 }
