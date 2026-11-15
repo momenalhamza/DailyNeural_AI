@@ -397,10 +397,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "Task Context Shapes Component Roles in Language Models"
-    },
-    {
-      "kind": "paper",
       "title": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics"
     },
     {
@@ -1394,6 +1390,10 @@
     {
       "kind": "paper",
       "title": "Consistent Video-to-Video Translation via Explicit Correspondences"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
