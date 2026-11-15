@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.40361",
     "2609.40360",
     "2609.40359",
     "2609.40356",
@@ -249,7 +248,8 @@
     "2611.17298",
     "2611.17297",
     "2611.17294",
-    "2611.17287"
+    "2611.17287",
+    "2611.17280"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -395,10 +395,6 @@
     "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1394,6 +1390,10 @@
     {
       "kind": "explain",
       "title": "Negative-Only Policy Optimization for One-Sided Verifiable Rewards"
+    },
+    {
+      "kind": "paper",
+      "title": "Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs"
     }
   ]
 }
