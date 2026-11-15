@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.35763",
     "2609.38178",
     "2609.38176",
     "2609.38169",
@@ -249,7 +248,8 @@
     "2611.17313",
     "2611.17309",
     "2611.17308",
-    "2611.17303"
+    "2611.17303",
+    "2611.17302"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -395,10 +395,6 @@
     "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping"
-    },
     {
       "kind": "paper",
       "title": "Hitting-Time Bounds for Asynchronous Q-Learning"
@@ -1394,6 +1390,10 @@
     {
       "kind": "paper",
       "title": "Towards a Theory of Learnability via Debate"
+    },
+    {
+      "kind": "explain",
+      "title": "FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification"
     }
   ]
 }
