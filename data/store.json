@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.38169",
     "2609.38166",
     "2609.40361",
     "2609.40360",
@@ -249,7 +248,8 @@
     "2611.17303",
     "2611.17302",
     "2611.17298",
-    "2611.17297"
+    "2611.17297",
+    "2611.17294"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -395,10 +395,6 @@
     "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "AI labs are buying data from dead startups to train their models"
-    },
     {
       "kind": "explain",
       "title": "ChunkAct: Action Chunking for Agentic Robotics"
@@ -1394,6 +1390,10 @@
     {
       "kind": "paper",
       "title": "Goal Encoding in LLMs"
+    },
+    {
+      "kind": "paper",
+      "title": "Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon"
     }
   ]
 }
