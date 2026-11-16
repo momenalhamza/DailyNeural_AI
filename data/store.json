@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.40359",
     "2609.40356",
     "2609.40347",
     "2610.02207",
@@ -249,7 +248,8 @@
     "2611.17294",
     "2611.17287",
     "2611.17280",
-    "2611.17267"
+    "2611.17267",
+    "2611.18563"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -395,10 +395,6 @@
     "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study"
-    },
     {
       "kind": "explain",
       "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards"
@@ -1394,6 +1390,10 @@
     {
       "kind": "paper",
       "title": "LiveGeo: Benchmarking Geographic Agents in Continuously Evolving Worlds"
+    },
+    {
+      "kind": "paper",
+      "title": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion"
     }
   ]
 }
