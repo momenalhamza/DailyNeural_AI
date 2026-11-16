@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2609.40347",
     "2610.02207",
     "2610.02206",
     "2610.02204",
@@ -249,7 +248,8 @@
     "2611.17280",
     "2611.17267",
     "2611.18563",
-    "2611.18561"
+    "2611.18561",
+    "2611.18562"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -397,10 +397,6 @@
     "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion"
-    },
     {
       "kind": "explain",
       "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance"
@@ -1396,6 +1392,10 @@
     {
       "kind": "paper",
       "title": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices"
+    },
+    {
+      "kind": "paper",
+      "title": "Training Reasoning Models in Simulation to Natively Use Real Robots"
     }
   ]
 }
