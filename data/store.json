@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.02201",
     "2610.02200",
     "2610.02199",
     "2610.02198",
@@ -249,7 +248,8 @@
     "2611.19218",
     "2611.21608",
     "2611.21605",
-    "2611.21602"
+    "2611.21602",
+    "2611.21600"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -398,10 +398,6 @@
     "https://www.technologyreview.com/2026/11/17/1148203/research-reports/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Discovering state-of-the-art quantum circuits with large language models"
-    },
     {
       "kind": "paper",
       "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models"
@@ -1397,6 +1393,10 @@
     {
       "kind": "paper",
       "title": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction"
+    },
+    {
+      "kind": "paper",
+      "title": "How VLMs Plan What's Next"
     }
   ]
 }
