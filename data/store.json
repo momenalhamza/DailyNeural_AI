@@ -394,13 +394,10 @@
     "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
     "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
     "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-    "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
+    "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "https://www.technologyreview.com/2026/11/17/1148203/research-reports/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Continuum Attention"
-    },
     {
       "kind": "paper",
       "title": "Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes"
@@ -1396,6 +1393,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "Research Reports"
     }
   ]
 }
