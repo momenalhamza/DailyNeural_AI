@@ -398,10 +398,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Co-Evolving Acting and Forecasting for Language Agents"
-    },
-    {
       "kind": "concept",
       "title": "Neural Network"
     },
@@ -1396,6 +1392,10 @@
     {
       "kind": "paper",
       "title": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
