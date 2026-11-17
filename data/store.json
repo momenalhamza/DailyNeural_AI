@@ -398,10 +398,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Price of Anarchy of First-Price Auctions in Agentic Markets"
-    },
-    {
       "kind": "explain",
       "title": "Continuum Attention"
     },
@@ -1396,6 +1392,10 @@
     {
       "kind": "paper",
       "title": "Latent Lattice Language Models"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
