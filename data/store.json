@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.02198",
     "2610.02195",
     "2610.02193",
     "2610.02191",
@@ -249,7 +248,8 @@
     "2611.21602",
     "2611.21600",
     "2611.21599",
-    "2611.21598"
+    "2611.21598",
+    "2611.23229"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -398,10 +398,6 @@
     "https://www.technologyreview.com/2026/11/17/1148203/research-reports/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "paper",
       "title": "CoDA: Co-Evolution of Data Engines and Action Policies"
@@ -1397,6 +1393,10 @@
     {
       "kind": "paper",
       "title": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent"
+    },
+    {
+      "kind": "paper",
+      "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching"
     }
   ]
 }
