@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.02195",
     "2610.02193",
     "2610.02191",
     "2610.02190",
@@ -249,7 +248,8 @@
     "2611.21600",
     "2611.21599",
     "2611.21598",
-    "2611.23229"
+    "2611.23229",
+    "2611.23228"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -399,10 +399,6 @@
     "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories"
-    },
     {
       "kind": "explain",
       "title": "Rethinking Routing Exploration in Modern Mixture-of-Experts"
@@ -1398,6 +1394,10 @@
     {
       "kind": "news",
       "title": "The AI Hype Index: AI is everywhere"
+    },
+    {
+      "kind": "explain",
+      "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models"
     }
   ]
 }
