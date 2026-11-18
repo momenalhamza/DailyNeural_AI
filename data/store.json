@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.02200",
     "2610.02199",
     "2610.02198",
     "2610.02195",
@@ -249,7 +248,8 @@
     "2611.21608",
     "2611.21605",
     "2611.21602",
-    "2611.21600"
+    "2611.21600",
+    "2611.21599"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -398,10 +398,6 @@
     "https://www.technologyreview.com/2026/11/17/1148203/research-reports/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1397,6 +1393,10 @@
     {
       "kind": "paper",
       "title": "How VLMs Plan What's Next"
+    },
+    {
+      "kind": "paper",
+      "title": "Hyperlyve: Parallelized Enumeration and Exact Lyapunov Stability Certification for Deep ReLU Networks"
     }
   ]
 }
