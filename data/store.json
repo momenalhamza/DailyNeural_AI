@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.02191",
     "2610.02190",
     "2610.02189",
     "2610.02188",
@@ -249,7 +248,8 @@
     "2611.21598",
     "2611.23229",
     "2611.23228",
-    "2611.23225"
+    "2611.23225",
+    "2611.23221"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -399,10 +399,6 @@
     "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "FDE-Gym: The Last Mile of AI Delivery"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1398,6 +1394,10 @@
     {
       "kind": "paper",
       "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics"
+    },
+    {
+      "kind": "paper",
+      "title": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization"
     }
   ]
 }
