@@ -395,13 +395,10 @@
     "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
     "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
     "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-    "https://www.technologyreview.com/2026/11/17/1148203/research-reports/"
+    "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+    "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
-    },
     {
       "kind": "explain",
       "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories"
@@ -1397,6 +1394,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "The AI Hype Index: AI is everywhere"
     }
   ]
 }
