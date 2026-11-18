@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.02190",
     "2610.02189",
     "2610.02188",
     "2610.03717",
@@ -249,7 +248,8 @@
     "2611.23229",
     "2611.23228",
     "2611.23225",
-    "2611.23221"
+    "2611.23221",
+    "2611.23219"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -399,10 +399,6 @@
     "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "paper",
       "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering"
@@ -1398,6 +1394,10 @@
     {
       "kind": "paper",
       "title": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization"
+    },
+    {
+      "kind": "paper",
+      "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?"
     }
   ]
 }
