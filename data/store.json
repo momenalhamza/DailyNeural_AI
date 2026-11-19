@@ -401,10 +401,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "3DCodeVerse: Exploring 3D Worlds as Code"
-    },
-    {
-      "kind": "paper",
       "title": "Dexterity from Supervised Play"
     },
     {
@@ -1398,6 +1394,10 @@
     {
       "kind": "paper",
       "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
