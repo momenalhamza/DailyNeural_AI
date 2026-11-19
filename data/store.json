@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.02189",
     "2610.02188",
     "2610.03717",
     "2610.03715",
@@ -249,7 +248,8 @@
     "2611.23228",
     "2611.23225",
     "2611.23221",
-    "2611.23219"
+    "2611.23219",
+    "2611.23218"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -399,10 +399,6 @@
     "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering"
-    },
     {
       "kind": "paper",
       "title": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling"
@@ -1398,6 +1394,10 @@
     {
       "kind": "paper",
       "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?"
+    },
+    {
+      "kind": "paper",
+      "title": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution"
     }
   ]
 }
