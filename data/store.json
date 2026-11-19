@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.03715",
     "2610.03713",
     "2610.03712",
     "2610.04741",
@@ -249,7 +248,8 @@
     "2611.23219",
     "2611.23218",
     "2611.24932",
-    "2611.24927"
+    "2611.24927",
+    "2611.24924"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -400,10 +400,6 @@
     "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Robust Reinforcement Learning for Dynamic Treatment Regimes under Model and Measurement Uncertainty"
-    },
     {
       "kind": "paper",
       "title": "Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Languages?"
@@ -1399,6 +1395,10 @@
     {
       "kind": "explain",
       "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem"
+    },
+    {
+      "kind": "paper",
+      "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses"
     }
   ]
 }
