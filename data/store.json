@@ -401,10 +401,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning"
-    },
-    {
       "kind": "explain",
       "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers"
     },
@@ -1399,6 +1395,10 @@
     {
       "kind": "paper",
       "title": "RL Post-Training in Diffusion Transformers Is Activation Steering"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
