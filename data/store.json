@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.06846",
     "2610.06844",
     "2610.06843",
     "2610.08789",
@@ -249,7 +248,8 @@
     "2611.24896",
     "2611.24892",
     "2611.26627",
-    "2611.26624"
+    "2611.26624",
+    "2611.26619"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -401,10 +401,6 @@
     "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "news",
       "title": "Making the internet better for AI agents might make it worse for everyone else"
@@ -1400,6 +1396,10 @@
     {
       "kind": "paper",
       "title": "PlayCraft: Designing Engaging Games from Agent Play Experience"
+    },
+    {
+      "kind": "paper",
+      "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming"
     }
   ]
 }
