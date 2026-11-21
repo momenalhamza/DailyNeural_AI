@@ -402,10 +402,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery"
-    },
-    {
       "kind": "paper",
       "title": "Task-aligned spectral inductive biases in parameterized quantum circuits"
     },
@@ -1400,6 +1396,10 @@
     {
       "kind": "paper",
       "title": "Bio-PM-Guided Synthetic IMU Generation"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
