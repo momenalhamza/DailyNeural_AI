@@ -402,10 +402,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distillation"
-    },
-    {
       "kind": "news",
       "title": "A visit to Samsung’s massive new semiconductor hub"
     },
@@ -1400,6 +1396,10 @@
     {
       "kind": "paper",
       "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
