@@ -398,13 +398,10 @@
     "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
     "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
     "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-    "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/"
+    "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+    "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "A visit to Samsung’s massive new semiconductor hub"
-    },
     {
       "kind": "explain",
       "title": "Text-to-Image Generative Modeling Without Language Pretraining"
@@ -1400,6 +1397,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "The most misunderstood graph in AI just got a major update"
     }
   ]
 }
