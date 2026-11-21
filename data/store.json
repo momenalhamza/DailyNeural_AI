@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.06843",
     "2610.08789",
     "2610.08785",
     "2610.08782",
@@ -249,7 +248,8 @@
     "2611.26627",
     "2611.26624",
     "2611.26619",
-    "2611.26617"
+    "2611.26617",
+    "2611.26607"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -401,10 +401,6 @@
     "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world"
-    },
     {
       "kind": "explain",
       "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery"
@@ -1400,6 +1396,10 @@
     {
       "kind": "paper",
       "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning"
+    },
+    {
+      "kind": "paper",
+      "title": "Bio-PM-Guided Synthetic IMU Generation"
     }
   ]
 }
