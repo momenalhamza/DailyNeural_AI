@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.10526",
     "2610.12467",
     "2610.12466",
     "2610.12465",
@@ -249,7 +248,8 @@
     "2611.26588",
     "2611.26586",
     "2611.26584",
-    "2611.26569"
+    "2611.26569",
+    "2611.26564"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -402,10 +402,6 @@
     "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "paper",
       "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking"
@@ -1401,6 +1397,10 @@
     {
       "kind": "paper",
       "title": "Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs"
+    },
+    {
+      "kind": "paper",
+      "title": "GEOHunter: Mapping a Generative Engine Optimization Network in the Wild"
     }
   ]
 }
