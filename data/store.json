@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.10536",
     "2610.10528",
     "2610.10527",
     "2610.10526",
@@ -249,7 +248,8 @@
     "2611.26596",
     "2611.26592",
     "2611.26590",
-    "2611.26588"
+    "2611.26588",
+    "2611.26586"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -402,10 +402,6 @@
     "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”"
-    },
     {
       "kind": "explain",
       "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs"
@@ -1401,6 +1397,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "ProtoDiffusion: Token-per-Layer Generative Modeling of Multi-Layer Images"
     }
   ]
 }
