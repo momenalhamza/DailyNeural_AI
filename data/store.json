@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.08778",
     "2610.10538",
     "2610.10536",
     "2610.10528",
@@ -249,7 +248,8 @@
     "2611.26601",
     "2611.26598",
     "2611.26596",
-    "2611.26592"
+    "2611.26592",
+    "2611.26590"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -402,10 +402,6 @@
     "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "AI adoption by industry shows what other sectors can learn"
-    },
     {
       "kind": "explain",
       "title": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation"
@@ -1401,6 +1397,10 @@
     {
       "kind": "paper",
       "title": "Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning"
+    },
+    {
+      "kind": "paper",
+      "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models"
     }
   ]
 }
