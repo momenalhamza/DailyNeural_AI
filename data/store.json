@@ -403,10 +403,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting"
-    },
-    {
       "kind": "news",
       "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”"
     },
@@ -1401,6 +1397,10 @@
     {
       "kind": "paper",
       "title": "Verify the Verifier: Specification-Grounded LLM Cross-Checking for Bugs That Escape UVM Scoreboards"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
