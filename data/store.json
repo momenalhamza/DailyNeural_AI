@@ -404,10 +404,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking"
-    },
-    {
-      "kind": "paper",
       "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control"
     },
     {
@@ -1401,6 +1397,10 @@
     {
       "kind": "paper",
       "title": "GEOHunter: Mapping a Generative Engine Optimization Network in the Wild"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
