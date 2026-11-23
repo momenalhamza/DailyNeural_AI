@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.12466",
     "2610.12465",
     "2610.12463",
     "2610.12452",
@@ -249,7 +248,8 @@
     "2611.26584",
     "2611.26569",
     "2611.26564",
-    "2611.27983"
+    "2611.27983",
+    "2611.27978"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -403,10 +403,6 @@
     "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Making the case for context-aware AI"
-    },
     {
       "kind": "explain",
       "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data"
@@ -1402,6 +1398,10 @@
     {
       "kind": "paper",
       "title": "Optimal Linear Regression Without a Variance"
+    },
+    {
+      "kind": "paper",
+      "title": "A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning"
     }
   ]
 }
