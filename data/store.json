@@ -403,10 +403,6 @@
   ],
   "history": [
     {
-      "kind": "paper",
-      "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control"
-    },
-    {
       "kind": "explain",
       "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets"
     },
@@ -1397,6 +1393,10 @@
     {
       "kind": "paper",
       "title": "GEOHunter: Mapping a Generative Engine Optimization Network in the Wild"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
