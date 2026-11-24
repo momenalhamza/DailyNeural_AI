@@ -404,10 +404,6 @@
   ],
   "history": [
     {
-      "kind": "news",
-      "title": "The Foundations of Scalable AI"
-    },
-    {
       "kind": "explain",
       "title": "PhysiCalWorld: In-Context Physics Calibration for World Models"
     },
@@ -1402,6 +1398,10 @@
     {
       "kind": "paper",
       "title": "When Does Fine-Tuning Beat Prompting for Qiskit-to-CUDA-Q Translation? An Execution-Verified Study"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
