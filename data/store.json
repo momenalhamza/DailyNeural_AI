@@ -400,13 +400,10 @@
     "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
     "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
     "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-    "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+    "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+    "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "PhysiCalWorld: In-Context Physics Calibration for World Models"
-    },
     {
       "kind": "paper",
       "title": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions"
@@ -1402,6 +1399,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "news",
+      "title": "Raising the stakes for enterprise networks with AI modernization"
     }
   ]
 }
