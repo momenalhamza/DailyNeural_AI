@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.12448",
     "2610.12449",
     "2610.12445",
     "2610.12444",
@@ -249,7 +248,8 @@
     "2611.27978",
     "2611.27970",
     "2611.28671",
-    "2611.28669"
+    "2611.28669",
+    "2611.29793"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -403,10 +403,6 @@
     "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "AI’s hidden storage bill: What inference leaves behind"
-    },
     {
       "kind": "news",
       "title": "The Foundations of Scalable AI"
@@ -1402,6 +1398,10 @@
     {
       "kind": "paper",
       "title": "Physical regime changes expose formula misuse in large language models"
+    },
+    {
+      "kind": "paper",
+      "title": "When Does Fine-Tuning Beat Prompting for Qiskit-to-CUDA-Q Translation? An Execution-Verified Study"
     }
   ]
 }
