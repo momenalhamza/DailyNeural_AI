@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.12449",
     "2610.12445",
     "2610.12444",
     "2610.12437",
@@ -249,7 +248,8 @@
     "2611.27970",
     "2611.28671",
     "2611.28669",
-    "2611.29793"
+    "2611.29793",
+    "2611.31240"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -404,10 +404,6 @@
     "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions"
-    },
     {
       "kind": "news",
       "title": "Designing an AI serving harness built to last"
@@ -1403,6 +1399,10 @@
     {
       "kind": "news",
       "title": "Raising the stakes for enterprise networks with AI modernization"
+    },
+    {
+      "kind": "explain",
+      "title": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action"
     }
   ]
 }
