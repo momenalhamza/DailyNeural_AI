@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.12444",
     "2610.12437",
     "2610.12436",
     "2610.12435",
@@ -249,7 +248,8 @@
     "2611.28669",
     "2611.29793",
     "2611.31240",
-    "2611.31237"
+    "2611.31237",
+    "2611.31233"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -404,10 +404,6 @@
     "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success"
-    },
     {
       "kind": "paper",
       "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning"
@@ -1403,6 +1399,10 @@
     {
       "kind": "paper",
       "title": "Let Vision-Language Models Generate Images through Their Representations"
+    },
+    {
+      "kind": "paper",
+      "title": "TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming"
     }
   ]
 }
