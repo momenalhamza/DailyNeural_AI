@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.12463",
     "2610.12452",
     "2610.12448",
     "2610.12449",
@@ -249,7 +248,8 @@
     "2611.26564",
     "2611.27983",
     "2611.27978",
-    "2611.27970"
+    "2611.27970",
+    "2611.28671"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -403,10 +403,6 @@
     "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1402,6 +1398,10 @@
     {
       "kind": "paper",
       "title": "On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals"
+    },
+    {
+      "kind": "paper",
+      "title": "The Evaluation Substrate Matters: Benchmarking Multi-Agent Serving Substrates"
     }
   ]
 }
