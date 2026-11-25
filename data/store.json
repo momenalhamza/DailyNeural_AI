@@ -406,10 +406,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "Reliable AI-Assisted Decisions via Selective Auditing"
-    },
-    {
-      "kind": "paper",
       "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing"
     },
     {
@@ -1403,6 +1399,10 @@
     {
       "kind": "paper",
       "title": "Within-task hazards of AI agents: unidentified by time-horizon curves, identified by repeated runs"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
