@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.12424",
     "2610.12421",
     "2610.13948",
     "2610.13935",
@@ -249,7 +248,8 @@
     "2611.31227",
     "2611.32415",
     "2611.33158",
-    "2611.33151"
+    "2611.33151",
+    "2611.33141"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -405,10 +405,6 @@
     "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1404,6 +1400,10 @@
     {
       "kind": "paper",
       "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles"
+    },
+    {
+      "kind": "paper",
+      "title": "iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction"
     }
   ]
 }
