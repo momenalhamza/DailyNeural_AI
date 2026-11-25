@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.12436",
     "2610.12435",
     "2610.12432",
     "2610.12428",
@@ -249,7 +248,8 @@
     "2611.31240",
     "2611.31237",
     "2611.31233",
-    "2611.31228"
+    "2611.31228",
+    "2611.31227"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -404,10 +404,6 @@
     "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
   ],
   "history": [
-    {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
     {
       "kind": "paper",
       "title": "Phase Transition from Random Features to Fully Trainable Networks"
@@ -1403,6 +1399,10 @@
     {
       "kind": "paper",
       "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ"
+    },
+    {
+      "kind": "paper",
+      "title": "How Far Can Linear Go? BiPert, a Unified Framework for Single-Cell Perturbation Modelling"
     }
   ]
 }
