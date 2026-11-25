@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.12432",
     "2610.12428",
     "2610.12424",
     "2610.12421",
@@ -249,7 +248,8 @@
     "2611.31233",
     "2611.31228",
     "2611.31227",
-    "2611.32415"
+    "2611.32415",
+    "2611.33158"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -405,10 +405,6 @@
     "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
   ],
   "history": [
-    {
-      "kind": "explain",
-      "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification"
-    },
     {
       "kind": "explain",
       "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning"
@@ -1404,6 +1400,10 @@
     {
       "kind": "news",
       "title": "AI is straining America’s open records systems"
+    },
+    {
+      "kind": "paper",
+      "title": "OmniAct: One Policy, One Million Embodiments"
     }
   ]
 }
