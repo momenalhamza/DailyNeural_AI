@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.12421",
     "2610.13948",
     "2610.13935",
     "2610.13931",
@@ -249,7 +248,8 @@
     "2611.32415",
     "2611.33158",
     "2611.33151",
-    "2611.33141"
+    "2611.33141",
+    "2611.33133"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -405,10 +405,6 @@
     "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "Low-Bit N-Gram Embeddings for Language Models"
-    },
     {
       "kind": "paper",
       "title": "A Fix for Softmax and Cross-Entropy"
@@ -1404,6 +1400,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit"
     }
   ]
 }
