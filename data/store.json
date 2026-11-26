@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.13935",
     "2610.13931",
     "2610.13928",
     "2610.13924",
@@ -249,7 +248,8 @@
     "2611.33151",
     "2611.33141",
     "2611.33133",
-    "2611.33749"
+    "2611.33749",
+    "2611.34942"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -405,10 +405,6 @@
     "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing"
-    },
     {
       "kind": "explain",
       "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3"
@@ -1404,6 +1400,10 @@
     {
       "kind": "concept",
       "title": "Neural Network"
+    },
+    {
+      "kind": "paper",
+      "title": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning"
     }
   ]
 }
