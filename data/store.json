@@ -407,10 +407,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation"
-    },
-    {
-      "kind": "paper",
       "title": "BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing"
     },
     {
@@ -1404,6 +1400,10 @@
     {
       "kind": "paper",
       "title": "Teaching Students to Stand on Their Own: Distilling Vision Foundation Models for Fine-Grained Few-Shot Class-Incremental Learning"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
