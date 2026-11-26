@@ -406,10 +406,6 @@
   ],
   "history": [
     {
-      "kind": "concept",
-      "title": "Neural Network"
-    },
-    {
       "kind": "paper",
       "title": "Low-Bit N-Gram Embeddings for Language Models"
     },
@@ -1404,6 +1400,10 @@
     {
       "kind": "paper",
       "title": "iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
