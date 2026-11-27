@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.13909",
     "2610.13901",
     "2610.13895",
     "2610.13889",
@@ -249,7 +248,8 @@
     "2611.34934",
     "2611.34930",
     "2611.34928",
-    "2611.34923"
+    "2611.34923",
+    "2611.34920"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -405,10 +405,6 @@
     "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms"
-    },
     {
       "kind": "concept",
       "title": "Neural Network"
@@ -1404,6 +1400,10 @@
     {
       "kind": "paper",
       "title": "Mixture-of-Loops Transformer"
+    },
+    {
+      "kind": "paper",
+      "title": "$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents"
     }
   ]
 }
