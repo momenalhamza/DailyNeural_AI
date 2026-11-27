@@ -406,10 +406,6 @@
   ],
   "history": [
     {
-      "kind": "explain",
-      "title": "CRANE: Post-Hoc Counterfactual Retrieval for Multimodal Classifiers"
-    },
-    {
       "kind": "paper",
       "title": "Simulated Control Evals"
     },
@@ -1404,6 +1400,10 @@
     {
       "kind": "paper",
       "title": "Diverse Alternative Reasoning Traces for Hard Math Problems"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     }
   ]
 }
