@@ -407,10 +407,6 @@
   "history": [
     {
       "kind": "paper",
-      "title": "Simulated Control Evals"
-    },
-    {
-      "kind": "paper",
       "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning"
     },
     {
@@ -1400,6 +1396,10 @@
     {
       "kind": "paper",
       "title": "Diverse Alternative Reasoning Traces for Hard Math Problems"
+    },
+    {
+      "kind": "concept",
+      "title": "Neural Network"
     },
     {
       "kind": "concept",
