@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.13918",
     "2610.13917",
     "2610.13909",
     "2610.13901",
@@ -249,7 +248,8 @@
     "2611.34938",
     "2611.34935",
     "2611.34934",
-    "2611.34930"
+    "2611.34930",
+    "2611.34928"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -405,10 +405,6 @@
     "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
   ],
   "history": [
-    {
-      "kind": "paper",
-      "title": "How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions"
-    },
     {
       "kind": "explain",
       "title": "CRANE: Post-Hoc Counterfactual Retrieval for Multimodal Classifiers"
@@ -1404,6 +1400,10 @@
     {
       "kind": "paper",
       "title": "A gene informed benchmark for BioScoring of pathology foundation models"
+    },
+    {
+      "kind": "paper",
+      "title": "Diverse Alternative Reasoning Traces for Hard Math Problems"
     }
   ]
 }
