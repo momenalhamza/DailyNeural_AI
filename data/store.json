@@ -1,6 +1,5 @@
 {
   "papers": [
-    "2610.13895",
     "2610.13889",
     "2610.18874",
     "2610.18871",
@@ -249,7 +248,8 @@
     "2611.34928",
     "2611.34923",
     "2611.34920",
-    "2611.34899"
+    "2611.34899",
+    "2611.34894"
   ],
   "news": [
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -405,10 +405,6 @@
     "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
   ],
   "history": [
-    {
-      "kind": "news",
-      "title": "Will the real Anthropic please stand up"
-    },
     {
       "kind": "news",
       "title": "The focus on AI safety disasters ignores everyday harms"
@@ -1404,6 +1400,10 @@
     {
       "kind": "paper",
       "title": "Enhancing Maritime Domain Awareness using Latent Space Representations"
+    },
+    {
+      "kind": "paper",
+      "title": "What a Drop Reveals: Sim-to-Real Material Estimation for Deformable Objects from Video"
     }
   ]
 }
